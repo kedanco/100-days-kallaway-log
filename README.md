@@ -47,3 +47,11 @@
 **Thoughts** Struggled with some of the exercises... one involving encoding duplicate strings, and one that needs to return the first non repeating letter. Realised that even though my code was able to resolve most, some special test cases came up and I needed to revise my strategy :/ a lot of time wasted but I think i'm getting used to a lot of the useful Ruby Magic Methods haha.
 
 **Link(s) to work**: http://codewars.com/
+
+### Day 7: 20th August Sunday, 2017
+
+**Today's Progress**: Did some reading on dojo materials, Wrote a basic Kopi<>English translation app!
+
+**Thoughts** So I cleared some of the homework videos we had on computational thinking, and also one link on advanced html/css. Think that's something I have to remind myself as I continue to learn. Then, managed to finish most of a basic app that translates between our singaporean 'kopi' ordering slangs to english! Has this conversation with some of them at lunch that some of us weren't sure what the slangs meant and we'll need to google to know it... Maybe this app can make life more convenient (there's already existing ones on android but I just felt like trying). You're welcome to download it, run it and see how it works :D
+
+**Link(s) to work**: https://github.com/kedanco/KopiTalk
