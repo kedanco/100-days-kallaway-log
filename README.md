@@ -56,3 +56,15 @@
 P.s. Used instance variables for the hashes involved but not sure if it's the right thing to do? If not, how do you access variables in another methods?
 
 **Link(s) to work**: https://github.com/kedanco/KopiTalk
+
+### Day 8: 21st August Sunday, 2017
+
+**Today's Progress**: (Alphacamp) Gone through Leetcode exercises, continued with TicTacToe exercise
+
+**Thoughts**: Managed to learn and review a lot today, I think it's great that Alpha Camp has time for the class to go through the code we did and learn from it together. We get to see different approaches and also understand how to make the code better in many ways - be it for readability, efficiency or just making things easier for ourselves.
+
+Almost done with the TicTacToe exercise! Great to see something coming together just from the first 2 weeks here - and especially because it's a new language that I haven't done before :) Really excited to commit more time to complete some mini-projects I have thought of! On a side note, can't wait to finally have the skills to develop my own site.
+
+Haven't been on FreeCodeCamp for awhile now. Wonder if I will have the time to continue and finish it within this course :/?
+
+**Link(s) to work**: 
