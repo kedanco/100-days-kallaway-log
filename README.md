@@ -68,3 +68,11 @@ Almost done with the TicTacToe exercise! Great to see something coming together 
 Haven't been on FreeCodeCamp for awhile now. Wonder if I will have the time to continue and finish it within this course :/?
 
 **Link(s) to work**: 
+
+### Day 9: 22nd August Tuesday, 2017
+
+**Today's Progress**: Back to basics with HTML & CSS, learned Flexbox
+
+**Thoughts**: I've always had this sense of doubt whenever I read complicated CSS or JS files - sometimes I feel I will never understand how the whole thing works. I guess it's finally time to get my HTML/CSS skills up. My JS skills will probably need some revising too...so much to do! Feels like I'm juggling multiple languages at once @.@
+
+**Link(s) to work**: http://flexboxfroggy.com/
