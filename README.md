@@ -76,3 +76,19 @@ Haven't been on FreeCodeCamp for awhile now. Wonder if I will have the time to c
 **Thoughts**: I've always had this sense of doubt whenever I read complicated CSS or JS files - sometimes I feel I will never understand how the whole thing works. I guess it's finally time to get my HTML/CSS skills up. My JS skills will probably need some revising too...so much to do! Feels like I'm juggling multiple languages at once @.@
 
 **Link(s) to work**: http://flexboxfroggy.com/
+
+### Day 10: 23rd August Wednesday, 2017
+
+**Today's Progress**: Continued with HTML & CSS basics, tried creating a basic website!
+
+**Thoughts**: Wow, totally forgot to update this log...Tired from the night before - stayed up late working on a 'page' for my domain. Finally got my own 'brand' domain name, set-up the hosting and got a 'Work in Progress' screen up! I've done previous websites before, but they were all local and I always wondered how much It'll take to setup your own site. It wasn't totally straightforward but it's cool that I finally did it! Also, finally had a proper explanation on the HTML CSS Box Model :)
+
+**Link(s) to work**: http://kedanco.com/
+
+### Day 11: 24th August Thursday, 2017
+
+**Today's Progress**: Bootstrap lesson! Attempted TicTacToe AI but failed :(
+
+**Thoughts**: After some hints from friends and a general online search, I found out that TicTacToe algorithm can actually be done using this Minimax Algorithm. Though, the process requires recursion and somehow my recursions don't get done correctly. If this was run in an IDE maybe it could be easier with the step-in debugging method (Like how Chrome Debugging can be used for javascript, go try it) but well, It'll take some time too. Can't fully understand the 
+
+**Link(s) to work**: http://kedanco.com/
