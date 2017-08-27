@@ -89,6 +89,30 @@ Haven't been on FreeCodeCamp for awhile now. Wonder if I will have the time to c
 
 **Today's Progress**: Bootstrap lesson! Attempted TicTacToe AI but failed :(
 
-**Thoughts**: After some hints from friends and a general online search, I found out that TicTacToe algorithm can actually be done using this Minimax Algorithm. Though, the process requires recursion and somehow my recursions don't get done correctly. If this was run in an IDE maybe it could be easier with the step-in debugging method (Like how Chrome Debugging can be used for javascript, go try it) but well, It'll take some time too. Can't fully understand the 
+**Thoughts**: After some hints from friends and a general online search, I found out that TicTacToe algorithm can actually be done using this Minimax Algorithm. Though, the process requires recursion and somehow my recursions don't get done correctly. If this was run in an IDE maybe it could be easier with the step-in debugging method (Like how Chrome Debugging can be used for javascript, go try it) but well, It'll take some time too. Can't fully understand the recursion process and how things went wrong but, oh well.
 
-**Link(s) to work**: http://kedanco.com/
+**Link(s) to work**: 
+
+### Day 12: 25th August Friday, 2017
+
+**Today's Progress**: Learned about Github Pages - used it to organise previous projects
+
+**Thoughts**: Always thought Github pages was only for a website page - then I realise Github allows each repo to have it's own page - thereby you're able to put each repo/project up on a website! 
+
+**Link(s) to work**: http://github.com/kedanco
+
+### Day 13: 26th August Saturday, 2017
+
+**Today's Progress**: Codewars exercise!
+
+**Thoughts**: Didn't have as much time these past few days - got busy preparing for Night Festival performances :/ Still glad I did some Ruby today - As always the 'model' answers part really amazes me. So much more to work on - but there's also the portfolio page. Crunch time!
+
+**Link(s) to work**: 
+
+### Day 14: 27th August Sunday, 2017
+
+**Today's Progress**: Worked on Portfolio Site!
+
+**Thoughts**: Wasted some time configuring the domain & email for my site... I need to stop getting distracted and focus on getting the content up first! Such a bad habit. Anyway, there's stuff that still required time to do, and there's open space on the website that I'm unsure what to fill up with... dance stuff? more info? Maybe I should look at some freelance portfolio sites for reference.
+
+**Link(s) to work**: http://kedanco.github.io/
