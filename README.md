@@ -116,3 +116,15 @@ Haven't been on FreeCodeCamp for awhile now. Wonder if I will have the time to c
 **Thoughts**: Wasted some time configuring the domain & email for my site... I need to stop getting distracted and focus on getting the content up first! Such a bad habit. Anyway, there's stuff that still required time to do, and there's open space on the website that I'm unsure what to fill up with... dance stuff? more info? Maybe I should look at some freelance portfolio sites for reference.
 
 **Link(s) to work**: http://kedanco.github.io/
+
+### Day 15: 28th August Monday, 2017
+
+**Today's Progress**: Review portfolio page, Ruby on Rails Webpage
+
+**Thoughts**: Today I saw how different teammates did up their portfolio - some were having different struggles, some similar to mine, some had really impressive pages. Reflecting on my progress so far, I really need to put more time & effort into it to push myself - I know how much higher I can achieve if I had the time.
+
+Ruby on Rails was so different - and difficult to catch-up. I was really lagging behind and didn't understand much of the lesson until I managed to get my Ubuntu system sorted out. Lesson learned: always be prepared with your resources and not wait until the last minute to rush.
+
+I think it's time to set goals for myself through the weeks - what do I wish to achieve in the various things I'm working on throughout the weeks?
+
+**Link(s) to work**: kedanco.github.io // github.com/kedanco/blog_app
