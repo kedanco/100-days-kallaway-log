@@ -131,10 +131,9 @@ I think it's time to set goals for myself through the weeks - what do I wish to 
 
 ### Day 16: 29th August Tuesday, 2017
 
-Today's Progress: TicTacToe Assignment Walkthrough, added bootstrap & Sass to Rails
 **Today's Progress**: TicTacToe Assignment Walkthrough, added bootstrap & Sass to Rails
 
-Thoughts: Watching the process of our instructor explaining & building the TicTacToe systematically was amazing. when you plan out your structure & functions nicely, everything seems to work out fine & become very convenient (code-wise)
+**Thoughts**: Watching the process of our instructor explaining & building the TicTacToe systematically was amazing. when you plan out your structure & functions nicely, everything seems to work out fine & become very convenient (code-wise)
 We also learned how to edit our layout 'templates' in Rails - which can be very convenient when we're building multiple pages!
 Once again, experienced some error in my Ruby/RVM but managed to solve it & catch-up. Hope thats the last of it!
 
@@ -146,7 +145,7 @@ Looking forward to more :)
 
 **Today's Progress**: Added css animation to portfolio page, added viewcounter on RoR webpage!
 
-Thoughts: When we had the assignment to add a viewcounter into our webpage, we genuinely didn't know where to start. It was fiddling around and trying out different things (I ended up creating methods inside the Viewcounter class). After one of us got it, I finally managed to complete it with some referencing & asking questions.
+**Thoughts**: When we had the assignment to add a viewcounter into our webpage, we genuinely didn't know where to start. It was fiddling around and trying out different things (I ended up creating methods inside the Viewcounter class). After one of us got it, I finally managed to complete it with some referencing & asking questions.
 
 This is probably why the Rails MVC diagram is so important - it allows us to understand where to put our code :)
 It genuinely felt good when I start to understand what I'm doing & the code works. Here's to more epiphany on this journey!
@@ -157,7 +156,7 @@ It genuinely felt good when I start to understand what I'm doing & the code work
 
 **Today's Progress**: Created blog application with RoR - CRUD without Destroy!
 
-Thoughts: Ok, so finally reading all about CRUD functions in my previous job, and about how a blog application is normally the first project for RoR practise, I finally realise how it all falls in place together. Honestly, without the instructor explaining so systematically and even prompting us to find/think of the answer ourselves, I don't think we could've figured out the way to do it. MVC model is so important, I feel like I have to spend some extra time to understand it further. Can't wait to start building Rails applications of my own :D
+**Thoughts**: Ok, so finally reading all about CRUD functions in my previous job, and about how a blog application is normally the first project for RoR practise, I finally realise how it all falls in place together. Honestly, without the instructor explaining so systematically and even prompting us to find/think of the answer ourselves, I don't think we could've figured out the way to do it. MVC model is so important, I feel like I have to spend some extra time to understand it further. Can't wait to start building Rails applications of my own :D
 
 **Link(s) to work**: github.com/kedanco/test_project
 
