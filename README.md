@@ -127,6 +127,7 @@ Ruby on Rails was so different - and difficult to catch-up. I was really lagging
 
 I think it's time to set goals for myself through the weeks - what do I wish to achieve in the various things I'm working on throughout the weeks?
 
+**Link(s) to work**: kedanco.github.io // github.com/kedanco/test_project
 
 ### Day 16: 29th August Tuesday, 2017
 
