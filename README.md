@@ -127,4 +127,38 @@ Ruby on Rails was so different - and difficult to catch-up. I was really lagging
 
 I think it's time to set goals for myself through the weeks - what do I wish to achieve in the various things I'm working on throughout the weeks?
 
-**Link(s) to work**: kedanco.github.io // github.com/kedanco/blog_app
+
+### Day 16: 29th August Tuesday, 2017
+
+Today's Progress: TicTacToe Assignment Walkthrough, added bootstrap & Sass to Rails
+
+Thoughts: Watching the process of our instructor explaining & building the TicTacToe systematically was amazing. when you plan out your structure & functions nicely, everything seems to work out fine & become very convenient (code-wise)
+
+We also learned how to edit our layout 'templates' in Rails - which can be very convenient when we're building multiple pages!
+
+Once again, experienced some error in my Ruby/RVM but managed to solve it & catch-up. Hope thats the last of it!
+
+Looking forward to more :)
+
+Link(s) to work:
+
+### Day 17: 30th August Wednesday, 2017
+
+Today's Progress: Added css animation to portfolio page, added viewcounter on RoR webpage!
+
+Thoughts: When we had the assignment to add a viewcounter into our webpage, we genuinely didn't know where to start. It was fiddling around and trying out different things (I ended up creating methods inside the Viewcounter class). After one of us got it, I finally managed to complete it with some referencing & asking questions.
+
+This is probably why the Rails MVC diagram is so important - it allows us to understand where to put our code :)
+
+It genuinely felt good when I start to understand what I'm doing & the code works. Here's to more epiphany on this journey!
+
+Link(s) to work: github.com/kedanco/test_project
+
+### Day 18: 31st August Thursday, 2017
+
+Today's Progress: 
+
+Thoughts: 
+
+Link(s) to work: github.com/kedanco/test_project
+
