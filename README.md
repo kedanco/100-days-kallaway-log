@@ -160,3 +160,16 @@ It genuinely felt good when I start to understand what I'm doing & the code work
 
 **Link(s) to work**: github.com/kedanco/test_project
 
+### Day 18: 1st September Friday, 2017
+
+**Today's Progress**: FCC Random Quote Machine, Portfolio Page
+
+**Thoughts**: Finally back to FCC! Felt like challenging myself today, so I went ahead and started the Random Quote Machine project. I remember clearing all the previous code tutorials and then stopping for a few weeks when I saw these projects; they were not guided and it became significantly harder than completing a tutorial - you would need to create a working project.
+
+That said, after countless tries of CSS adjustments, HTML and javascript google searches, the program finally works! Just had a little bit of HSTS issue with Codepen, but everything ended on time for dinner. I was in Starbucks from around 12.45pm, added some responsiveness to my portfolio page and started with this shortly after. I would say it was a really productive 5-6 hours :)
+
+What made progress quick was that I constantly tried to improve the CSS, completing the tasks part by part, and then trying to find the best reference/help to whatever problem I was facing. There's just no stopping the satisfaction.
+
+I wonder if I can finish the next project within 6 hours as well?
+
+**Link(s) to work**: https://www.kirupa.com/html5/making_http_requests_js.htm
