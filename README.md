@@ -173,3 +173,11 @@ What made progress quick was that I constantly tried to improve the CSS, complet
 I wonder if I can finish the next project within 6 hours as well?
 
 **Link(s) to work**: https://www.kirupa.com/html5/making_http_requests_js.htm
+
+### Day 18: 2nd September Saturday, 2017
+
+**Today's Progress**: Rails CRUD Destroy
+
+**Thoughts**: Wasted so much time on the CRUD Destroy function. Can't seem to understand how figuring out a button can take 2 hours but, oh well. Rails is starting to get on my nerves - I'd have to figure out which file to write in, even if I'm gonna write some simple code. Sometimes solutions don't help either - not solving your problen. And somehow, Rails is supposed to be easy to understand. How about no. 
+
+**Link(s) to work**: 
