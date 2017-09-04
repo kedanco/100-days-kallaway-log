@@ -181,3 +181,15 @@ I wonder if I can finish the next project within 6 hours as well?
 **Thoughts**: Wasted so much time on the CRUD Destroy function. Can't seem to understand how figuring out a button can take 2 hours but, oh well. Rails is starting to get on my nerves - I'd have to figure out which file to write in, even if I'm gonna write some simple code. Sometimes solutions don't help either - not solving your problen. And somehow, Rails is supposed to be easy to understand. How about no. 
 
 **Link(s) to work**: 
+
+### Missed A Day : 3rd September Sunday 2017 ###
+
+### Day 19: 4th September Monday, 2017
+
+**Today's Progress**: Review of CRUD Destroy process homework, Codewars & User Stories
+
+**Thoughts**: Lesson went through the process of creating a To-Do App, and we had to come up w/ user stories. Also cleaned up some rust on Ruby by working on Codewars, felt good to be able to finish the exercises fast! If only RoR was as straightforward as Ruby.. haha. Anyway, had some doubts cleared regarding the delete button we were working on.
+
+Lesson pace feels ok so far, just wish I had time for FCC and my portfolio site... I think I'll only have lesser time from now on for all these stuff.
+
+**Link(s) to work**: 
