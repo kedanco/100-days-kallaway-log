@@ -160,7 +160,7 @@ It genuinely felt good when I start to understand what I'm doing & the code work
 
 **Link(s) to work**: github.com/kedanco/test_project
 
-### Day 18: 1st September Friday, 2017
+### Day 19: 1st September Friday, 2017
 
 **Today's Progress**: FCC Random Quote Machine, Portfolio Page
 
@@ -174,7 +174,7 @@ I wonder if I can finish the next project within 6 hours as well?
 
 **Link(s) to work**: https://www.kirupa.com/html5/making_http_requests_js.htm
 
-### Day 18: 2nd September Saturday, 2017
+### Day 20: 2nd September Saturday, 2017
 
 **Today's Progress**: Rails CRUD Destroy
 
@@ -184,7 +184,7 @@ I wonder if I can finish the next project within 6 hours as well?
 
 ### Missed A Day : 3rd September Sunday 2017 ###
 
-### Day 19: 4th September Monday, 2017
+### Day 21: 4th September Monday, 2017
 
 **Today's Progress**: Review of CRUD Destroy process homework, Codewars & User Stories
 
@@ -193,3 +193,36 @@ I wonder if I can finish the next project within 6 hours as well?
 Lesson pace feels ok so far, just wish I had time for FCC and my portfolio site... I think I'll only have lesser time from now on for all these stuff.
 
 **Link(s) to work**: 
+
+### Day 22: 5th September Tuesday, 2017
+
+**Today's Progress**: Updated Rails blog app w CRUD - Destroy, and added basic CSS.
+
+**Thoughts**: Didn't have time to write this entire week - so here's some late updating. So far, able to imagine how useful rails can be, but I don't know what I can use if I were to build a few-paged website. Pretty no point right, to be going through the Rails hassle, I mean, I'm still pretty used to creating with HTML & CSS. And to do Rails, I would have to switch over to Ubuntu so.. :/
+
+**Link(s) to work**: 
+
+### Day 23: 6th September Wednesday, 2017
+
+**Today's Progress**: Review of Rails CRUD homework, Codewars Code Kata
+
+**Thoughts**: It's been more than a week since I last updated my own portfolio page, and a potential 'Landing Page' gig has got to require some previous work done...the existing To-Do App doesn't seem entirely easy also, I wonder if I'll be able to make substantial progress this weekend :/ But, so far lessons have been very well-paced with us able to catch and understand what the instructor's saying. I guess you could say we're progressing well? haha. Let's see how we fare with the To-Do App!
+
+**Link(s) to work**: 
+
+### Day 24: 7th September Thursday, 2017
+
+**Today's Progress**: Practise on Rails redirect, render, adding fonts & images! Codewars kata
+
+**Thoughts**: This week flew by so fast. Everyday we're doing something different in Rails. It feels good to be learning consistently, but as the same time with dance practises resuming it feels kinda shitty to not have the time to do what I need to : building other projects and working on my portfolio page. Kinda feels like I'm stuck whenever I commit to learning something. Well, it's effort but like everyone else, I just wish I had more time everyday. Guess it's really time to sleep a wee bit lesser and spend more time on my laptop haha!
+
+**Link(s) to work**: 
+
+### Day 25: 8th September Friday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
