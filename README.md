@@ -220,9 +220,58 @@ Lesson pace feels ok so far, just wish I had time for FCC and my portfolio site.
 
 ### Day 25: 8th September Friday, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Improved UI on To-Do App
 
-**Thoughts**: 
+**Thoughts**: yay I'm a quarter there! But, today was a distracting day - should have just studied in NP with proper wifi and plug. Didn't manage to do much - instead I spent time figuring out how to install Psiphon on Linux, or reading up if Loading Ubuntu in VMWare was a better idea. 
 
 **Link(s) to work**: 
 
+### Day 26: 9th September Saturday, 2017
+
+**Today's Progress**: Improved UI on To-Do App
+
+**Thoughts**: yay I'm a quarter there! But, today was a distracting day - should have just studied in NP with proper wifi and plug. Didn't manage to do much - instead I spent time figuring out how to install Psiphon on Linux, or reading up if Loading Ubuntu in VMWare was a better idea. 
+
+**Link(s) to work**: 
+
+### Day 27: 10th September Sunday, 2017
+
+**Today's Progress**: Done with Tasklist functionality, read up on PWA
+
+**Thoughts**: Today was quite productive, minus all the errors that I've been facing! Finally focused and got something done. Also, found out about Progressive Web Applications and it seems magical. I wonder if PWAs are gonna slowly take over mobile apps. Still, you can't deny there's some benefits about making native apps.
+
+No time to write my blog post at all - I'll have to do it another time.
+
+**Link(s) to work**: github.com/kedanco/todoApp
+
+### Day 28: 11th September Monday, 2017
+
+**Today's Progress**: ToDoApp Review, Photo App Basics
+
+**Thoughts**: Today we reviewed our Todo App, and also got started on a new Photo album application! (Think Instagram)
+
+I felt my Todo App was pretty bad. Incomplete functions, Incomplete UI...But I managed to solve an error towards the end of the class that greatly helped my progress. I finally finished all CRUD functions for Tasks and Tasklists! Yay! The review allowed me to witness what amazing things my friends had done - I had clearly not put in enough effort into this assignment. Time to work harder!
+
+We did up improved use cases for the Photo App and drew out an Entity Relationship Diagram (ERD) - which shows how different Models are supposed to work together in the database. We'll also be learning how to use Devise today! Can't wait!
+
+**Link(s) to work**: github.com/kedanco/todoApp
+
+### Day 29: 12th September Tuesday, 2017
+
+**Today's Progress**: Codewars. Rails Devise Lesson. Github revision. PhotoApp & Portfolio page CSS 
+
+**Thoughts**: Long day today! 10am - 11pm Woah. First time I committed a full day to coding here at Alphacamp! It really felt like a productive day, with the most important point being I finally got back to touching my portfolio page again. Fooling around with CSS can be a real time-waster but sometimes it allows me to try out different ways of showing page content.
+
+Did some research on top websites and I'm just baffled by the level of creativity and skill out there... I wonder how Singapore fares against these overseas web developers and designers..their websites are crazy good.
+
+Hope that I'll still have these kinds of days as time goes by. Definitely good for growth.
+
+**Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 30: 13th September Wednesday, 2017
+
+**Today's Progress**: Lesson on comparing & picking Gems, photoApp CRUD
+
+**Thoughts**: Today was a short one since I had dance in the evening. Good progress on photoApp and I can't wait for it to be complete. Loving the CSS on the frontpage but I'm kinda dreading the CSS I may have to do for the other pages. Repeating code and figuring out CSS layers is not a fun thing to do.
+
+**Link(s) to work**: github.com/kedanco/photoApp
