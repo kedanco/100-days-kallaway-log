@@ -440,24 +440,35 @@ Well, time to work even harder.
 
 ### Day 45: 29th September Friday, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Reviewing Twitterapp, reading up on rails materials, portfolio page
 
-**Thoughts**: 
+**Thoughts**: After housewarming at Jacinta's, went over to Starbucks to get some work done.. Wasn't a very productive session as I was hovering between starting a new practise project, going through Udemy tutorials, or watching/reading up on materials so it was kinda a bit of everything.
 
-**Link(s) to work**: 
-
-### Day 46: 30th September Friday, 2017
-
-**Today's Progress**: 
-
-**Thoughts**: 
+Ended up working on my portfolio page, which is the best & biggest investment on myself right now. Who would want to hire a web developer who doesn't even have his own site?
+Need to spend more time and finish this ASAP.
 
 **Link(s) to work**: 
 
-### Day 46: 30th September Friday, 2017
+### Missed A Day : 30th September Saturday, 2017
 
-**Today's Progress**: 
+### Day 46: 1st October Sunday, 2017
 
-**Thoughts**: 
+**Today's Progress**: Discussion on Capstone project
+
+**Thoughts**: Today's 3hour long discussion covered detailed user stories, A basic WIT Ai flowchart, additional planning on our mockups and the methodology to go about doing it. Was dead tired after we finished, and I'm still doubting how we can go about doing this idea. Was it a bad idea to have pitched this from the start :/?
+
+I foresee endless amounts of sleepless nights as we explore this WIT.Ai technology. =(
+
+**Link(s) to work**: 
+
+### Day 47: 2nd October Monday, 2017
+
+**Today's Progress**: FB Linking (OmniAuth), Started ShoppingApp, Portfolio page
+
+**Thoughts**: Today, I shifted my focus back onto my portfolio page. After seeing Naz's freelance project and his own page, I kinda felt ashamed about my standards (LOL). Yea it was that bad. Started doubting my abilities, but I guess I just need to FOCUS and spend time developing my site first before anything else!
+
+The short session on FB linking with OmniAuth wasn't very thorough but it was a good introduction, means I need to spend time to explore it on my own!
+
+I spent a good 3-4 hours at night changing my portfolio page. Used pagepiling (https://github.com/alvarotrigo/pagePiling.js/) and Animated-headlines (https://codyhouse.co/demo/animated-headlines/index.html) to re-organised my site. I now realise the power of SASS - it would make my CSS code to much neater and easier to read. I was dying inside while re-organising my CSS, partly I wanted to remove irrelevant code but I was also scared to break things.
 
 **Link(s) to work**: 
