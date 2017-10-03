@@ -275,3 +275,189 @@ Hope that I'll still have these kinds of days as time goes by. Definitely good f
 **Thoughts**: Today was a short one since I had dance in the evening. Good progress on photoApp and I can't wait for it to be complete. Loving the CSS on the frontpage but I'm kinda dreading the CSS I may have to do for the other pages. Repeating code and figuring out CSS layers is not a fun thing to do.
 
 **Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 31: 14th September Thursday, 2017
+
+**Today's Progress**: photoApp CSS, Devise issues
+
+**Thoughts**: Faced an issue today - where we wasn't able to get the 'id' from the parameters passed in the browser URL - because there was none! Took Sha and I a long time to figure it out. These kinds of errors are the worst - you don't know what's wrong but you can't move on without solving it. Major headache!
+
+Well, good part is with every issue we solve we manage to learn a little more about what we're doing. More and more to go :)
+
+**Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 32: 15th September Friday, 2017
+
+**Today's Progress**: Rails Test, PhotoApp Comments
+
+**Thoughts**: Today we had our very first class Test! Was kinda nervous at first, as I know I always tend to overestimate my abilities and maybe fall prey to careless mistakes here and there. Heard we needed to re-create a new rails application from scratch and that kinda gave us a rough gauge of the test scope. Well, the duration was 2hours so it was definitely not going to be THAT easy.
+
+10mins into the test, and I crackled a laugh. Among the small, pieces of 'wrong' codes scattered around various files, there was this cunning easter egg inserted into the CSS file. It changed the colour of any text appearing on the page to White - making it invisible. It was so smart because it took advantage of the normal testing process - Put some text on a page so see if it's the correct page that's working. Needless to say, it fooled us for a good few mins.
+
+Throughout the classes with our instructor guiding us and 'writing down' examples and notes for us, it definitely is a good practise for us to do something on our own.
+
+**Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 33: 16th September Saturday, 2017
+
+**Today's Progress**: photoApp TextArea, CSS
+
+**Thoughts**: Another challenge lost against CSS. Sometimes there are just things you need extra power with - like expanding a 'div' field background together with the textarea as the lines of text grows more and more. It's true what people say - that the small details are the ones that will take the most time as we develop more and more things.
+
+It felt good to be able to fix this issue. It's like another trick learned that I can use in the future! :D
+
+**Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 34: 17th September Sunday, 2017
+
+**Today's Progress**: Combining rails & javascript for CSS
+
+**Thoughts**: Alright so, we've got most of our photoApp done up, and all we need to do was to add finishing touches before submission tmr. The last module I was working on required a bit of brainpower!
+
+The challenge was to display the first photo of the album as an 'album preview'
+- If the first photo was deleted, the preview will then be the 'new first photo' that would be shifted up
+- If it was an empty album, a default picture would be displayed instead
+- This was to be applied to all albums that the User has
+
+First, I had to loop through the albums that the User had, and store the 'first photos' into an array of photos.
+Then, after the page was displayed, a piece of Javascript code will then run to change the 'background' attribute of each album to become the photo. I only managed to get it work just before the presentation, and I was gleefully delighted. 
+
+I love being able to use code to perform something that we need to rack our brains over. It was a feature that I was genuinely proud of :)
+**Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 35: 18th September Monday, 2017
+
+**Today's Progress**: Class discussion on photoApp
+
+**Thoughts**: Today we reviewd our photoApps.. Once again like the To-Do App, always very impressed with what my classmates have done. One impressive thing is always the aesthetics, somehow their projects have very beautiful colours & aesthetics, and the use of a 'standard bootstrap view' with a big image covering the main page
+
+Maybe I should start to base my projects on this? I guess the look & feel is impactful considering the amount of effort needed to do it.
+
+Also what amazes me is the resourcefullness - some of them really are able to find useful Jquery scripts to enhance their projects
+
+**Link(s) to work**: github.com/kedanco/photoApp
+
+### Day 36: 19th September Tuesday, 2017
+
+**Today's Progress**: Class on Active Record relationships - linking models
+
+**Thoughts**: Confusion!! Today we learned about connecting relationships between difficult models. After many rounds of has_many, belongs_to and probably a combination of both, our brains were fried.
+
+Sometimes, even with a whiteboard and sufficient thinking power, it's hard to understand concepts that are not exactly clear, and goes in circles. up till now, I still can't accurately explain how to link up different models in different relationships.
+
+If I have time, this will definitely be something that I will come back to.
+#revision
+
+**Link(s) to work**: 
+
+### Day 37: 20th September Wednesday, 2017
+
+**Today's Progress**: Web hosting & Rails Environments
+
+**Thoughts**: Today's lesson was about web hosting & rails environments! We covered the few hosts that provide the basic hosting capability, and also learned how to identify a good web host. Next up we learned about Rails environments! Basically imagine it as different 'kind' of setting for your application. There's 'test', 'development' -> whatever we're doing now, and 'production'.
+
+I can't wait to try deploying a rails app to Heroku! Don't know how much it'll cost but, I guess I'm always itching to try new things and achieve new milestones.
+
+**Link(s) to work**: 
+
+### Day 38: 21st September Thursday, 2017
+
+**Today's Progress**: jQuery & AJAX
+
+**Thoughts**: At first, the exercise on adding jQuery/Javascript and making it work with Rails was pretty simple. AJAX was another way of accessing & displaying data that didn't need the page to refresh. This was the thing making our like and share buttons work on the page we're reading! 
+
+I honestly crave for more time everyday to do my own reading and learning and projects. Seems like there's so much things to learn that I don't have enough time for it.
+
+**Link(s) to work**: 
+
+### Day 39: 22nd September Friday, 2017
+
+**Today's Progress**: twitterApp CSS, Comments
+
+**Thoughts**: As usual, I got back to the convenient things that I'm used to doing. I think sooner or later I would have to push myself to step out of this comfort zone. Be the one to develop new functions, be the one to come out with new ways of organising things. Nothing much done, and I've been very distracted with reading up on Cryptocurrencies :/
+
+**Link(s) to work**: 
+
+### Day 40: 23rd September Saturday, 2017
+
+**Today's Progress**: twitterApp Likes & Ajax
+
+**Thoughts**: Spent a whole chunk of time settling admin stuff for Danzation and other stuff, then spent the 2nd chunk of time falling asleep and settling AJAX for the twitter Like button to work...After extending my hours to 8am++, it finally worked!
+
+I was stuck with passing information between Users and Tweet folders, but I managed to render the like/dislike.js.erb file in users folder by using 'render' in the tweets controller!
+
+Kinda tiring, but I enjoyed the triumph at the end when I finally got it to work!
+
+**Link(s) to work**: 
+
+### Missed a Day: 24th September Sunday, 2017
+
+### Day 41: 25th September Monday, 2017
+
+**Today's Progress**: RSpec!
+
+**Thoughts**: Writing Test codes is a totally different thing altogether.. The thought process is definitely different because we have to look at our Model/Controller code, simulate the test with some test variables, and ensure the code passes the test! 
+
+We focused on Model specs today - which performed checks if the Model was supposed to be working correctly. Did it have the required parameters to exist? As usual, we had new terms again - such as 'describe', 'is_expected_to' and 'it'. Still very unfamiliar with how it all functions but, well we got it to work! Except for one pesky litter error always alerting that my email was did not check for case sensitivity - maybe I need to specify some special parameters to be testing on.
+
+**Link(s) to work**: 
+
+### Day 42: 26th September Tuesday, 2017
+
+**Today's Progress**: Controller Specs, Follower Following
+
+**Thoughts**: TwitterApp wasn't really going as well as I thought it would be - I didn't have the luxury of time to continue with it, and getting stuck with issues on the 'follower' 'following' relationship really proved to be a problem.
+
+We moved on to controller Specs today, and things got REALLY complicated. Even though controller code was not a big chunk of code to test, simulating the conditions can be really tricky. We had to think in terms of 'sample data', and 'variations' created, and ''
+
+**Link(s) to work**: 
+
+### Day 43: 27th September Wednesday, 2017
+
+**Today's Progress**: Git Exercises!
+
+**Thoughts**: Today we learned the 'dangerous' parts of Git, like amending commits... haha. That already sounds like a bad thing to do. Well, sometimes we need to turn back time, make minor edits to our commits or resolve some minor mistakes here and there before we push the code up to the master branch!
+
+After trying out the examples i kinda understood what it's for, and this command's kinda useful actually.
+
+The idea about Github is that, with great power comes great responsibility. With a Version Control System that has branching and merging capabilities, we need to be careful what we do with it. Our coming project's gonna be in groups of 3 (similar to capstone) so, I guess there's a lot of things we need to be careful of!
+
+**Link(s) to work**: 
+
+### Day 44: 28th September Thursday, 2017
+
+**Today's Progress**: Twitter Assignment Presentation
+
+**Thoughts**: I wasn't very satisfied with the outcome of our Twitter Clone. Being stuck on the 'followship' issue, and not being able to have the time to finish some of the extra stuff, not to mention the amateur level of CSS... lol.
+
+One surprising thing was, I think we were the only group that implemented the twitter character count check feature? I think it was quite a handy javascript thing to do (so quickly, compared to figuring out the like button AJAX...haha!)
+
+See-ing Naz's work really inspires me. He's always one step ahead. Personally, I really feel he's someone I look up to in terms of discipline (time commitment) and skills. Deploying on Heroku, and even having notifications is just...wow.
+
+Well, time to work even harder.
+
+**Link(s) to work**: 
+
+### Day 45: 29th September Friday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 46: 30th September Friday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 46: 30th September Friday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
