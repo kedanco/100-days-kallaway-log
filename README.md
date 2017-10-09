@@ -472,3 +472,65 @@ The short session on FB linking with OmniAuth wasn't very thorough but it was a 
 I spent a good 3-4 hours at night changing my portfolio page. Used pagepiling (https://github.com/alvarotrigo/pagePiling.js/) and Animated-headlines (https://codyhouse.co/demo/animated-headlines/index.html) to re-organised my site. I now realise the power of SASS - it would make my CSS code to much neater and easier to read. I was dying inside while re-organising my CSS, partly I wanted to remove irrelevant code but I was also scared to break things.
 
 **Link(s) to work**: 
+
+### Day 48: 3rd October Tuesday, 2017
+
+**Today's Progress**: Braintree Documentation, seeds.rb, E-commerce App
+
+**Thoughts**: I've heard of Stripe as a payment gateway but not Braintree..nonetheless, we're gonna integrate it as part of our E-Commerce assignment. Looking forward to try it!
+
+Also, we learned this new thing where we are able to provide 'seed' data to our program to use when we start out our application. Seems cool and my teammate used it by creating a first 'Admin' account at the start. Also, if you're resetting your database to test from the start, it's a good system to ensure your program data is always 'new' whenever you test. Seems cool :)
+
+Had very good progress for our E-commerce app today. Sha added Facebook Authentication, Jacinta did up a VERY nice products show page, and I managed to display products, add products to cart with quantity and display them! In the user's cart! I even included a 'badge' to show how many products are present in your cart haha. Tiring day from 10am-10pm+ but I'm really enjoying the progress today. If everyday was like this, progress would be good but I wouldn't have time for anything else.
+
+Is it a worthy trade-off? Hmm..
+
+**Link(s) to work**: https://github.com/jatalim/shopping_app
+
+### Day 49: 4th October Wednesday, 2017
+
+**Today's Progress**: Rails mailer, E-commerce App
+
+**Thoughts**: Today we covered Rails Mailers! An in-built function in Rails that allows you to configure & send emails. It's awesome be coding away and realise that such an important feature is actually in-built in Rails...makes everything so convenient.
+
+With letter_opener_web, we checked the emails that we 'sent' and could see the text of the emails! Cool knowing how these work and I could imagine how a full Rails applications would make use of these
+
+**Link(s) to work**: https://github.com/jatalim/shopping_app
+
+### Day 50: 5th October Thursday, 2017
+
+**Today's Progress**: Rails PORO, SOLID principles
+
+**Thoughts**: Covered RAILS PORO today, and also looked at SOLID principles. After a walkthrough in class, it's kinda amazing to know how some applications can be 'restructured' to make code cleaner and easier to understand using Service objects.
+
+Spent some time working on shopping cart too - If the product is already added in cart, adding more of it should not create another row but it should update the existing quantity in the shopping cart!
+
+**Link(s) to work**: https://github.com/jatalim/shopping_app
+
+### Day 51: 6th October Friday, 2017
+
+**Today's Progress**: Edited Bootstrap Alerts, played with transitions. Clear cart module, edited Views.
+
+**Thoughts**: After so long into this assignment, finally fixed the alerts. Definitely an eyesore. CSS Transitions are fun! Though i don't completely get how it works yet. Need to find something to practise on :)
+
+Added a 'clear cart' button, and edited the view slightly. Also, after some practise implementing AJAX for some functions doesn't seem as complicated now. Yay! :)
+
+**Link(s) to work**: https://github.com/jatalim/shopping_app
+
+### Missed A Day : 7th October Saturday, 2017
+
+### Missed A Day : 8th October Sunday, 2017
+
+### Day 52: 9th October Monday, 2017
+
+**Today's Progress**: Advanced Active Record Queries, Tag module for Shopping App
+
+**Thoughts**: Today's query lesson was quite sleepy...I think it was partly due to all the confusion from queries, haha.
+
+Actually, today's lesson was rather important. In this case, Active Record queries are like shortcuts for SQL statements - getting data from the database. Think of chaining different instructions together to create a long, complete instruction to get the data you want.
+
+Also, finally managed to get my productivity back and 'kinda' finish the Tag module! Now I need to do a filter on the searching of the products!
+
+**Link(s) to work**: https://github.com/jatalim/shopping_app
+
+
