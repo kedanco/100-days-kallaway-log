@@ -485,7 +485,7 @@ Had very good progress for our E-commerce app today. Sha added Facebook Authenti
 
 Is it a worthy trade-off? Hmm..
 
-**Link(s) to work**: https://github.com/jatalim/shopping_app
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
 
 ### Day 49: 4th October Wednesday, 2017
 
@@ -495,7 +495,7 @@ Is it a worthy trade-off? Hmm..
 
 With letter_opener_web, we checked the emails that we 'sent' and could see the text of the emails! Cool knowing how these work and I could imagine how a full Rails applications would make use of these
 
-**Link(s) to work**: https://github.com/jatalim/shopping_app
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
 
 ### Day 50: 5th October Thursday, 2017
 
@@ -505,7 +505,7 @@ With letter_opener_web, we checked the emails that we 'sent' and could see the t
 
 Spent some time working on shopping cart too - If the product is already added in cart, adding more of it should not create another row but it should update the existing quantity in the shopping cart!
 
-**Link(s) to work**: https://github.com/jatalim/shopping_app
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
 
 ### Day 51: 6th October Friday, 2017
 
@@ -515,7 +515,7 @@ Spent some time working on shopping cart too - If the product is already added i
 
 Added a 'clear cart' button, and edited the view slightly. Also, after some practise implementing AJAX for some functions doesn't seem as complicated now. Yay! :)
 
-**Link(s) to work**: https://github.com/jatalim/shopping_app
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
 
 ### Missed A Day : 7th October Saturday, 2017
 
@@ -531,6 +531,75 @@ Actually, today's lesson was rather important. In this case, Active Record queri
 
 Also, finally managed to get my productivity back and 'kinda' finish the Tag module! Now I need to do a filter on the searching of the products!
 
-**Link(s) to work**: https://github.com/jatalim/shopping_app
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
 
+### Day 53: 10th October Tuesday, 2017
 
+**Today's Progress**: No-Model Forms & Simple Queries, Shopping App repo rebirth
+
+**Thoughts**: Today got worse. Came late to class and was super sleepy. Same thing, it was an important lesson on how we could use forms that did not target a model (like customised forms), and also perform custom queries (e.g. multiple conditions, targeting multiple tables)
+
+Then came the worst part of the day. It was when we had to remove the .env file from our repo. the .env file contains KEYS and CREDENTIALS that the project needed to integrate logins/authentication with other platforms, such as Facebook and emailing services.
+
+After trying to squash our commits together, we then found out that the .env file appeared beforehand in an extremely early commit. Alright, then we had to remove all commits, and re-upload everything as 1 commit.
+Lo and behold, the .env file was still present, within our old branches!!!
+
+We then decided to create a new repo, but before that we had to pick our minor edits here and there and combine everything manually... All our edits were over the place. We should have checked that we pulled each others' work before we starting all the rebasing and shifting of code.
+
+After creating a new repo and cloning it, everything finally worked properly without any trace of .env file in the repo. But, some edits were missing. Time for more back-tracking of work...It was a serious case of file recovery and version control (more like version chaos)
+
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
+
+### Day 54: 11th October Wednesday, 2017
+
+**Today's Progress**: Rspec practise, Shopping App Filter
+
+**Thoughts**: Rspec practise once again! I think my exit ticket prayers got answered, haha!
+
+Once again, I faced difficulty recognising the test matchers syntax, and got errors here and there as a result...But the class exercise always provided good practise for what we needed to know.
+
+Still not very fond of the idea of writing tests. And, it's part of the test next week! Guess i'll have to spend time doing some revision before the test dawns on me.
+
+Worked on the shopping app 'filter panel' late at night, managed to get it to display properly beside the products (but totally not responsive...everything breaks when we resize the window lol). Good and Bad : I got carried away with CSS and didn't touch the functionality of it, but I really like how it looks and it sticking to the user's viewport upon scrolling down! Definitely worth the time spent, haha!
+
+Note to self: Spending more time is useless if you're not productive. Control how you spend your time!
+
+**Link(s) to work**: https://github.com/jatalim/shoppingapp
+
+### Day 55: 12th October Thursday, 2017
+
+**Today's Progress**: Shopping App Presentation
+
+**Thoughts**: It was a fun day seeing each others' eCommerce App! I think so far, this eCommerce App is the assignment that I'm most proud of. It wasn't because of how it looked, or that it included several other external features (Facebook Login, mailers etc.) but that I managed to code some of the functionalities that felt complex at the start. I'm really happy about the updating quantity part - It may seem natural for all eCommerce Apps but it really challenged my thought process. Glad I got it working :D
+
+**Link(s) to work**: https://shoppingapp2.herokuapp.com/
+
+### Day 56: 13th October Friday, 2017
+
+**Today's Progress**: IBM Company Visit, crowdapp
+
+**Thoughts**: IBM was pretty amazing. Most importantly - the offices and the view. Level 42 at Marina Bay Financial Centre can't go wrong, haha! Their employees and working structures are quite impressive as well. I like how they kinda adapted to new technologies/workflows to cater to a wide range of clients - be it clients who want web apps, mobile apps, blockchain, back-end systems etc.
+
+Though, everyone seems to at least have a CS degree or relevant...I doubt that even if one day I join theses MNC corporations I would go far without credentials.
+
+Managed to import my CSV file into Rails! Achievement unlocked! But throughout this process I discovered another issue - now i'm pretty unsure how to go about initializing my models with the different parameters :/
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 57: 14th October Saturday, 2017
+
+**Today's Progress**: Imported CSV into Rails, initialized methods (crowdapp)
+
+**Thoughts**: Today was pretty productive - I continued with the CSV importing function. Before that, I'm glad I realised that my app was created with Sqlite. Not knowing what's the best solution, I just deleted the app and started over, haha!
+
+Migration of columns, and getting the model code in was fast. I guess these are parts that after repetitive practise, we start to understand it better and get used to doing it right.
+
+The real challenge came - for each row of the CSV, I needed to initialize 4 different model objects! There was code to check this and that, convert string to hash, initializing the crowd density for all days and hours...
+After all the logic was completed, it was a barrage of errors that I had to overcome. Solve, next one appears, and then the next... It was endless! But with each problem solved, came a wave of assurance that it is gonna work.
+I barely managed to get it done before dinner - no more errors! Though some of my code logic dont seem to work properly.
+
+Today's learning was also attributed to the fact that I had to keep thinking and googling for different kinds of problems to find different solutions. 
+
+Today was a good push! :)
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
