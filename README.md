@@ -603,3 +603,64 @@ Today's learning was also attributed to the fact that I had to keep thinking and
 Today was a good push! :)
 
 **Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed a Day: 15th October Sunday, 2017
+
+### Day 58: 16th October Monday, 2017
+
+**Today's Progress**: Class Recap
+
+**Thoughts**: Today we did a Recap of everything we've learned so far in our bootcamp! There was a lengthy amount of questions ranging from general programming to html/css to ruby to rails. Of course, there's so much more we learned that didn't get covered theoretically but, the main essence of what we learned got covered.
+
+I feel like this recap won't be enough and the only possible way to really remember everything is to do everything x-times. So far, the assignments are the ones that really push us to practise the old stuff and try out new stuff. Guess I gotta practise more? haha.
+
+**Link(s) to work**: 
+
+### Day 59: 17th October Tuesday, 2017
+
+**Today's Progress**: Final Exam day!
+
+**Thoughts**: Today we had our final class exam! The exam requirements include the normal models & views, setting up assocations similar to twitter's follow/following and like, 1 external API add-on (I tried Facebook Login), and Rspec testing.
+
+Pretty much died from doing these and by the time we stopped at 3pm, I was just initiating the following relationship. Wasted so much time on (considering) setting up 'time inputs' and other stuff. Still can't understand how we could actually get everything to work, try the very best not to copy when things are actually pretty similar if you compare to the twitter clone LOL. 
+
+I think this time round, I didn't exactly perform well under stress. Really thought I could go faster, but truth is I code so slowly. Haiz.
+
+**Link(s) to work**: 
+
+### Day 60: 18th October Wednesday, 2017
+
+**Today's Progress**: Deepavali! Exam continuation.
+
+**Thoughts**: Happy Deepavali! Today, I had to continue the exam that we didn't finish yesterday. Productive time at Starbucks working on the following relationship and the 'attend' function (similar to twitter like) but had to go for dance before I could finish Ajaxifying the things correctly. Coded at SMU again before prac, coded on the bus home... Idk if time is really not enough for this exam or I'm just doing things too slowly.
+
+It was a good push though, Re-wiring our brains to think for ourselves "what's the next step" without having tutorial-like instructions there to follow. At least, The ajax stuff works and I was almost done with the Facebook login. Almost, because when coding, nothing can be smooth-sailing and there has to be some error somewhere that will hinder your progress.
+Even life says that we need some villains now and then. Lol. But, I'm somewhat sick and tired of errors and errors and errors..Sometimes you just need a break from all these. Sigh!
+
+Hope I don't fare too badly for this one. 
+
+**Link(s) to work**: 
+
+### Day 61: 19th October Thursday, 2017
+
+**Today's Progress**: Capstone project revision
+
+**Thoughts**: Today we had one whole day to work on our capstone project. Finally after discussing with Vin, we really couldn't see Wit.AI going anywhere...We didn't understand how to go about progressing at all. Also, I found out that drawing circles on google maps was actually not that hard. Javascript examples were understandable and we just had to build it such that depending on what the user filter, we had to pass in an array of locations to draw circles for.
+
+After some consideration, we made the change. also revised the data structure for our app and made it simpler. Hope the capstone can really progress now.
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 62: 20th October Friday, 2017
+
+**Today's Progress**: Whole Day Capstone!!
+
+**Thoughts**: Progress was awesome - Added Area and District models and changed how the code initialized with the help of Vin. He focused on the navbar options (dropdowns) and I continued with initialization - making sure everything works etc. It took me until around 12am for the import code to finally run properly! The main issue was that not every row would return a postal code, and thus couldnt initialize the district and area for that place.
+
+Tried many alternatives to source for the postalcode - if it exists elsewhere in the Address and not as the last 6 characters, then it'll search for that. If not, then that row will not be added. I would wish I have the time and mental capacity to capture every single exception but the way I see it now, it has to be done manually :/
+
+Though, at least now we can visually see progress. Fumbling around research on Wit.AI was so imaginative.. we really couldnt see anything happening, haha. 
+
+And, even though I kinda wasted a bit of time in the morning hanging around reddit and nextweb articles, afternoon was really productive. yay!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
