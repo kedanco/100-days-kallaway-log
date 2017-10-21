@@ -664,3 +664,20 @@ Though, at least now we can visually see progress. Fumbling around research on W
 And, even though I kinda wasted a bit of time in the morning hanging around reddit and nextweb articles, afternoon was really productive. yay!
 
 **Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 63: 21st October Saturday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: Woke up super early to code today. Did some productive stuff between 5.30am - around 9am! 
+Managed to draw out the different Area circles on Google Maps, and also tried the codes with a larger source base of around 200+ places! The importing took so long that I actually managed to finish my cereal before it ended lmao.
+
+Somethings I changed today:
+Drew circles based on Areas
+Organised & Added tasks on Trello board
+tracking time spent for export/import codes
+tried out rails query logic
+
+Excited to see more progress!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
