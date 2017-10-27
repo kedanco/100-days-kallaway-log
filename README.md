@@ -667,7 +667,7 @@ And, even though I kinda wasted a bit of time in the morning hanging around redd
 
 ### Day 63: 21st October Saturday, 2017
 
-**Today's Progress**: 
+**Today's Progress**: Morning productivity :)
 
 **Thoughts**: Woke up super early to code today. Did some productive stuff between 5.30am - around 9am! 
 Managed to draw out the different Area circles on Google Maps, and also tried the codes with a larger source base of around 200+ places! The importing took so long that I actually managed to finish my cereal before it ended lmao.
@@ -679,5 +679,51 @@ tracking time spent for export/import codes
 tried out rails query logic
 
 Excited to see more progress!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed a Day: 22nd October Sunday, 2017
+
+### Day 64: 23rd October Monday, 2017
+
+**Today's Progress**: Exam App Review, Solved CSS Issues, init crowd density method
+
+**Thoughts**: Wei-Liang is really a great instructor. Learned quite a lot from just a review of my exam app. A lot of stuff wasn't complete but still, managed to learn a few lessons from it. One was of course, the things that I'm not so familiar with i.e. Writing test cases.
+
+Progress on the Capstone project slowed down a little, and we're encountering CSS issues...mainly because of copy-pasted code for our landing page. Well, it really speeds up the work, but things would be better if the copy-pasting and integration was done by someone with more front-end proficiency. It's like trying to combine apples and oranges together and asking why you don't get a completely nice fruit.
+
+I guess we all learn, but meanwhile, I'll have to be solving additional issues from our other tasks :/
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed a Day: 24th October Tuesday, 2017
+
+### Day 65: 25th October Wednesday, 2017
+
+**Today's Progress**: Capstone, Job-Hunting & Setting up Business workshop!
+
+**Thoughts**: Finally back at the Capstone project! Managed to change the models/associations and have my districts and areas also have different crowd densities for each day & time. I don't think it's right to nest up to 3 or 4 loops together but... it works. Something to really improve on if I have the time for it.
+
+And that's important, because today what was shared in the Job-hunting workshop emphasized on what Software Development means to us. Our understanding and take on this 'craft' of ours will determine if we impact our interviewers/clients or not. Kinda agree with this, because someone who cares about the code will be someone who always strives for improvement and innovation right?
+
+After learning more about setting up a local business, I think my time is not ripe yet. I'm definitely not even earning enough for the fees to be negligible, so I shall not jump the gun right now. But definitely learned some useful tips for the future.
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 66: 26th October Thursday, 2017
+
+**Today's Progress**: Capstone
+
+**Thoughts**: Had a great reflection today on the user stories and the aims of our capstone project. Scoped down the user stories, and after planning out the view, the method by which we need to implement the code seems clearer. Can't wait for the main features to be done and start playing with it!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 67: 27th October Friday, 2017
+
+**Today's Progress**: Capstone, personal profile
+
+**Thoughts**: Continued with Capstone and tried to revamp my personal profile page. Decided that a personal profile page dedicated mainly to my web development presence would make more sense than adding in dance elements as well. The revamping didn't go well, as I tried to add numerous features from UI kit templates but I didn't realise parts of the code were missing as it wasn't a full 'free' release. Time wasted but at least I have a clearer idea now.
+
+For capstone, it wasn't much progress today. We seem to be lagging behind on the back-end functions and there's so much implementation to be done. Well, time to double-up!
 
 **Link(s) to work**: https://github.com/kedanco/crowdapp
