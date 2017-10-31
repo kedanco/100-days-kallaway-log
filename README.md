@@ -727,3 +727,25 @@ After learning more about setting up a local business, I think my time is not ri
 For capstone, it wasn't much progress today. We seem to be lagging behind on the back-end functions and there's so much implementation to be done. Well, time to double-up!
 
 **Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed a Day: 28th October Saturday, 2017
+
+### Missed a Day: 29th October Sunday, 2017
+
+### Missed a Day: 30th October Monday, 2017
+
+Super busy with dance. Or maybe I'm just not pushing hard enough to do at least an hour a day. Damn.
+
+### Day 68: 31st October Tuesday, 2017
+
+**Today's Progress**: Portfolio Page
+
+**Thoughts**: Re-worked my portfolio page off an existing theme and I can't believe how fast it took.. Making use of a creative kit and some tutorials kinda works like fast-food
+
+I guess the primary down-side is I don't fully understand the css going on behind-the-scenes, but I've never felt so satisfied with a portfolio page before. It's not out-of-this-world amazing, but compared to my previous attempts, I can't wait to finish this and put it out there.
+
+Done with the homepage, and gonna spend more time dealing with my contact page, dance site and also an 'Other-Projects' site for all the little things that may be too small got Github in the future.
+
+Great day.
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
