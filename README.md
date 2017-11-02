@@ -748,4 +748,21 @@ Done with the homepage, and gonna spend more time dealing with my contact page, 
 
 Great day.
 
+**Link(s) to work**: https://github.com/kedanco/kedanco.github.io
+
+### Day 69: 1st November Wednesday, 2017
+
+**Today's Progress**: Capstone
+
+**Thoughts**: Helped out with the navbar, and circle colour functions, and managed to finish my most_crowded and least_crowded methods! Seemed simple at first but there were other considerations as I coded along the way, it's finally done. 
+
 **Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 70: 2nd November Thursday, 2017
+
+**Today's Progress**: Portfolio
+
+**Thoughts**: Finished the Contact page for my portfolio! Well, just display wise. It doesn't actually work yet haha! Now I'm thinking of shifting the project to Rails so I can use the mailer - either that or I just add in a PHP file, which may prove to be more straightforward. There's still the dance site as well...Can't wait for everything to be done!
+
+**Link(s) to work**: https://github.com/kedanco/kedanco.github.io
+
