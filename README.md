@@ -766,3 +766,121 @@ Great day.
 
 **Link(s) to work**: https://github.com/kedanco/kedanco.github.io
 
+### Day 71: 3rd November Friday, 2017
+
+**Today's Progress**: Capstone
+
+**Thoughts**: Got the query methods into the program, but I haven't really tested if they actually work or not. While coding, I actually think that there's got to be some way to improve how the code is structured... I'm going through loops and loops to filter out the code but it seems like a very inefficient method. Gotta find time to improve it!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed a Day: 4th November Saturday, 2017
+
+### Missed a Day: 5th November Sunday, 2017
+
+### Day 72: 6th November Monday, 2017
+
+**Today's Progress**: Capstone
+
+**Thoughts**: Today we had awesome progress! The results on the map were finally showing properly, and we were able to display the markers as circles, differentiate the circle colours by their density, filter by area and also datetime! It really seems like majority of the project is done, and we're left with the nitty gritty stuff to handle. Next up is the powerpoint slides and making sure whatever we changed works on heroku.. haha!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 72: 7th November Tuesday, 2017
+
+**Today's Progress**: Capstone
+
+**Thoughts**: Didn't code much today, but we prepared our slides for Demo Day and everything worked out pretty smoothly! Feeling pretty lazy these few days and that's definitely not good... One problem we're facing code wise is I think Heroku can't exactly support our 'number of rows' and I think we have to upgrade to around a $9 per month :/ 
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Day 73: 8th November Wednesday, 2017
+
+**Today's Progress**: Wordpress
+
+**Thoughts**: Spent more than an hour researching on Wordpress themes and stuff, then I realised things weren't as simple as they seemed. It kinda hits hard that I still have so much more to learn..
+
+I think I have to get this sorted out before I go Japan. It's so difficult to move on without knowing what I'm actually doing.
+
+**Link(s) to work**:
+
+### Missed A Day: 9th November Thursday, 2017
+
+### Day 74: 10th November Friday, 2017
+
+**Today's Progress**: Capstone - bug fixes
+
+**Thoughts**: After an unproductive few days, I've finally got a chance to sit down and focus on the project...I managed to fix a number of issues while overnighting at Starbucks City Hall. After finishing these issues I realised, if I had focused my time on this project, there was actually so much that I could do. I think it's great that Russell has got some good comments on this project as a usable 'product' when we look at what was pitched, but I see this going somewhere even bigger. Maybe I'll continue after dance :)
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed A Day: 11th November Saturday, 2017
+
+### Day 75: 12th November Sunday, 2017
+
+**Today's Progress**: Capstone - can't get my crowd filter right!
+
+**Thoughts**: Managed to squeeze in about an hour trying to resolve the crowd filter query, I don't understand why delete_if doesnt work yet for this block of queries if filtering by Area seems to work without any issues. This just means more de-bugging to go! Anyway, Let's hope we can get everything working for Demo Day!
+
+**Link(s) to work**: https://github.com/kedanco/crowdapp
+
+### Missed A Day: 13th November Monday, 2017
+
+### Day 76: 14th November Tuesday, 2017
+
+**Today's Progress**: Capstone - miracles with Sarine!
+
+**Thoughts**: Today was purely magical - because we had the help of Russell and Sarine, who provided important advice for our presentation and bug issues. We practised our presentation, and the updated presentation feels so much better. We still need more practise though!
+
+Sarine helped us to troubleshoot some of our bug issues, and somehow with her there we identified our solutions pretty quickly. We're now able to filter by Area, Datetime, and Crowd level! (Pretty important for our demo, haha!)
+
+**Link(s) to work**: https://crowd-cluster.herokuapp.com
+
+### Day 77: 15th November Wednesday, 2017
+
+**Today's Progress**: Demo Day!
+
+**Thoughts**: Did some last-minute css changes to the crowd circles, and that's it. We're done and we're ready! We've finally completed our capstone and I can proudly say, from a blurry, inconsistent idea to a working, completed product - I'm really quite proud of our group and what we've created together!
+
+This is really awesome. Can't believe that a simple idea that I came up on a train ride to school can be molded into a working, useful product. Of course details here and there are still inaccurate, but at least it works!
+
+**Link(s) to work**: https://crowd-cluster.herokuapp.com
+
+### Missed A Day: 16th November Thursday, 2017
+### Missed A Day: 17th November Friday, 2017
+### Missed A Day: 18th November Saturday, 2017
+### Missed A Day: 19th November Sunday, 2017
+### Missed A Day: 20th November Monday, 2017
+### Missed A Day: 21st November Tuesday, 2017
+
+### Day 78: 22nd November Wednesday, 2017
+
+**Today's Progress**: PHP contact form
+
+**Thoughts**: Used a form service to get the email function working! It's free and the process is simple (like using a rails gem) just that I don't even need to install it (the current site isn't done on Rails). Got the form up and running in a short time.
+
+Still need to develop my dance site though, got to plan it all out before starting as I think it'll actually be kinda complicated haha!
+
+**Link(s) to work**: https://crowd-cluster.herokuapp.com
+
+### Missed A Day: 23rd November Thursday, 2017
+### Missed A Day: 24th November Friday, 2017
+### Missed A Day: 25th November Saturday, 2017
+### Missed A Day: 26th November Sunday, 2017
+### Missed A Day: 27th November Monday, 2017
+### Missed A Day: 28th November Tuesday, 2017
+### Missed A Day: 29th November Wednesday, 2017
+### Missed A Day: 30th November Thursday, 2017
+### Missed A Day: 1st December Friday, 2017
+### Missed A Day: 2nd December Saturday, 2017
+### Missed A Day: 3rd December Sunday, 2017
+### Missed A Day: 4th December Monday, 2017
+### Missed A Day: 5th December Tuesday, 2017
+
+### Day 79: 6th December Wednesday, 2017
+
+**Today's Progress**: Edited own site
+
+**Thoughts**: Finally back to business! Made some minor edits to my portfolio site and did a little learning on google analytics. Gonna add it to my site and learn how to play around with it :)
+
+**Link(s) to work**: 
