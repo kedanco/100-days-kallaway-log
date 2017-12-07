@@ -884,3 +884,17 @@ Still need to develop my dance site though, got to plan it all out before starti
 **Thoughts**: Finally back to business! Made some minor edits to my portfolio site and did a little learning on google analytics. Gonna add it to my site and learn how to play around with it :)
 
 **Link(s) to work**: 
+
+### Day 80: 7th December Thursday, 2017
+
+**Today's Progress**: CrowdCluster
+
+**Thoughts**: Went back to the Crowd Cluster app, and tried to read and understand the code we had written previously. Not coding for 2-3 weeks really puts your skills back so much. It's difficult to keep the momentum going again - kinda wish I still had bootcamp classes going on haha!
+
+Trying to do 2 more things now - add Cafe's into the list of places, and also add in a new function that allows you to pinpoint a specific location and display the restaurants & cafe's around. This should be a pretty useful tool if I don't exactly know a specific restaurant to search for yet.
+
+Kinda confusing as I would probably need to do some code refactoring (am I using it right?) when I add in these functions. Hope to get it done though.
+
+Also set some goals for myself, gonna work towards achieving it!
+
+**Link(s) to work**: 
