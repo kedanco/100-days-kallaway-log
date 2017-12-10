@@ -898,3 +898,27 @@ Kinda confusing as I would probably need to do some code refactoring (am I using
 Also set some goals for myself, gonna work towards achieving it!
 
 **Link(s) to work**: 
+
+### Missed A Day: 8th December Friday, 2017
+
+### Day 81: 9th December Saturday, 2017
+
+**Today's Progress**: Udemy Course, YDKJS reading
+
+**Thoughts**: Went back to resume my Colt Steele's Udemy course on Web Development, and I realise how most of the basics were already covered in the bootcamp (or even before I joined the bootcamp) so I pretty much ran through the bookmarked moments. Was gonna go through the Javascript basics but then I thought, why not start on YDKJS since it's probably a better material to get the fundamentals down (again).
+
+**Link(s) to work**: 
+
+### Day 82: 10th December Sunday, 2017
+
+**Today's Progress**: YDKJS reading, FCC Weather app
+
+**Thoughts**: Now I understand why so many recommend reading YDKJS for a detailed understanding on Javascript - the explanations go beyond telling you what to code, or solving problems, but rather understanding programming and what goes on underneath the compilation and behavioral process. Some of the content goes a little too deep for me right now though - can't seem to understand it fully but good to know!
+
+Managed to complete the FCC weather app before dinner! Made use of previous API request code I did from the Random Quote Machine app, and added in a few more stuff
+- HTML5 Geolocation
+- Element value and innerHTML changes
+
+This one was surprising less challenging than the quote one, but yay! 2 more before I can move on to the next section :)
+
+**Link(s) to work**: 
