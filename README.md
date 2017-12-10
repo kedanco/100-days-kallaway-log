@@ -921,4 +921,18 @@ Managed to complete the FCC weather app before dinner! Made use of previous API 
 
 This one was surprising less challenging than the quote one, but yay! 2 more before I can move on to the next section :)
 
-**Link(s) to work**: 
+**Link(s) to work**: https://codepen.io/kedanco/pen/zPggZB
+
+### Day 83: 11th December Monday, 2017
+
+**Today's Progress**: FCC Wikipedia Viewer
+
+**Thoughts**: Today was probably my most awake overnight session ANYWHERE, but my mind found it really hard to push algorithmically wise. Based most of my Wikipedia app's understanding from a tutorial online, as the Wiki API's documentation was hella messy and not straightforward at all.. Or maybe I just need to get used to reading documentation.
+
+Encountered 2 stupid mistakes today:
+1st one was assigning value to the wrong element id (missing an 's') *facepalm*
+2nd one was a stupid CSS to solve involving html and body height. Hella stupid if google shoes an entire first page with the exact same issue. Maybe it can be more straightforward with future web improvements.
+
+If I continue this momentum, finishing Udemy courses & front-end cert may seem so crazy after all :)
+
+**Link(s) to work**: https://codepen.io/kedanco/pen/dJbPdJ
