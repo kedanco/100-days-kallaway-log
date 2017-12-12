@@ -936,3 +936,15 @@ Encountered 2 stupid mistakes today:
 If I continue this momentum, finishing Udemy courses & front-end cert may seem so crazy after all :)
 
 **Link(s) to work**: https://codepen.io/kedanco/pen/dJbPdJ
+
+### Day 84: 12th December Tuesday, 2017
+
+**Today's Progress**: YDKJS Chapter 3, FCC Twitch project
+
+**Thoughts**: Today was good reading and practise on Javascript, because immediately after learning about IIFE (Immediately Invoked Function Expressions) - I needed to use it in the Twitch project. Took longer than expected fiddling with the API call, and somehow some of my jQuery code didn't work properly but it's fine.
+
+The biggest issue was looping AJAX calls in a for loop and I had to use the IIFEs to ensure each AJAX call that operated asynchronously was able to get its respective values. The error was that all the values came from the last AJAX call and I knew something had to be wrong with the loop.
+
+As usual, there were loads of room for improvement for my CSS skills.. Man I've to find a time to really hone and practise my CSS habits.
+
+**Link(s) to work**: 
