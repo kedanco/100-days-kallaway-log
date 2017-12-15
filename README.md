@@ -948,3 +948,13 @@ The biggest issue was looping AJAX calls in a for loop and I had to use the IIFE
 As usual, there were loads of room for improvement for my CSS skills.. Man I've to find a time to really hone and practise my CSS habits.
 
 **Link(s) to work**: 
+
+### Missed A Day: 13th December Wednesday, 2017
+
+### Day 85: 14th December Thursday, 2017
+
+**Today's Progress**: YDKJS Chapter 4, FCC Javascript
+
+**Thoughts**: Got pissed off doing FCC javascript...Settling arrays with a mind half-asleep ain't a good choice. Didn't do much today, apart from finishing chapter 4 of YDKJS. Don't understanding why I keep getting the wrong values... So irritating!
+
+**Link(s) to work**: 
