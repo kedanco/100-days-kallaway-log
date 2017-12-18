@@ -958,3 +958,27 @@ As usual, there were loads of room for improvement for my CSS skills.. Man I've 
 **Thoughts**: Got pissed off doing FCC javascript...Settling arrays with a mind half-asleep ain't a good choice. Didn't do much today, apart from finishing chapter 4 of YDKJS. Don't understanding why I keep getting the wrong values... So irritating!
 
 **Link(s) to work**: 
+
+### Missed A Day: 15th December Friday, 2017
+
+### Day 86: 16th December Saturday, 2017
+
+**Today's Progress**: YDKJS Chapter 5, Udemy course
+
+**Thoughts**: Done with Chapter 5 of YDKJS, didn't really understand the part about Modules :/ YDKJS is so deep that I know for sure I'll need to revisit this sometime into my programming career. You just have a different perception on things when you gain more experience and understanding about what you're doing.
+
+It isn't very productive today but at least it wasn't as demoralising as Thursday. :)
+
+**Link(s) to work**: 
+
+### Day 87: 17th December Sunday, 2017
+
+**Today's Progress**: Udemy course, Codewars
+
+**Thoughts**: Pretty productive on Codewars as I dug up the old incomplete problems and solved them... Also done with one with JS. It becomes pretty mind-fucking when you try alternating between 2 language, highly unrecommended. You start seeing console.log in the ruby solution and unclosed brackets in the JS solution lmao.
+
+I think, I'll be switching between these anyway if I continue with Ruby on Rails, so why not try it with exercises too right.. haha.
+
+Managed to continue quite a number of tutorials with the current Colt Steele's Web Dev Bootcamp course. One thing I like about it is at least it's relatively updated and provides new information compared to what I was coding with a year ago. Just gotta be more disciplined with the time I spent I guess. And continue codewars because coding and solving problems is really different from learning and watching videos.
+
+**Link(s) to work**: 
