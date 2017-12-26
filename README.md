@@ -982,3 +982,110 @@ I think, I'll be switching between these anyway if I continue with Ruby on Rails
 Managed to continue quite a number of tutorials with the current Colt Steele's Web Dev Bootcamp course. One thing I like about it is at least it's relatively updated and provides new information compared to what I was coding with a year ago. Just gotta be more disciplined with the time I spent I guess. And continue codewars because coding and solving problems is really different from learning and watching videos.
 
 **Link(s) to work**: 
+
+### Missed A Day: 18th December Monday, 2017
+### Missed A Day: 19th December Tuesday, 2017
+
+### Day 88: 20th December Wednesday, 2017
+
+**Today's Progress**: Elixir Meetup
+
+**Thoughts**: Jumped right into learning Elixir and doing the assignments before the meet-up, kinda last-minute but it got me to really try to understand what were the different things going on here. A good thing is the syntax is actually similar to Ruby, so it was a low barrier of entry for us.
+
+I kinda enjoyed the session, learning about the different kinds of magic it gave, but I'll probably explore more into it after I've settled down with Javascript
+
+**Link(s) to work**: 
+
+### Day 89: 21st December Thursday, 2017
+
+**Today's Progress**: Udemy
+
+**Thoughts**: Had a good progress on Udemy, tried to do the Guess Color Game assignment on my own before following the video and it turned out not bad - minus some minor hiccups here and there with Javascript functions.
+
+Definitely need more practise as programming in Ruby is so much easier... and I still have a long way ahead of me.
+
+**Link(s) to work**: 
+
+### Day 91: 22nd December Friday, 2017
+
+**Today's Progress**: Udemy, Codewars
+
+**Thoughts**: Continued the Udemy course, took more notes and read up on CSS variables (custom properties), something that I definitely need to use as I'll be working on multiple similar e-commerce sites soon.
+
+Solving the Codewars exercise got me feeling a little bit inefficient trying to figure out the error - dealing with Javascript's .match() method and regex. After some googling and troubleshooting, finally managed to solve it. Can't believe i took so long for a simple exercise though :/
+
+Doubt I can do much tonight (writing this at 6am) with my stuff planned out but I'm gonna aim to finish jQuery section of Udemy!
+
+**Link(s) to work**: 
+
+### Day 92: 23rd December Saturday, 2017
+
+**Today's Progress**: jQuery
+
+**Thoughts**: Did some jQuery learning on Udemy, wasn't very productive.
+
+**Link(s) to work**:
+
+### Day 93: 24th December Sunday, 2017
+
+**Today's Progress**: Udemy
+
+**Thoughts**: Finished the jQuery section today, did some reading on Javascript and jQuery and realising that while it's widely used by a big number of developers and websites, it's not exactly a great language to code in, and I understand why so. Well, You can say I have doubts but I'm still gonna have to go down this path to learn React and React Native!
+
+**Link(s) to work**:
+
+### Day 94: 25th December Monday, 2017
+
+**Today's Progress**: FCC
+
+**Thoughts**: Managed to solve the last Javascript problem once I keep calm and think about it systematically, but still got stumped at the next one.. Damn! Pretty unproductive too, didn't manage to get a power source..
+
+**Link(s) to work**:
+
+### Day 95: 26th December Tuesday, 2017
+
+**Today's Progress**: Kedanco Website
+
+**Thoughts**: Shifted my website out of github pages again, now hosted on godaddy. Edited my 'skills' section with images instead of the previous boring 'bars' I had previously. Desperately need to start putting something into my 'portfolio' section and come up with a dance site.
+
+**Link(s) to work**:
+
+### Day 96: 27th December Wednesday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 97: 28th December Thursday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 98: 29th December Friday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 99: 30th December Saturday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+### Day 100: 31st December Sunday, 2017
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+**Link(s) to work**:
