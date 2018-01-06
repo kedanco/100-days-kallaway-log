@@ -19,3 +19,29 @@ Slowly but surely, I'm gonna get my skills back.
 **Thoughts:** Preparing the essentials: homepage, flashes, setting up folders and files.
 
 **Link to work:** 
+
+### Day 3: 5th January Friday, 2018
+
+**Today's Progress:** Continued ECommerce Project
+
+**Thoughts:** Did up the main few pages, spent some time getting pissed over CSS (Arranging and aligning icons and text in DIVs, in the end a simple Table did the job pretty easily.) Filled up some content for the individual pages (contact, home etc.) Still got much to do for back-end!
+
+**Link to work:** 
+
+### Day 4: 6th January Saturday, 2018
+
+**Today's Progress:** Continued ECommerce Project, Javascript30 Day 1
+
+**Thoughts:** Today I started on the Javascript 30 challenge! I realised that since i'm stuck with the intermediate algorithms challenges on FCC, maybe I can strengthen my basics by starting on this before heading back. The difficulty of the challenges is really a notch higher than the previous ones...
+
+The first project is a Drumkit - Having different buttons play different drum sounds whenever the user presses the respective keys! Got it done in an hour or two but spent some time trying to add in mouseclicks (not that simple since there's multiple elements), maybe next time!
+
+**Link to work:** kedanco.com
+
+### Day 5: 7th January Sunday, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** 
