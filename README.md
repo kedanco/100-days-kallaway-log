@@ -36,12 +36,27 @@ Slowly but surely, I'm gonna get my skills back.
 
 The first project is a Drumkit - Having different buttons play different drum sounds whenever the user presses the respective keys! Got it done in an hour or two but spent some time trying to add in mouseclicks (not that simple since there's multiple elements), maybe next time!
 
+Also touched up my portfolio site - it's so time-consuming writing the content from scratch and manually writing CSS for each element... Well it's all in the name of practise! Hopefully next time I will have a set of CSS shortcut snippets at my disposal :)
+
 **Link to work:** kedanco.com
 
 ### Day 5: 7th January Sunday, 2018
 
-**Today's Progress:** 
+**Today's Progress:** Javascript30 Day 2, Portfolio Site,
 
-**Thoughts:** 
+**Thoughts:** 2nd day of Javascript 30!
+Using CSS variables to edit image properties and values, also learned the difference between nth-child and nth-of-type (Important!)
+
+Gonna add the 'gallery with filter' feature to my projects - not sure how I'm gonna nest everything under Javascript30 but well, gonna make my site nice!
+
+**Link to work:** 
+
+### Day 6: 8th January Monday, 2018
+
+**Today's Progress:** Javascript30 Day 3
+
+**Thoughts:** Apparently I missed a project - CSS Variables was the 3rd video. But anyways, completed the 2nd project today - a CSS + JS Clock! It was kinda difficult to get the 'center' correct and align the 'hands' of the clock correctly, but everything was rather smooth and easy to understand.
+
+With simple if statements, I even managed to fix a glitchy transition whenever the clock reset to 0 seconds. yay!
 
 **Link to work:** 
