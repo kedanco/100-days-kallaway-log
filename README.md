@@ -60,3 +60,23 @@ Gonna add the 'gallery with filter' feature to my projects - not sure how I'm go
 With simple if statements, I even managed to fix a glitchy transition whenever the clock reset to 0 seconds. yay!
 
 **Link to work:** 
+
+### Day 7: 9th January Tuesday, 2018
+
+**Today's Progress:** Javascript30 Day 4
+
+**Thoughts:** Managed to squeeze in time to complete my JS30 before another dance class - handling arrays today! Had a great time trying out and following the video, and editing my answers to the ES6 syntax.
+
+Since everything's console-log based in this lesson, I don't think I'll put it up unless I have a very great idea how to display these.. haha!
+
+**Link to work:** 
+
+### Day 8: 10th January Wednesday, 2018
+
+**Today's Progress:** Javascript30 Day 5
+
+**Thoughts:** Flex panels was fun. Always wanted to do something like this! Shall dedicate some time to learning flex after I'm familiar with Grid.
+
+Maybe for my dance site, I should add this in as one of the contents on the site.
+
+**Link to work:** 
