@@ -80,3 +80,21 @@ Since everything's console-log based in this lesson, I don't think I'll put it u
 Maybe for my dance site, I should add this in as one of the contents on the site.
 
 **Link to work:** 
+
+### Day 9: 11th January Thursday, 2018
+
+**Today's Progress:** Javascript30 Day 6
+
+**Thoughts:** Spare time's getting shorter everyday, Now i can barely manage to complete an hour of coding.
+
+Started my coding quite late, and was quite sleepy by the time I was done with my Javascript project. Gotta prioritise this more the next time!
+
+**Link to work:** 
+
+### Day 10: 12th January Friday, 2018
+
+**Today's Progress:** Javascript30 Day 7
+
+**Thoughts:** Revised Day 6's work and got Day 7 done pretty quickly - Simpler array exercises compared to the first one.
+
+**Link to work:** 
