@@ -98,3 +98,13 @@ Started my coding quite late, and was quite sleepy by the time I was done with m
 **Thoughts:** Revised Day 6's work and got Day 7 done pretty quickly - Simpler array exercises compared to the first one.
 
 **Link to work:** 
+
+### Day 11: 13th January Saturday, 2018
+
+**Today's Progress:** Javascript30 Day 8, Project page
+
+**Thoughts:** Today's project was on HTML Canvas, and it was fun! Well, this tutorial is pretty much the tip of the iceberg, and I'm sure there's so much more available things to play with. Heck, there's even 3D Canvas that can animate and rotate stuff around!
+
+Also did up a proper image grid for my portfolio site's project page! Almost wanted to give up making a text label appear over when hovering on top of the image, but managed to make it work. Gonna add image transition and also prepare the images for my projects! Excited to finish it!
+
+**Link to work:** 
