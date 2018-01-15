@@ -121,7 +121,7 @@ Project 9 was a very simple lesson on multiple console. commands, so I decided t
 
 **Link to work:** 
 
-### Day 12: 14th January Sunday, 2018
+### Day 13: 15th January Monday, 2018
 
 **Today's Progress:** Javascript30 Day 11
 
