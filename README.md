@@ -108,3 +108,15 @@ Started my coding quite late, and was quite sleepy by the time I was done with m
 Also did up a proper image grid for my portfolio site's project page! Almost wanted to give up making a text label appear over when hovering on top of the image, but managed to make it work. Gonna add image transition and also prepare the images for my projects! Excited to finish it!
 
 **Link to work:** 
+
+### Day 12: 14th January Sunday, 2018
+
+**Today's Progress:** Javascript30 Day 9 & 10, Project page
+
+**Thoughts:** Today, I found out that creating a range of numbers in Javascript, from X to Y, was highly inconvenient. I miss the awesome (1..4) notation in Ruby where it was so convenient, and we could directly do a loop after that.
+
+After some researching, I found that a normal for loop would be the best way. Well, I spent a little more time but I managed to do project 10 by myself! :D
+
+Project 9 was a very simple lesson on multiple console. commands, so I decided to just move on to 10.
+
+**Link to work:** 
