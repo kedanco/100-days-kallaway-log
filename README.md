@@ -130,3 +130,17 @@ Project 9 was a very simple lesson on multiple console. commands, so I decided t
 Was stuck on the fullscreen button for a little while but managed to accomplish it. Yay!
 
 **Link to work:** 
+
+### Day 14: 16th January Tuesday, 2018
+
+**Today's Progress:** Javascript30 Day 12 & 13
+
+**Thoughts:** Today's projects on Key Sequence Detection & Slide on Scroll was pretty simple.
+
+For the Key sequence, it was a simple 5-min video on event-listening to user's keyboard inputs and checking them against an array.
+
+Sliding images in on scroll was more interesting, I've seen countless websites, especially landing pages, utilize this to make the website more interactive, and I've always wondered how to make it happen, even reverse it.
+
+Thanks to the previous CSS Clock project that covered transforming and translating X and Y values, this project was easier to understand. Gonna implement it soon!
+
+**Link to work:** 
