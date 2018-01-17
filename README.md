@@ -143,4 +143,18 @@ Sliding images in on scroll was more interesting, I've seen countless websites, 
 
 Thanks to the previous CSS Clock project that covered transforming and translating X and Y values, this project was easier to understand. Gonna implement it soon!
 
+Also uploaded my first few JS30 projects to my portfolio site! Gonna find time to add everything in soon :D
+
+**Link to work:** 
+
+### Day 15: 17th January Wednesday, 2018
+
+**Today's Progress:** Javascript30 Day 14
+
+**Thoughts:** Barely enough time for coding today! Covered a familiar topic - data types that pass by value or reference. An important concept that solved the simplest but most head-scratching of problems, and something that I read about again in YDKJS
+
+Squeezed out time for the video, understoof and best takeaway were the multiple methods that allow for copying by value from arrays! Dealing with objects still seem pretty limited.
+
+Also, prepared the rest of my screenshots today. Gonna be filling up my js30 image grid!
+
 **Link to work:** 
