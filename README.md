@@ -158,3 +158,13 @@ Squeezed out time for the video, understoof and best takeaway were the multiple 
 Also, prepared the rest of my screenshots today. Gonna be filling up my js30 image grid!
 
 **Link to work:** 
+
+### Missed A Day : 18th January Thursday, 2018
+
+### Day 16: 19th January Friday, 2018
+
+**Today's Progress:** Javascript30 Day 15
+
+**Thoughts:** 
+
+**Link to work:** 
