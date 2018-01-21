@@ -187,7 +187,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
 
 ### Day 17 : 21st January Sunday, 2018
 
-**Today's Progress:** Javascript30 Day 17 & 18
+**Today's Progress:** Javascript30 Day 17 & 18, E-Commerce
 
 **Thoughts:** Project on Sorting names (dealing with strings), and also using .map and .reduce to add a list of time together.
 
@@ -198,7 +198,11 @@ Also it's been some time since I made an effort to do that!
 
 Project 18 was pretty simple & straightforward, but I'm amazed by how concise code can be using map and reduce. It's like back to dealing with Ruby code.
 
+Back to working on the E-commerce project today. Spent a shit load of time figuring out flex for the navbar.
 
+Also discovered css :not() rule! So useful for exceptions :)
+You can actually chain it together like li:hover:not(.class)
 
+Did quite a bit of work (though, really really slow) for the e-commerce homepage. Feels assuring knowing that I configured it to be responsive as I was putting in the skeleton so that it won't come back to haunt me next time :)
 
 **Link to work:** 
