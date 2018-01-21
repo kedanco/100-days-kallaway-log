@@ -10,7 +10,7 @@ Spent some time planning and organising migration files, this process required m
 
 Slowly but surely, I'm gonna get my skills back.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 2: 4th January Thursday, 2018
 
@@ -18,7 +18,7 @@ Slowly but surely, I'm gonna get my skills back.
 
 **Thoughts:** Preparing the essentials: homepage, flashes, setting up folders and files.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 3: 5th January Friday, 2018
 
@@ -26,7 +26,7 @@ Slowly but surely, I'm gonna get my skills back.
 
 **Thoughts:** Did up the main few pages, spent some time getting pissed over CSS (Arranging and aligning icons and text in DIVs, in the end a simple Table did the job pretty easily.) Filled up some content for the individual pages (contact, home etc.) Still got much to do for back-end!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 4: 6th January Saturday, 2018
 
@@ -38,7 +38,7 @@ The first project is a Drumkit - Having different buttons play different drum so
 
 Also touched up my portfolio site - it's so time-consuming writing the content from scratch and manually writing CSS for each element... Well it's all in the name of practise! Hopefully next time I will have a set of CSS shortcut snippets at my disposal :)
 
-**Link to work:** kedanco.com
+**Link to work:** kedanco.com/projects
 
 ### Day 5: 7th January Sunday, 2018
 
@@ -49,7 +49,7 @@ Using CSS variables to edit image properties and values, also learned the differ
 
 Gonna add the 'gallery with filter' feature to my projects - not sure how I'm gonna nest everything under Javascript30 but well, gonna make my site nice!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 6: 8th January Monday, 2018
 
@@ -59,7 +59,7 @@ Gonna add the 'gallery with filter' feature to my projects - not sure how I'm go
 
 With simple if statements, I even managed to fix a glitchy transition whenever the clock reset to 0 seconds. yay!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 7: 9th January Tuesday, 2018
 
@@ -69,7 +69,7 @@ With simple if statements, I even managed to fix a glitchy transition whenever t
 
 Since everything's console-log based in this lesson, I don't think I'll put it up unless I have a very great idea how to display these.. haha!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 8: 10th January Wednesday, 2018
 
@@ -79,7 +79,7 @@ Since everything's console-log based in this lesson, I don't think I'll put it u
 
 Maybe for my dance site, I should add this in as one of the contents on the site.
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 9: 11th January Thursday, 2018
 
@@ -89,7 +89,7 @@ Maybe for my dance site, I should add this in as one of the contents on the site
 
 Started my coding quite late, and was quite sleepy by the time I was done with my Javascript project. Gotta prioritise this more the next time!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 10: 12th January Friday, 2018
 
@@ -97,7 +97,7 @@ Started my coding quite late, and was quite sleepy by the time I was done with m
 
 **Thoughts:** Revised Day 6's work and got Day 7 done pretty quickly - Simpler array exercises compared to the first one.
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 11: 13th January Saturday, 2018
 
@@ -107,7 +107,7 @@ Started my coding quite late, and was quite sleepy by the time I was done with m
 
 Also did up a proper image grid for my portfolio site's project page! Almost wanted to give up making a text label appear over when hovering on top of the image, but managed to make it work. Gonna add image transition and also prepare the images for my projects! Excited to finish it!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 12: 14th January Sunday, 2018
 
@@ -119,7 +119,7 @@ After some researching, I found that a normal for loop would be the best way. We
 
 Project 9 was a very simple lesson on multiple console. commands, so I decided to just move on to 10.
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 13: 15th January Monday, 2018
 
@@ -129,7 +129,7 @@ Project 9 was a very simple lesson on multiple console. commands, so I decided t
 
 Was stuck on the fullscreen button for a little while but managed to accomplish it. Yay!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 14: 16th January Tuesday, 2018
 
@@ -145,7 +145,7 @@ Thanks to the previous CSS Clock project that covered transforming and translati
 
 Also uploaded my first few JS30 projects to my portfolio site! Gonna find time to add everything in soon :D
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Day 15: 17th January Wednesday, 2018
 
@@ -157,14 +157,48 @@ Squeezed out time for the video, understoof and best takeaway were the multiple 
 
 Also, prepared the rest of my screenshots today. Gonna be filling up my js30 image grid!
 
-**Link to work:** 
+**Link to work:** kedanco.com/projects
 
 ### Missed A Day : 18th January Thursday, 2018
 
 ### Day 16: 19th January Friday, 2018
 
-**Today's Progress:** Javascript30 Day 15
+**Today's Progress:** Javascript30 Day 15 & 16
 
-**Thoughts:** 
+**Thoughts:** Caught up with my JS30 progress! Learned about the localStorage object on browsers, Event Delegation (using different eventlistener for different things) and CSS Text Shadow effct!
+
+Quite fun to play around though I think recently I've been 'following' the videos a tad too strictly and haven't been playing around much. Now that I'm past the halfway mark, I'm gonna do a revision either tmr or Sunday before proceeding on with the remaining projects :)
+
+Also, Spent some time understanding and editing the navbar of my portfolio site - learned about the HTML version of css media query!
+
+using window.matchMedia, (and a eventlistener if you wish to check for media with change after browser load), I tried inserting/removing HTML elements. I had to deal with nodelists (the list of items that the DOM returns) and the childNodes function, which didn't work out so well. I also tried adding .pull-right class to the buttons for a different alignment.
+
+I ended up doing a simple replacing the innerHTML with a new string of html code.
+
+Done.
+
+I'm sure there's a shorter way to do this, but this feels smart at the moment. Great learning today :)
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
+
+**Link to work:** kedanco.com
+
+### Missed A Day : 20th January Saturday, 2018
+
+### Day 17 : 21st January Sunday, 2018
+
+**Today's Progress:** Javascript30 Day 17 & 18
+
+**Thoughts:** Project on Sorting names (dealing with strings), and also using .map and .reduce to add a list of time together.
+
+Spent a chunk of time extending the sorting one into multiple functions and also making a button that could switch to choose to sort with or without articles!
+
+Code was (obviously) longer than the simple version in the video but I learned quite a lot doing my own things :)
+Also it's been some time since I made an effort to do that!
+
+Project 18 was pretty simple & straightforward, but I'm amazed by how concise code can be using map and reduce. It's like back to dealing with Ruby code.
+
+
+
 
 **Link to work:** 
