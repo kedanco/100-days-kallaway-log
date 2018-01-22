@@ -206,3 +206,13 @@ You can actually chain it together like li:hover:not(.class)
 Did quite a bit of work (though, really really slow) for the e-commerce homepage. Feels assuring knowing that I configured it to be responsive as I was putting in the skeleton so that it won't come back to haunt me next time :)
 
 **Link to work:** 
+
+### Day 18 : 22nd January Monday, 2018
+
+**Today's Progress:** Javascript30 Day 19, E-Commerce
+
+**Thoughts:** Today I realise the more time I have, and the more I am willing to dedicate to doing projects & trying out new stuff, the more time I spend debugging with Chrome Devtools and the more I understand about how to go about solving problems and improving my css layouts.
+
+Done with Footer of my e-commerce project, gonna move on to the back-end which would require more rails :)
+
+**Link to work:** 
