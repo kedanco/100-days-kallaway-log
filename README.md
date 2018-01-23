@@ -213,6 +213,8 @@ Did quite a bit of work (though, really really slow) for the e-commerce homepage
 
 **Thoughts:** Today I realise the more time I have, and the more I am willing to dedicate to doing projects & trying out new stuff, the more time I spend debugging with Chrome Devtools and the more I understand about how to go about solving problems and improving my css layouts.
 
-Done with Footer of my e-commerce project, gonna move on to the back-end which would require more rails :)
+For my e-commerce project, I'm done with Footer, improved the navbar, sorted out container heights and edited the spacing here and there. gonna move on to the back-end which would require more rails :)
+
+Faced an annoying https issue with day 19's project. It's like solving codepen with fcc projects again. Stuff like this sometimes reduced my faith in technology :rollseye:
 
 **Link to work:** 
