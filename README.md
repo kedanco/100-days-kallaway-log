@@ -230,3 +230,19 @@ Injected some basic data into mongo, ran the app with node, and connected these 
 Not exploring Angular for the front-end yet, maybe that'll come later. Gotta rush to get this app working before tmr :)
 
 **Link to work:** 
+
+### Day 20 : 24th January Wednesday, 2018
+
+**Today's Progress:** Url Shortener App, Alpha Camp Meetup
+
+**Thoughts:** Today was an amazing day, every little time that I squeezed out in between my dance classes to rush this Url Shortener app turned out to be extremely productive : I managed to solve error after error, and recognize my little steps of progress here and there throughout the day. Even though I was sleepy sometimes (mostly on the train), I managed to get the app working at the end of the day!
+
+It's 10.37pm here at Alpha Camp, and it feels good to be back. The meetup was awesome, with people contributing different things that they learned. I found that spending time to explore, research and tweak stuff here and there leads you to question & find out how, and why the code works (or does not work)
+
+I feel pretty satisfied with my progress (the patience and effort... is worth it), and I can't imagine joining a Hackathon one day to squeeze out a product in an environment of higher intensity.
+
+Comparing to Rails, I don't think I'm going to start exploring another MEAN app anytime now, as I've still got stuff I need to do, but I'm gonna definitely beautify this app and host it somewhere (without the entire bloated node_modules folder, probably?)
+
+Alright, back to JS30 and Rails tmr. :)
+
+**Link to work:** 
