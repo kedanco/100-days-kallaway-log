@@ -215,6 +215,18 @@ Did quite a bit of work (though, really really slow) for the e-commerce homepage
 
 For my e-commerce project, I'm done with Footer, improved the navbar, sorted out container heights and edited the spacing here and there. gonna move on to the back-end which would require more rails :)
 
-Faced an annoying https issue with day 19's project. It's like solving codepen with fcc projects again. Stuff like this sometimes reduced my faith in technology :rollseye:
+Faced an annoying https issue with day 19's project. It's like solving codepen with fcc projects again. Stuff like this sometimes reduce my faith in technology :rollseye:
+
+**Link to work:** 
+
+### Day 19 : 23rd January Tuesday, 2018
+
+**Today's Progress:** Udemy Node Course
+
+**Thoughts:** Went back to Udemy's Node course and started from the bottom again! Preparation for the Alpha Camp meet-up tmr on the MEAN Stack - after much tutorial-following, reading and endless MongoDB troubleshooting, finally managed to get my first MEAN stack app working!
+
+Injected some basic data into mongo, ran the app with node, and connected these 2 through express.
+
+Not exploring Angular for the front-end yet, maybe that'll come later. Gotta rush to get this app working before tmr :)
 
 **Link to work:** 
