@@ -246,3 +246,15 @@ Comparing to Rails, I don't think I'm going to start exploring another MEAN app 
 Alright, back to JS30 and Rails tmr. :)
 
 **Link to work:** 
+
+### Day 21 : 25th January Thursday, 2018
+
+**Today's Progress:** Javascript30 Day 19,20
+
+**Thoughts:** Solved the previous issue by just starting my project up with a proper localhost server (npm start) instead of local file, and the commands worked.
+
+Went through the video again, and continued on to day20's speech recognition project.
+
+I still think it's pretty amazing how some stuff are built into browsers that most sites dont totally utilize. Should build a few projects revolving around these for fun :)
+
+**Link to work:** 
