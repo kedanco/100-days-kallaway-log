@@ -258,3 +258,15 @@ Went through the video again, and continued on to day20's speech recognition pro
 I still think it's pretty amazing how some stuff are built into browsers that most sites dont totally utilize. Should build a few projects revolving around these for fun :)
 
 **Link to work:** 
+
+### Day 22 : 26th January Friday, 2018
+
+**Today's Progress:** Javascript30 Day 21, E-commerce 
+
+**Thoughts:** Today's js30 project was about geolocating speed and compass! Unfortunately, this required a phone simulation to carry out, and I haven't got around to doing it.. the code was pretty short and simple to understand though!
+
+Continued to do my Rails project, and I spent a good time solving basic routing errors (sounds like first few weeks of bootcamp), but just some reading up got me to understand what I missed out in my project. Sometimes the things I miss out are things that were handled by other group members in previous projects.
+
+I took quite a long time to style the forms, but at least most of the CSS were re-applicable. I haven't even touched all the back-end stuff yet, damn!
+
+**Link to work:** 
