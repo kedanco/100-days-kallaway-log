@@ -2,7 +2,7 @@
 
 ### Day 1: 3rd January Wednesday, 2018
 
-**Today's Progress:** Started on ECommerce project, Rails Revision
+**Today's Progress:** Started on Backend Portal project, Rails Revision
 
 **Thoughts:** Needed to revise on Ruby and Rails, after such a long time of spending my time doing other things, whatever I learned about Ruby and Rails seemed to have become pretty rusty...Thank gooodness we had our old projects for reference!
 
@@ -14,7 +14,7 @@ Slowly but surely, I'm gonna get my skills back.
 
 ### Day 2: 4th January Thursday, 2018
 
-**Today's Progress:** Continued ECommerce project
+**Today's Progress:** Continued Backend Portal project
 
 **Thoughts:** Preparing the essentials: homepage, flashes, setting up folders and files.
 
@@ -22,7 +22,7 @@ Slowly but surely, I'm gonna get my skills back.
 
 ### Day 3: 5th January Friday, 2018
 
-**Today's Progress:** Continued ECommerce Project
+**Today's Progress:** Continued Backend Portal Project
 
 **Thoughts:** Did up the main few pages, spent some time getting pissed over CSS (Arranging and aligning icons and text in DIVs, in the end a simple Table did the job pretty easily.) Filled up some content for the individual pages (contact, home etc.) Still got much to do for back-end!
 
@@ -30,7 +30,7 @@ Slowly but surely, I'm gonna get my skills back.
 
 ### Day 4: 6th January Saturday, 2018
 
-**Today's Progress:** Continued ECommerce Project, Javascript30 Day 1
+**Today's Progress:** Continued Backend Portal Project, Javascript30 Day 1
 
 **Thoughts:** Today I started on the Javascript 30 challenge! I realised that since i'm stuck with the intermediate algorithms challenges on FCC, maybe I can strengthen my basics by starting on this before heading back. The difficulty of the challenges is really a notch higher than the previous ones...
 
@@ -187,7 +187,7 @@ https://developer.mozilla.org/en-US/docs/Web/API/Window/matchMedia
 
 ### Day 17 : 21st January Sunday, 2018
 
-**Today's Progress:** Javascript30 Day 17 & 18, E-Commerce
+**Today's Progress:** Javascript30 Day 17 & 18, Backend Portal
 
 **Thoughts:** Project on Sorting names (dealing with strings), and also using .map and .reduce to add a list of time together.
 
@@ -198,7 +198,7 @@ Also it's been some time since I made an effort to do that!
 
 Project 18 was pretty simple & straightforward, but I'm amazed by how concise code can be using map and reduce. It's like back to dealing with Ruby code.
 
-Back to working on the E-commerce project today. Spent a shit load of time figuring out flex for the navbar.
+Back to working on the Backend Portal project today. Spent a shit load of time figuring out flex for the navbar.
 
 Also discovered css :not() rule! So useful for exceptions :)
 You can actually chain it together like li:hover:not(.class)
@@ -209,7 +209,7 @@ Did quite a bit of work (though, really really slow) for the e-commerce homepage
 
 ### Day 18 : 22nd January Monday, 2018
 
-**Today's Progress:** Javascript30 Day 19, E-Commerce
+**Today's Progress:** Javascript30 Day 19, Backend Portal
 
 **Thoughts:** Today I realise the more time I have, and the more I am willing to dedicate to doing projects & trying out new stuff, the more time I spend debugging with Chrome Devtools and the more I understand about how to go about solving problems and improving my css layouts.
 
@@ -261,12 +261,26 @@ I still think it's pretty amazing how some stuff are built into browsers that mo
 
 ### Day 22 : 26th January Friday, 2018
 
-**Today's Progress:** Javascript30 Day 21, E-commerce 
+**Today's Progress:** Javascript30 Day 21, Backend Portal 
 
 **Thoughts:** Today's js30 project was about geolocating speed and compass! Unfortunately, this required a phone simulation to carry out, and I haven't got around to doing it.. the code was pretty short and simple to understand though!
 
 Continued to do my Rails project, and I spent a good time solving basic routing errors (sounds like first few weeks of bootcamp), but just some reading up got me to understand what I missed out in my project. Sometimes the things I miss out are things that were handled by other group members in previous projects.
 
 I took quite a long time to style the forms, but at least most of the CSS were re-applicable. I haven't even touched all the back-end stuff yet, damn!
+
+**Link to work:** 
+
+### Missed A Day : 27th January Saturday, 2018
+
+### Day 23 : 28th January Sunday, 2018
+
+**Today's Progress:** Javascript30 Day 22, Backend Portal 
+
+**Thoughts:** Spent a big chunk of my time today on reading up and my Backend Portal Rails project. Went through the different Slack channels for 100DaysOfCode and realise I should ask for collaboration projects next time over there haha!
+
+Today's JS30 was on creating a smooth pill-like background that appears whenever you mouseover a link, across the page! Pretty short and straight-forward, I wonder why I haven't thought of doing it myself.
+
+It felt great to be progressing on my rails project, finally I can feel the skills returning to me! Doing things that were previously done is easy, I think the challenge will come when I need to create the tags, filters and product variations properly. (I only did a hack-ish filter last time around).
 
 **Link to work:** 
