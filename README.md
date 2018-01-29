@@ -284,3 +284,15 @@ Today's JS30 was on creating a smooth pill-like background that appears whenever
 It felt great to be progressing on my rails project, finally I can feel the skills returning to me! Doing things that were previously done is easy, I think the challenge will come when I need to create the tags, filters and product variations properly. (I only did a hack-ish filter last time around).
 
 **Link to work:** 
+
+### Day 24 : 29th January Monday, 2018
+
+**Today's Progress:** Javascript30 Day 23, YDKJS, Backend Portal 
+
+**Thoughts:** Managed to get the Cart working! Glad that I did up my old code properly, if not I would be having more problems right now :laughs: Inevitably, I faced some bugs, but progress was good considering the time I had today.
+
+JS30 Day23's project was about a Speech Synthesizer that could read out text on the page with an adjustable speed and pitch. pretty interesting, and immediately I went on to google if anyone did a Rap version. It actually exists, though outdated and not exactly working properly.
+
+Glad that I'm back to reading up on YDKJS. A chapter a day shouldn't be too difficult :) Motivation for this is actually the CS + WD Trello board, which I aim to complete by early 2019.. 1 year to go, should be possible right :) let's push!
+
+**Link to work:** 
