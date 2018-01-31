@@ -296,3 +296,20 @@ JS30 Day23's project was about a Speech Synthesizer that could read out text on 
 Glad that I'm back to reading up on YDKJS. A chapter a day shouldn't be too difficult :) Motivation for this is actually the CS + WD Trello board, which I aim to complete by early 2019.. 1 year to go, should be possible right :) let's push!
 
 **Link to work:** 
+
+### Day 25 : 30th January Tuesday, 2018
+
+**Today's Progress:** Javascript30 Day 24, Backend Portal 
+
+**Thoughts:** Today was a 'I hate jQuery!!' kinda day. Spent a big chunk of my time debugging stupid errors when Vanilla JS could've done the job easily.
+
+But, at least I (kinda) did up my first proper dropdown menu (with a very nice pointy triangle at the top). I'll soon be done with the User side of the project, minus the complicated order & paying processes!
+
+Today's JS30 was on making a sticky nav. I had already learned how to copy and style one, but having a stylish animation for another tab appearing was awesome.
+
+TIL
+- The triangle is made from a box, with only 1 side of visible border
+- jQuery is not as helpful as it is supposed to be
+- fixed elements do not take up space in the browser, they float above other elements
+
+**Link to work:** 
