@@ -307,7 +307,7 @@ But, at least I (kinda) did up my first proper dropdown menu (with a very nice p
 
 Today's JS30 was on making a sticky nav. I had already learned how to copy and style one, but having a stylish animation for another tab appearing was awesome.
 
-TIL
+TIL:
 - The triangle is made from a box, with only 1 side of visible border
 - jQuery is not as helpful as it is supposed to be
 - fixed elements do not take up space in the browser, they float above other elements
