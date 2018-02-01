@@ -313,3 +313,11 @@ TIL:
 - fixed elements do not take up space in the browser, they float above other elements
 
 **Link to work:** 
+
+### Day 26 : 31st January Wednesday, 2018
+
+**Today's Progress:** Backend Portal
+
+**Thoughts:** Squeezed in an hour or two in between my classes today. Encountered bugs that I didn't know how to solve, but moved on to continue the backend Rails site. Time to stackoverflow that problem!
+
+**Link to work:** 
