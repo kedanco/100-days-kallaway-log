@@ -321,3 +321,15 @@ TIL:
 **Thoughts:** Squeezed in an hour or two in between my classes today. Encountered bugs that I didn't know how to solve, but moved on to continue the backend Rails site. Time to stackoverflow that problem!
 
 **Link to work:** 
+
+### Day 27 : 1st Feb Thursday, 2018
+
+**Today's Progress:** Backend Portal
+
+**Thoughts:** Trying to finish this portal as fast as possible, so haven't been continuing with JS30. Definitely have time for that tmr though, maybe I'll aim to complete 2-3 projects to catch-up.
+
+Almost done with the user account side of the portal, It's the CSS that's slowing me down right now :(.
+
+Found out that CS50 has other lectures available and not just normal programming fundamentals. Definitely will check them out after I'm done with this!
+
+**Link to work:** 
