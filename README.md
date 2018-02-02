@@ -333,3 +333,17 @@ Almost done with the user account side of the portal, It's the CSS that's slowin
 Found out that CS50 has other lectures available and not just normal programming fundamentals. Definitely will check them out after I'm done with this!
 
 **Link to work:** 
+
+### Day 28 : 2nd Feb Friday, 2018
+
+**Today's Progress:** Backend Portal, JS30 Day 25,26
+
+**Thoughts:** Back to JS30! Project on creating appearing submenu's (following the previous project on mouseover - white bg) and also on how event captures work.
+
+There's always new stuff to learn through these projects but I realise I haven't been applying it to my current Rails backend portal where I do have a sub-menu.
+
+Time to change up the code for better flexibility!
+
+Also, decent progress on the Rails project, did up some layouts (no big issue today) but I can foresee the hassle as I'm gonna do up a whole edit form for the user's details..
+
+**Link to work:** 
