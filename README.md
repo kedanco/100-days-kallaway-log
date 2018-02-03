@@ -347,3 +347,15 @@ Time to change up the code for better flexibility!
 Also, decent progress on the Rails project, did up some layouts (no big issue today) but I can foresee the hassle as I'm gonna do up a whole edit form for the user's details..
 
 **Link to work:** 
+
+### Day 28 : 3rd Feb Saturday, 2018
+
+**Today's Progress:** Backend Portal, JS30 Day 27
+
+**Thoughts:** Today's work on the portal was confusing as hell. Realised I had the address attributes under User, but User could have more than 1 set of address - there was no place to store the extra values. Created an Address model and tried to reorganise the forms. Now having the forms in between user, devise and address routes this shit is gonna get confusing.
+
+Today's JS30 project was cool, learned how to get page/mouse X values to drag a slider with mouseclick (normally able with shift-scroll)
+
+Gotta finish the User side functionalities soon.
+
+**Link to work:** 
