@@ -348,14 +348,19 @@ Also, decent progress on the Rails project, did up some layouts (no big issue to
 
 **Link to work:** 
 
-### Day 28 : 3rd Feb Saturday, 2018
+### Day 29 : 3rd Feb Saturday, 2018
 
-**Today's Progress:** Backend Portal, JS30 Day 27
+**Today's Progress:** Backend Portal, JS30 Day 27, FreeCodeCamp
 
 **Thoughts:** Today's work on the portal was confusing as hell. Realised I had the address attributes under User, but User could have more than 1 set of address - there was no place to store the extra values. Created an Address model and tried to reorganise the forms. Now having the forms in between user, devise and address routes this shit is gonna get confusing.
 
 Today's JS30 project was cool, learned how to get page/mouse X values to drag a slider with mouseclick (normally able with shift-scroll)
 
 Gotta finish the User side functionalities soon.
+
+Anyway, managed to squeeze in time (and patience) to solve 4 of the Intermediate Algorithms on FreeCodeCamp! Finally back here after so long, and it was because I was so stuck on the Roman Numerals problem.
+Sometimes, it's perfectly fine to ask for a little help :)
+
+Was supposed to finish my front-end cert tomorrow, but I guess it'll need to be postponed.
 
 **Link to work:** 
