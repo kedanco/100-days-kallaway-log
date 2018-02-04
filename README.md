@@ -364,3 +364,18 @@ Sometimes, it's perfectly fine to ask for a little help :)
 Was supposed to finish my front-end cert tomorrow, but I guess it'll need to be postponed.
 
 **Link to work:** 
+
+### Day 30 : 4th Feb Sunday, 2018
+
+**Today's Progress:** JS30 Day 28, FreeCodeCamp
+
+**Thoughts:** FreeCodeCamp progress today was awesome. Solved 6 challenges (2 more than yesterday!) and did a lot of javascript reading along the way - operators I didn't know existed, details and differences between some of them, potential pitfalls to take note of.
+
+Even though I still need to refer for basic tasks dealing with strings and the like, at least everything feels easier and smoother now as I'm coding through the challenges. That is, until I encountered a challenge that needed regex - Regular Expressions
+
+Regex is F-ed up. It's magic when it works, but it's confusing as hell and difficult to pick up... need a lot of patience for this one.
+
+JS30 today on a Video Speed Controller UI, pretty straightforward but I'm still amazed how the video is actually below 10 mins.
+Wonder when will I be able to be as savvy as this :)
+
+**Link to work:** 
