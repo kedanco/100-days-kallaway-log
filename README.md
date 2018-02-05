@@ -386,4 +386,6 @@ Wonder when will I be able to be as savvy as this :)
 
 **Thoughts:** Continued with 2 FCC Exercises! Today's JS30 project on Countdown Clock was quite different, dealing with integer to time values, converting them and displaying.
 
+Encountered a Lowest Common Multiple Range challenge on FCC and totally didn't understand what's going on. These mathematical stuff still feels difficult to understand. Need more practise..
+
 **Link to work:** 
