@@ -379,3 +379,11 @@ JS30 today on a Video Speed Controller UI, pretty straightforward but I'm still 
 Wonder when will I be able to be as savvy as this :)
 
 **Link to work:** 
+
+### Day 31 : 5th Feb Monday, 2018
+
+**Today's Progress:** JS30 Day 29, FreeCodeCamp
+
+**Thoughts:** Continued with 2 FCC Exercises! Today's JS30 project on Countdown Clock was quite different, dealing with integer to time values, converting them and displaying.
+
+**Link to work:** 
