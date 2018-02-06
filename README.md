@@ -389,3 +389,19 @@ Wonder when will I be able to be as savvy as this :)
 Encountered a Lowest Common Multiple Range challenge on FCC and totally didn't understand what's going on. These mathematical stuff still feels difficult to understand. Need more practise..
 
 **Link to work:** 
+
+### Day 32 : 6th Feb Tuesday, 2018
+
+**Today's Progress:** !!JS30 Day 30!!
+
+**Thoughts:** I'm finally done with Wes Bos's #Javascript30 challenge! Finally I can spend time finishing other things on FCC and doing the new grid/flexbox course :D
+
+Today's project on the Whack-A-Mole game was extremely fun! I've always wanted to challenge my skills with game/product/website creation and not with boring exercises... haha! But well, we need to do those to test ourselves and learn right. I guess maybe I could push myself to learn more by creating stuff rather than practising with exercises.
+
+Added my own difficulty and timelimit input to the game.
+Also added a wooden mallet as a custom cursor, and to rotate (hammer) when clicked)
+It's been sometime since I added extra features to JS30 projects :)
+I think I'll find the time to add in LocalStorage, A ranking board and (maybe) the option to change cursor images!
+
+
+**Link to work:** 
