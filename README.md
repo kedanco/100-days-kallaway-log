@@ -405,3 +405,11 @@ I think I'll find the time to add in LocalStorage, A ranking board and (maybe) t
 
 
 **Link to work:** 
+
+### Day 33 : 7th Feb Wednesday, 2018
+
+**Today's Progress:** Update portfolio site, FCC Challenges
+
+**Thoughts:** 
+
+**Link to work:** 
