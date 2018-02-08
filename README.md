@@ -410,6 +410,17 @@ I think I'll find the time to add in LocalStorage, A ranking board and (maybe) t
 
 **Today's Progress:** Update portfolio site, FCC Challenges
 
-**Thoughts:** 
+**Thoughts:** FCC was straightforward for the next 2. The challenge passed in 2 arguments, 1 was an array and 2nd was a function with a condition.
+
+The 2 challenges were to return the result, and drop elements if the condition were true.
+I learned that return true; is used to break out of array.some :)
+
+**Link to work:** 
+
+### Day 34 : 8th Feb Thursday, 2018
+
+**Today's Progress:** Work on Whack A Mole Game
+
+**Thoughts:** Didn't have much time these few days. Worked on the Whack A Mole game, improved the CSS. haven't got to work on the leaderboard yet.
 
 **Link to work:** 
