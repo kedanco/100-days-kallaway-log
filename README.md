@@ -424,3 +424,19 @@ I learned that return true; is used to break out of array.some :)
 **Thoughts:** Didn't have much time these few days. Worked on the Whack A Mole game, improved the CSS. haven't got to work on the leaderboard yet.
 
 **Link to work:** 
+
+### Day 35 : 9th Feb Friday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Productive time on the Rails Portal, coded on the train and in between classes. Just a bit more before I’m done with the whole Users Module and can move on to Admin!
+
+**Link to work:** 
+
+### Day 36 : 10th Feb Saturday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Spent a lot of time today solving silly mistakes, and falling asleep but I got most of the addresses part done. Now left with editing addresses, and changing passwords!
+
+**Link to work:** 
