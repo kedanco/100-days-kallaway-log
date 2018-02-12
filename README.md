@@ -440,3 +440,26 @@ I learned that return true; is used to break out of array.some :)
 **Thoughts:** Spent a lot of time today solving silly mistakes, and falling asleep but I got most of the addresses part done. Now left with editing addresses, and changing passwords!
 
 **Link to work:** 
+
+### Day 37 : 11th Feb Sunday, 2018
+
+**Today's Progress:** Google Apps Script, FreeCodeCamp
+
+**Thoughts:** Read up on lines and lines of code but I don't completely understand what's going on... But managed to follow a tutorial and build the following:
+1st Project - Using event data from an excel sheet, build a Google Form that gets user's RSVP for the different events. Thereafter, send a google calendar invite to the user, and provide them with a google doc containing instructions :)
+
+2nd Project - Publish a webpage with Google Script, and retrieve JSON from an API and display it.
+
+Google Script actually has loads of potential to make using Google Tools easier!
+
+Also, managed to finish the last Intermediate Algorithm challenge on FCC! It was kinda challenging as it dealt with returning a function, and then calling it as a IIFE (Immediately Invoked Function Expression). Shall aim to finish the Advanced Algo's by this week!
+
+**Link to work:** 
+
+### Day 38 : 12th Feb Monday, 2018
+
+**Today's Progress:** Google Apps Script
+
+**Thoughts:** Managed to get the HTML and CSS working with Google Script! But the JS really works in a funny way... guess GS is a good tool to deal with the other Google Products but not really nice when just working with the default HTML webpage structure :/
+
+**Link to work:** 
