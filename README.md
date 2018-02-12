@@ -462,4 +462,16 @@ Also, managed to finish the last Intermediate Algorithm challenge on FCC! It was
 
 **Thoughts:** Managed to get the HTML and CSS working with Google Script! But the JS really works in a funny way... guess GS is a good tool to deal with the other Google Products but not really nice when just working with the default HTML webpage structure :/
 
+After the meetup today, I realised that everything actually works fine if you lump it in as 1 html file, it just becomes a hassle if you wish to include scripts or styles in separate files from the editor itself. Any files to be included normally works as per normal.
+
+A few of the use cases we discussed today:
+Using Spreadsheet to create form > add events to Calendar
+Using Spreadsheet to return data from a Telegram Bot
+Populating a Spreadsheet with data from a webpage form
+Bulk marking emails as 'read'
+Running a Google Script Cron Job to check online status of Heroku site
+From Spreadsheet, send SMS to list of users
+
+So much to learn, my code was barely innovative/impressive. It's not a competition, but I shall try harder next time :)
+
 **Link to work:** 
