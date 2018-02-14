@@ -485,3 +485,15 @@ So much to learn, my code was barely innovative/impressive. It's not a competiti
 Shall attend more meetups to meet more people and learn from others!
 
 **Link to work:** 
+
+### Day 40 : 14th Feb Wednesday, 2018
+
+**Today's Progress:** FCC, Twilio
+
+**Thoughts:** Started with Advanced Algo on FCC. Difficult, and I think I need to restart to work out an appropriate flow for the code. Now everything's all over the place.
+
+Tried using Twilio as a messaging service! Loving the quick start guides and the process and UI's pretty simple. managed to send myself an SMS using a node.js script! Yay!
+
+After trying with the node.js script, I tried the Google Script example that I saw Kenneth do. Pretty simple, and I can imagine automating a notification SMS when a form reaches a number of participants.
+
+**Link to work:** 
