@@ -475,3 +475,13 @@ From Spreadsheet, send SMS to list of users
 So much to learn, my code was barely innovative/impressive. It's not a competition, but I shall try harder next time :)
 
 **Link to work:** 
+
+### Day 39 : 13th Feb Tuesday, 2018
+
+**Today's Progress:** Junior Dev Meetup
+
+**Thoughts:** Went for my first meetup today, excluding any Alphacamp alumni events. There wasn't any code sharing as it was more of a social event, and I pretty much enjoyed myself meeting new people and chatting about my progress, the tech scene, learning what others do etc. There was a 16-year-old who was coding too! So jealous that I wish I started younger and wasn't playing so much games.
+
+Shall attend more meetups to meet more people and learn from others!
+
+**Link to work:** 
