@@ -497,3 +497,11 @@ Tried using Twilio as a messaging service! Loving the quick start guides and the
 After trying with the node.js script, I tried the Google Script example that I saw Kenneth do. Pretty simple, and I can imagine automating a notification SMS when a form reaches a number of participants.
 
 **Link to work:** 
+
+### Day 41 : 15th Feb Thursday, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** 
