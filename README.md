@@ -498,10 +498,23 @@ After trying with the node.js script, I tried the Google Script example that I s
 
 **Link to work:** 
 
-### Day 41 : 15th Feb Thursday, 2018
+### Missed A Day : 15th Feb Thursday, 2018
+### Missed A Day : 16th Feb Friday, 2018
+### Missed A Day : 17th Feb Saturday, 2018
+### Missed A Day : 18th Feb Sunday, 2018
 
-**Today's Progress:** 
+### Day 41 : 19th Feb Monday, 2018
 
-**Thoughts:** 
+**Today's Progress:** Make It Rain Project
+
+**Thoughts:** Today I was bored, and decided to end my Chinese New Year lazy streak by making a purple-rain website inspired by this:
+
+https://www.youtube.com/watch?v=KkyIDI6rQJI&t=365s
+
+I ended up doing it my own way since I couldn't follow the Java in the video, nor get a canvas to work, so I just mass-created DOM elements and rained them down.
+
+It then slowly developed into a rain-anything down kind of website, which was pretty fun to do, but I've got loads to learn about website optimization.
+
+Also, news came in that I didn't get the big, stressful project from a named company that would look pretty nice on my portfolio. Well, I didn't have much experience on wordpress sites, and it's time to make some
 
 **Link to work:** 
