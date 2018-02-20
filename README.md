@@ -502,6 +502,7 @@ After trying with the node.js script, I tried the Google Script example that I s
 ### Missed A Day : 16th Feb Friday, 2018
 ### Missed A Day : 17th Feb Saturday, 2018
 ### Missed A Day : 18th Feb Sunday, 2018
+(Chinese New Year Celebrations)
 
 ### Day 41 : 19th Feb Monday, 2018
 
@@ -513,8 +514,18 @@ https://www.youtube.com/watch?v=KkyIDI6rQJI&t=365s
 
 I ended up doing it my own way since I couldn't follow the Java in the video, nor get a canvas to work, so I just mass-created DOM elements and rained them down.
 
-It then slowly developed into a rain-anything down kind of website, which was pretty fun to do, but I've got loads to learn about website optimization.
+It then slowly developed into a rain-anything down kind of website, which was pretty fun to do, but I've got loads to learn about website optimization. I think, it's the loading of images that's slowing the page down, because the big number of DOM elements doesn't lag the page at all.
 
 Also, news came in that I didn't get the big, stressful project from a named company that would look pretty nice on my portfolio. Well, I didn't have much experience on wordpress sites, and it's time to make some
+
+**Link to work:** 
+
+### Day 42 : 20th Feb Tuesday, 2018
+
+**Today's Progress:** Rails backend, makeitrain
+
+**Thoughts:** Finished all of the major user functionalities today, minus the ones requiring sending email for user's reset password etc. Also played around with applying a z-index for the make it rain project.
+
+I don't seem to be focused on 1 thing lately, that's why I can't seem to get anything done effectively. It's all bits and pieces everywhere. Maybe I should pick a weekly focus?
 
 **Link to work:** 
