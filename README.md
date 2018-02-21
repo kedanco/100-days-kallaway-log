@@ -529,3 +529,11 @@ Also, news came in that I didn't get the big, stressful project from a named com
 I don't seem to be focused on 1 thing lately, that's why I can't seem to get anything done effectively. It's all bits and pieces everywhere. Maybe I should pick a weekly focus?
 
 **Link to work:** 
+
+### Day 43 : 21st Feb Wednesday, 2018
+
+**Today's Progress:** Emmet Udemy Course
+
+**Thoughts:** Completed a short and sweet Udemy Course on using Emmet, and am super excited to start using these! Dope shortcut that can save time and glad to know that one day when I port over to VS Code it'll still be available :D
+
+**Link to work:** 
