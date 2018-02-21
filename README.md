@@ -532,8 +532,10 @@ I don't seem to be focused on 1 thing lately, that's why I can't seem to get any
 
 ### Day 43 : 21st Feb Wednesday, 2018
 
-**Today's Progress:** Emmet Udemy Course
+**Today's Progress:** Emmet Udemy Course, CSS Grid Course
 
 **Thoughts:** Completed a short and sweet Udemy Course on using Emmet, and am super excited to start using these! Dope shortcut that can save time and glad to know that one day when I port over to VS Code it'll still be available :D
+
+Also completed up until Lesson 5 of CSS Grid Course. Gonna complete more tomorrow! :)
 
 **Link to work:** 
