@@ -539,3 +539,23 @@ I don't seem to be focused on 1 thing lately, that's why I can't seem to get any
 Also completed up until Lesson 5 of CSS Grid Course. Gonna complete more tomorrow! :)
 
 **Link to work:** 
+
+### Day 44 : 22nd Feb Thursday, 2018
+
+**Today's Progress:** CSS Grid Course
+
+**Thoughts:** Tiring day of dance, barely squeezed in an hour going another 5 more lessons for CSS Grid course! Have an idea already for a simple CSS Grid game :) can’t wait to try it.
+
+**Link to work:** 
+
+### Day 45 : 23rd Feb Friday, 2018
+
+**Today's Progress:** CSS Grid Course
+
+**Thoughts:** Continued on to Lesson 15! As I learn more and more I realised how convenient this is for responsiveness, convenience and table-lizing contents in a grid-like manner.. The CSS capabilities and simplicity of this puts bootstrap into the ground lol.
+
+Can't wait to see what Flexbox has :)
+
+Also, it was pretty troublesome to install ubuntu-make and firefox-dev but to see the area names and grid lines is pretty awesome. Not forgetting having npm for the awesome browser-sync which makes you feel like a God during code editing lol.
+
+**Link to work:** 
