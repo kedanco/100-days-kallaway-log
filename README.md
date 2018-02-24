@@ -561,3 +561,13 @@ Also, it was pretty troublesome to install ubuntu-make and firefox-dev but to se
 Managed to link a static html form to submit to google sheets!
 
 **Link to work:** 
+
+### Day 46 : 24th Feb Saturday, 2018
+
+**Today's Progress:** CSS Grid Course
+
+**Thoughts:** Reaching the last few lessons of the course. I realise that learning fast can be confusing for the mind sometimes, when your don't practise enough but just follow most of the time.
+
+But great progress today, stopped at lesson 21!
+
+**Link to work:** 
