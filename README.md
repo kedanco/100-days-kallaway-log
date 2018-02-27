@@ -571,3 +571,29 @@ Managed to link a static html form to submit to google sheets!
 But great progress today, stopped at lesson 21!
 
 **Link to work:** 
+
+### Day 47 : 25th Feb Sunday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** dealt with Order models for my Rails project and tried structuring a flow for user’s checkout and payment. Gonna add stripe after everything works ok
+
+**Link to work:** 
+
+### Day 48 : 26th Feb Monday, 2018
+
+**Today's Progress:** CSS Grid
+
+**Thoughts:** Up to lesson 24! One last lesson to finish the course :) I wonder if it's messy to combine Grid with Flexbox? I feel that if it's necessary to reach a certain layout, then it's probably ok, but what if other people needs to read the code and gets confused lol.
+
+**Link to work:** 
+
+### Day 49 : 27th Feb Tuesday, 2018
+
+**Today's Progress:** CSS Grid Course Finished!
+
+**Thoughts:** Done with CSS Grid course! Quite a useful last lesson, simple but it shows us how to create a simple center, medium-like blog layout.
+
+Gonna create my own CSS Grid project!
+
+**Link to work:** 
