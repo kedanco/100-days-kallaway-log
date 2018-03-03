@@ -597,3 +597,17 @@ But great progress today, stopped at lesson 21!
 Gonna create my own CSS Grid project!
 
 **Link to work:** 
+
+### Missed A Day : 28th Feb Wednesday, 2018
+### Missed A Day : 1st Mar Thursday, 2018
+### Missed A Day : 2nd Mar Friday, 2018
+
+### Day 50 : 3nd Mar Saturday, 2018
+
+**Today's Progress:** Rails Backend
+
+**Thoughts:** Finally Settled the Order module. With that all of the front-end models are done! What's left is integrating payment with the orders, adding email in, and touching up any of the account/CSS stuff.
+
+Gonna move on to back-end real soon!
+
+**Link to work:** 
