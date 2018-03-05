@@ -611,3 +611,22 @@ Gonna create my own CSS Grid project!
 Gonna move on to back-end real soon!
 
 **Link to work:** 
+
+### Day 51 : 4th Mar Sunday, 2018
+
+**Today's Progress:** Rails Backend
+
+**Thoughts:** It feels very different when you've got a site's structure running and all you need to do is create pages, link them together and display information :)
+
+TIL: CSS's calc() requires a spacing between the '-' and the values! calc(100%-100px) wont work!
+Faced a routing problem at the end and had no choice but to end my coding session - gotta solve it tmr!
+
+**Link to work:** 
+
+### Day 52 : 5th Mar Monday, 2018
+
+**Today's Progress:** Rails Backend
+
+**Thoughts:** Completed quite a lot of the Admin pages! It's still aesthetically ugly but I got most of the pages up. Now I gotta learn how to draw pie charts and graphs with javascript, display the relevant information and also add pagination for the different tables. Want to be done with this ASAP so I can go back to learning front-end stuff!
+
+**Link to work:** 
