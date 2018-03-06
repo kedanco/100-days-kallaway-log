@@ -630,3 +630,11 @@ Faced a routing problem at the end and had no choice but to end my coding sessio
 **Thoughts:** Completed quite a lot of the Admin pages! It's still aesthetically ugly but I got most of the pages up. Now I gotta learn how to draw pie charts and graphs with javascript, display the relevant information and also add pagination for the different tables. Want to be done with this ASAP so I can go back to learning front-end stuff!
 
 **Link to work:** 
+
+### Day 53 : 6th Mar Tuesday, 2018
+
+**Today's Progress:** Rails Backend
+
+**Thoughts:** Did up the CSS for the Dashboard and Index pages! Putting my CSS Grid to good use for the dashboard page - since the layout is like a 2x2 grid for the content. 
+
+**Link to work:** 
