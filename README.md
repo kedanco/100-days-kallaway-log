@@ -638,3 +638,15 @@ Faced a routing problem at the end and had no choice but to end my coding sessio
 **Thoughts:** Did up the CSS for the Dashboard and Index pages! Putting my CSS Grid to good use for the dashboard page - since the layout is like a 2x2 grid for the content. 
 
 **Link to work:** 
+
+### Missed A Day : 7th Mar Wednesday, 2018
+
+### Day 54 : 8th Mar Thursday, 2018
+
+**Today's Progress:** Wordpress Sydney Theme
+
+**Thoughts:** Didn't really code much today but finally took the step to follow a tutorial and learn how to use a Wordpress theme! Covered Sydney today, I think there's 5 more on my to-do list. Amazing how an entire site is done with just 3-4 hours worth of work.
+
+On to more!
+
+**Link to work:** 
