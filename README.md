@@ -692,3 +692,11 @@ Times like this I wonder why the heck do humans have to have so many different u
 **Thoughts:** Continued with the Dashboard portion of the Rails project, used chart.js to make a basic bar chart! Think the greatest thing about it is the ease of use and understanding. Did a lot of passing variables between Rails and JS today, learned the difference between 'raw' and 'escape_javascript'
 
 **Link to work:** 
+
+### Day 59 : 18th Mar Sunday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Learning something new everyday! Today I used helper_method to create controller methods that would be able to be used in the view. Makes the business logic code so much neater. Also managed to make my code a bit more flexible for possible user input :)
+
+**Link to work:** 
