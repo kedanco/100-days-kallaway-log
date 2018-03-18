@@ -650,3 +650,45 @@ Faced a routing problem at the end and had no choice but to end my coding sessio
 On to more!
 
 **Link to work:** 
+
+### Missed A Day : 9th Mar Friday, 2018
+### Missed A Day : 10th Mar Saturday, 2018
+### Missed A Day : 11th Mar Sunday, 2018
+
+### Day 55 : 12th Mar Monday, 2018
+
+**Today's Progress:** Google Scripts
+
+**Thoughts:** Stillt trying to get my Google Scripts to work but can't seem to run another function after executing the original POST function. Everything else seems to be in place though.
+
+**Link to work:** 
+
+### Missed A Day : 13th Mar Tuesday, 2018
+
+### Day 56 : 14th Mar Wednesday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Worked on site responsiveness, Edited CSS, added some fields to the existing order model (still feel like I have fields missing). Slow... but progress!
+
+**Link to work:** 
+
+### Missed A Day : 15th Mar Thursday, 2018
+
+### Day 57 : 16th Mar Friday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Spent a shitload of time trying to solve the default value for rails form date_field.. turns out it has a default display of 'mm/dd/yyyy' and it's not a simple placeholder input value. Using strftime on values didn't work and I had to use to_s(:db) for it to even display (not even the correct format).
+
+Times like this I wonder why the heck do humans have to have so many different units for measurements. Come on, just standardise everything already.
+
+**Link to work:** 
+
+### Day 58 : 17th Mar Saturday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Continued with the Dashboard portion of the Rails project, used chart.js to make a basic bar chart! Think the greatest thing about it is the ease of use and understanding. Did a lot of passing variables between Rails and JS today, learned the difference between 'raw' and 'escape_javascript'
+
+**Link to work:** 
