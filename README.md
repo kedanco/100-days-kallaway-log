@@ -700,3 +700,22 @@ Times like this I wonder why the heck do humans have to have so many different u
 **Thoughts:** Learning something new everyday! Today I used helper_method to create controller methods that would be able to be used in the view. Makes the business logic code so much neater. Also managed to make my code a bit more flexible for possible user input :)
 
 **Link to work:** 
+
+### Day 60 : 19th Mar Monday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Did a bit more editing of the rails project, and also discussed brainstormed on a new project. Looking to build a new mobile app on both iOS and Android platforms, with the new Flutter app from Google. Coding on Flutter allows you to deploy into both iOS and Android but obviously XCode is needed for the iOS side. Feels troublesome configurating anything again, just reminds me of the early bootcamp days.
+
+**Link to work:** 
+
+### Day 61 : 20th Mar Tuesday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Done with the last chart for the Dashboard page. Everyday with rails I discover something not so convenient and also some magical parts. Love hate relationship seriously.
+TIL: - ES6 made JS Array filling values a lot more convenient
+     - chart.js has it's own flaws and limitations, but thank god for configurations and options
+     - A lot of time is spent trying new/possible solutions. Sometimes it may not work but there's learning value in trying to go about a problem with different solutions.
+
+**Link to work:** 
