@@ -719,3 +719,36 @@ TIL: - ES6 made JS Array filling values a lot more convenient
      - A lot of time is spent trying new/possible solutions. Sometimes it may not work but there's learning value in trying to go about a problem with different solutions.
 
 **Link to work:** 
+
+### Day 62 : 21st Mar Wednesday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Finally ported the app over to Heroku. Fixed a number of issues today. Was trying to code on the train but just ended up falling asleep and looking funny, guess I really need to have proper rest to focus during the day.
+
+But, yay moving forward every day! Really can't wait to finish this and then start with learning Flutter and React
+
+**Link to work:** 
+
+### Missed A Day : 22nd Mar Thursday, 2018
+
+### Day 63 : 23rd Mar Friday, 2018
+
+**Today's Progress:** Udemy ES6 Course
+
+**Thoughts:** Started on a ES6 Course in Udemy! Didn't have the feel to work on my Rails project (lol) but still tried to move on with something else. Shall finish this ES6 course for an easier time with the React course!
+
+**Link to work:** 
+
+### Missed A Day : 24th Mar Saturday, 2018
+
+### Day 64 : 25th Mar Sunday, 2018
+
+**Today's Progress:** Udemy ES6 Course, Rails backend 
+
+**Thoughts:** Went through countless hours of debugging trying to troubleshoot Heroku and postgres database. Really unhappy with the time I wasted today but at least everything's working now. Somethings I edited:
+- database.yml
+- pg_hba.conf postgres settings file
+- .env, gemfile etc, setting up environment variables
+
+**Link to work:** 
