@@ -752,3 +752,17 @@ But, yay moving forward every day! Really can't wait to finish this and then sta
 - .env, gemfile etc, setting up environment variables
 
 **Link to work:** 
+
+### Day 65 : 26th Mar Monday, 2018
+
+**Today's Progress:** Udemy ES6 Course
+
+**Thoughts:** Finished the ES6 Course! Moving on to React and Redux course :)
+
+React and Redux course was pretty amazing. Feels awesome when you're familiar with the basic language, and the framework is not structurally very far off from how the basic language looks like.
+
+Had fun manipulating state in React, I'd rather do this any day compared to setting up AJAX. Excited to build a project!
+
+Also, editing and running with webpack dev server is awesome. It's like nodemon when dealing with nodejs.
+
+**Link to work:** 
