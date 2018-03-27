@@ -755,7 +755,7 @@ But, yay moving forward every day! Really can't wait to finish this and then sta
 
 ### Day 65 : 26th Mar Monday, 2018
 
-**Today's Progress:** Udemy ES6 Course
+**Today's Progress:** Udemy ES6 Course, React Redux Course
 
 **Thoughts:** Finished the ES6 Course! Moving on to React and Redux course :)
 
@@ -764,5 +764,15 @@ React and Redux course was pretty amazing. Feels awesome when you're familiar wi
 Had fun manipulating state in React, I'd rather do this any day compared to setting up AJAX. Excited to build a project!
 
 Also, editing and running with webpack dev server is awesome. It's like nodemon when dealing with nodejs.
+
+**Link to work:** 
+
+### Day 66 : 27th Mar Tuesday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Done with the React part of the course! Moving on to Redux. Having momentum really makes things seem to easy to learn. Sometimes I drift off while listening to the audio, but so far I'm able to understand what's happening..
+
+Gonna build something after I'm done with the Redux part of it. Or maybe I'll continue with another course :)?
 
 **Link to work:** 
