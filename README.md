@@ -796,3 +796,14 @@ Gonna build something after I'm done with the Redux part of it. Or maybe I'll co
 The challenge before moving on is to summarize what i've learned so far so that I really understand it.. Gotta admit that similar to Rails there's a bit of a learning curve here without a live instructor to teach and explain the concepts :(
 
 **Link to work:** 
+
+### Day 69 : 31th Mar Saturday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Continued with the course for a good 2 hours, install axios, redux-promises and managed to fetch data from the openweathermap api.
+
+Tried to solve the outstanding FCC question but failed terribly :( Still having problems, I think I'll find tips and get over it already.
+
+**Link to work:** 
+
