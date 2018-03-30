@@ -776,3 +776,23 @@ Also, editing and running with webpack dev server is awesome. It's like nodemon 
 Gonna build something after I'm done with the Redux part of it. Or maybe I'll continue with another course :)?
 
 **Link to work:** 
+
+### Day 67 : 28th Mar Wednesday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Moved on to Containers and Reducers part of Redux. More and more terminologies making it hard to remember everything, but really thankful that there's diagrams and stuff that really help. so much different viewing everything as different files and as a overview in a diagram.
+
+**Link to work:** 
+
+### Missed A Day : 29th Mar Thursday, 2018
+
+### Day 68 : 30th Mar Friday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Done with Section 2 of the course! Moving on to more advanced Redux stuff, we're gonna build a weather app throughout the next few lessons. I haven't been touching my Rails stuff but I'm glad I'm moving forward with this.
+
+The challenge before moving on is to summarize what i've learned so far so that I really understand it.. Gotta admit that similar to Rails there's a bit of a learning curve here without a live instructor to teach and explain the concepts :(
+
+**Link to work:** 
