@@ -807,3 +807,13 @@ Tried to solve the outstanding FCC question but failed terribly :( Still having 
 
 **Link to work:** 
 
+### Day 70 : 1st Apr Sunday, 2018
+
+**Today's Progress:** Udemy React Redux Course, FCC
+
+**Thoughts:** Continued on with the course, and also tried some FCC challenges. The challenges really stumped me, and my solutions always end up super-long compared to what everyone's answers would show...
+
+Gonna be starting on React Router and Redux forms soon :)
+Seems like it's probably the last part before I'm gonna try building something on my own.
+
+**Link to work:** 
