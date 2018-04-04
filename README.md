@@ -817,3 +817,21 @@ Gonna be starting on React Router and Redux forms soon :)
 Seems like it's probably the last part before I'm gonna try building something on my own.
 
 **Link to work:** 
+
+### Day 71 : 2nd Apr Monday, 2018
+
+**Today's Progress:** ThreeJS
+
+**Thoughts:** Didn't manage to complete an hour, but tried out threejs and completed my first 3D Rotating Cube!
+
+Looks awesome just watching it spin but I'm excited to learn how I can configure it to look nicer. Signs that I'm definitely more intrigued by front-end haha!
+
+**Link to work:** 
+
+### Day 72 : 3rd Apr Tuesday, 2018
+
+**Today's Progress:** Rails backend
+
+**Thoughts:** Solved some bugs and errors on rails project, also added back products to the heroku site, and edited the order views of both user and admin.
+
+**Link to work:** 
