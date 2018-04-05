@@ -835,3 +835,23 @@ Looks awesome just watching it spin but I'm excited to learn how I can configure
 **Thoughts:** Solved some bugs and errors on rails project, also added back products to the heroku site, and edited the order views of both user and admin.
 
 **Link to work:** 
+
+### Day 73 : 4th Apr Wednesday, 2018
+
+**Today's Progress:** FCC
+
+**Thoughts:** Continued with FCC but got stuck with a regex problem.. again! I think the day may come when I get owned at a regex problem next time when I join a company lol. Didn't progress much today, under the hour, but I tried.
+
+**Link to work:**
+
+### Day 74 : 5th Apr Thursday, 2018
+
+**Today's Progress:** FCC
+
+**Thoughts:** I'M FINALLY DONE WITH ADVANCED ALGORITHM ON FREECODECAMP! So happy today. Well, I did peek into the hints for more than 1 project.. But I really didn't know how to go about doing it with the projects. The weird thing is, for the advanced projects, it's either I know it and can solve it on my own, or I just completely have no idea how to start.
+
+I guess that's just how life is? Some challenges are easier and more straightforward, and the exercises you've done prepare you for those. Others just come from another dimension and throw you out of your chair, and you're left with figuring out a strategy or a method before even typing the first line of code.
+
+Still, I'm glad my consistent efforts have paid off for me to reach here! Still doing FCC, learning React, tried three.js, learned Ruby and Rails, exploring website design... So many tracks and lists to complete, but slow and steady, I'll get there.
+
+**Link to work:**
