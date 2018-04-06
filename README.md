@@ -855,3 +855,11 @@ I guess that's just how life is? Some challenges are easier and more straightfor
 Still, I'm glad my consistent efforts have paid off for me to reach here! Still doing FCC, learning React, tried three.js, learned Ruby and Rails, exploring website design... So many tracks and lists to complete, but slow and steady, I'll get there.
 
 **Link to work:**
+
+### Day 75 : 6th Apr Thursday, 2018
+
+**Today's Progress:** FCC
+
+**Thoughts:** Made great progress on my Javascript Calculator today. Fine-tuned the CSS, and began to work on the display and calculation logic. A ot of if-else statements, but I can finally get both Press and Click to work, sieve through exceptions, make calculations, display values. Possible to finish this weekend with a bit more time :)
+
+**Link to work:**
