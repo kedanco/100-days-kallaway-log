@@ -863,3 +863,15 @@ Still, I'm glad my consistent efforts have paid off for me to reach here! Still 
 **Thoughts:** Made great progress on my Javascript Calculator today. Fine-tuned the CSS, and began to work on the display and calculation logic. A ot of if-else statements, but I can finally get both Press and Click to work, sieve through exceptions, make calculations, display values. Possible to finish this weekend with a bit more time :)
 
 **Link to work:**
+
+### Missed A Day : 7th Apr Friday, 2018
+### Missed A Day : 8th Apr Saturday, 2018
+### Missed A Day : 9th Apr Sunday, 2018
+
+### Day 76 : 10th Apr Monday, 2018
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:**
