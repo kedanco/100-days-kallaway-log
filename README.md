@@ -856,7 +856,7 @@ Still, I'm glad my consistent efforts have paid off for me to reach here! Still 
 
 **Link to work:**
 
-### Day 75 : 6th Apr Thursday, 2018
+### Day 75 : 6th Apr Friday, 2018
 
 **Today's Progress:** FCC
 
@@ -864,14 +864,18 @@ Still, I'm glad my consistent efforts have paid off for me to reach here! Still 
 
 **Link to work:**
 
-### Missed A Day : 7th Apr Friday, 2018
-### Missed A Day : 8th Apr Saturday, 2018
-### Missed A Day : 9th Apr Sunday, 2018
+### Missed A Day : 7th Apr Saturday, 2018
+### Missed A Day : 8th Apr Sunday, 2018
+### Missed A Day : 9th Apr Monday, 2018
+### Missed A Day : 10th Apr Tuesday, 2018
+### Missed A Day : 11th Apr Wednesday, 2018
 
-### Day 76 : 10th Apr Monday, 2018
+### Day 76 : 12th Apr Thursday, 2018
 
-**Today's Progress:** 
+**Today's Progress:** ThreeJS
 
-**Thoughts:** 
+**Thoughts:** Back after 5 days of hiatus. Followed a threejs Tutorial and got a Icosahedron example and weird looking shape rotations working. Kinda awesome seeing these objects rotate around, kinda makes me wanna touch it.
+
+I really can't imagine creating my own shape but I guess i'll just have to experiment playing around with vertices :)
 
 **Link to work:**
