@@ -879,3 +879,18 @@ Still, I'm glad my consistent efforts have paid off for me to reach here! Still 
 I really can't imagine creating my own shape but I guess i'll just have to experiment playing around with vertices :)
 
 **Link to work:**
+
+### Missed A Day : 13th Apr Friday, 2018
+### Missed A Day : 14th Apr Saturday, 2018
+
+### Day 77 : 15th Apr Sunday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Spent a good amount of time today on React Redux, kinda fuzzy about what I've learned before since it's been some time, but done with react-router part and moving on to Redux Form. Kinda similar to how routes work in Rails, with more freedom? haha. And Redux Form really feels like a Form plugin like how we install simple form gem in Rails to use it.
+
+Also learned how to use Links, which is a React version of html anchor tag. The main difference why we don't use an anchor tag is we don't want the user to navigate to another page; the url changes when a link is clicked but components are rendered on the page instead of a browser load.
+
+Still don't feel confident about all the terms and processes to build my own page, need to clock more practise.
+
+**Link to work:**
