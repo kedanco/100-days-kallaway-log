@@ -894,3 +894,15 @@ Also learned how to use Links, which is a React version of html anchor tag. The 
 Still don't feel confident about all the terms and processes to build my own page, need to clock more practise.
 
 **Link to work:**
+
+### Missed A Day : 16th Apr Monday, 2018
+### Missed A Day : 17th Apr Tuesday, 2018
+
+### Day 78 : 18th Apr Wednesday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Continued with Redux Form. Whole process seems like a good alternative to a normal form done through bootstrap or from scratch
+Covered submission, and validation today!
+
+**Link to work:**
