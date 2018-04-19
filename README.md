@@ -906,3 +906,13 @@ Still don't feel confident about all the terms and processes to build my own pag
 Covered submission, and validation today!
 
 **Link to work:**
+
+### Day 79 : 19th Apr Thursday, 2018
+
+**Today's Progress:** Udemy React Redux Course
+
+**Thoughts:** Done with the course! Though I kinda feel like I missed out a lot of notes towards the end, and details still feel messy in my brain. understood how things connect around here and troubleshooting became easier and smoother, but I still can't wrap my head around the links between everything.
+
+Need another course on react redux before I move on.
+
+**Link to work:**
