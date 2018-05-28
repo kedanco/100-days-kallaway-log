@@ -916,3 +916,17 @@ Covered submission, and validation today!
 Need another course on react redux before I move on.
 
 **Link to work:**
+
+### Missed A Day : 20th Apr Friday, 2018
+### Missed A Day : 21st Apr Saturday, 2018
+### Missed A Day : 22nd Apr Sunday, 2018
+
+### Missed A Month ###
+
+### Day 80 : 28th May Monday, 2018
+
+**Today's Progress:** React for Beginners Course
+
+**Thoughts:** Back after a month of hiatus. Progressed till lesson 4, great recap for the udemy react course I took. Finished that course, but didn't build anything out of it. Still remember some stuff but lost knowledge of the advanced stuff where props and components were flying everywhere. Gonna aim to finish this course ASAP so that I can contribute to my Chingu Team!
+
+**Link to work:**
