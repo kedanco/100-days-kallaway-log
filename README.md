@@ -930,3 +930,13 @@ Need another course on react redux before I move on.
 **Thoughts:** Back after a month of hiatus. Progressed till lesson 4, great recap for the udemy react course I took. Finished that course, but didn't build anything out of it. Still remember some stuff but lost knowledge of the advanced stuff where props and components were flying everywhere. Gonna aim to finish this course ASAP so that I can contribute to my Chingu Team!
 
 **Link to work:**
+
+### Missed A Day : 29th May Tuesday, 2018
+
+### Day 81 : 30th May Wednesday, 2018
+
+**Today's Progress:** React for Beginners Course
+
+**Thoughts:** Explanation by Wes Bos on components was so simple compared to the Udemy course. Recapped on creating different components and importing, rendering them from App.js. Much more to come!
+
+**Link to work:**
