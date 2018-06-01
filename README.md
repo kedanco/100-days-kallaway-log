@@ -945,6 +945,16 @@ Need another course on react redux before I move on.
 
 **Today's Progress:** React for Beginners Course
 
-**Thoughts:** Halfway through the course! Touched a lot on props, state and editing, displaying of information today. I realised something after being at a meetup, and also reading about a similar article on Medium: I spent so much time finding and reading and collating resources that I haven't been doing anything. I haven't been creating, and trying out stuff on my own, it's been tutorials and tutorials and videos etc of how to do things
+**Thoughts:** Halfway through the course! Touched a lot on props, state and editing, displaying of information today. I realised something after being at a meetup, and also reading about a similar article on Medium: I spent so much time finding and reading and collating resources that I haven't been doing anything. I haven't been creating, and trying out stuff on my own, it's been tutorials and tutorials and videos etc of how to do things. I should really try creating something on my own after a few courses.
+
+**Link to work:**
+
+### Day 83 : 1st June Friday, 2018
+
+**Today's Progress:** React for Beginners Course
+
+**Thoughts:** Moved on to finish the CRUD functions, touched on React animations using stylus and it was hard and confusing... Adding CSSTransition and TransitionGroup tags into the code made it no longer simple to read.
+
+Though it was definitely fun seeing the animations happen!
 
 **Link to work:**
