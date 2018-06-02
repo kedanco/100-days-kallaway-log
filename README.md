@@ -205,7 +205,7 @@ You can actually chain it together like li:hover:not(.class)
 
 Did quite a bit of work (though, really really slow) for the e-commerce homepage. Feels assuring knowing that I configured it to be responsive as I was putting in the skeleton so that it won't come back to haunt me next time :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 18 : 22nd January Monday, 2018
 
@@ -217,7 +217,7 @@ For my e-commerce project, I'm done with Footer, improved the navbar, sorted out
 
 Faced an annoying https issue with day 19's project. It's like solving codepen with fcc projects again. Stuff like this sometimes reduce my faith in technology :rollseye:
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 19 : 23rd January Tuesday, 2018
 
@@ -229,7 +229,7 @@ Injected some basic data into mongo, ran the app with node, and connected these 
 
 Not exploring Angular for the front-end yet, maybe that'll come later. Gotta rush to get this app working before tmr :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 20 : 24th January Wednesday, 2018
 
@@ -245,7 +245,7 @@ Comparing to Rails, I don't think I'm going to start exploring another MEAN app 
 
 Alright, back to JS30 and Rails tmr. :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 21 : 25th January Thursday, 2018
 
@@ -257,11 +257,11 @@ Went through the video again, and continued on to day20's speech recognition pro
 
 I still think it's pretty amazing how some stuff are built into browsers that most sites dont totally utilize. Should build a few projects revolving around these for fun :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 22 : 26th January Friday, 2018
 
-**Today's Progress:** Javascript30 Day 21, Backend Portal 
+**Today's Progress:** Javascript30 Day 21, Backend Portal
 
 **Thoughts:** Today's js30 project was about geolocating speed and compass! Unfortunately, this required a phone simulation to carry out, and I haven't got around to doing it.. the code was pretty short and simple to understand though!
 
@@ -269,13 +269,13 @@ Continued to do my Rails project, and I spent a good time solving basic routing 
 
 I took quite a long time to style the forms, but at least most of the CSS were re-applicable. I haven't even touched all the back-end stuff yet, damn!
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 27th January Saturday, 2018
 
 ### Day 23 : 28th January Sunday, 2018
 
-**Today's Progress:** Javascript30 Day 22, Backend Portal 
+**Today's Progress:** Javascript30 Day 22, Backend Portal
 
 **Thoughts:** Spent a big chunk of my time today on reading up and my Backend Portal Rails project. Went through the different Slack channels for 100DaysOfCode and realise I should ask for collaboration projects next time over there haha!
 
@@ -283,11 +283,11 @@ Today's JS30 was on creating a smooth pill-like background that appears whenever
 
 It felt great to be progressing on my rails project, finally I can feel the skills returning to me! Doing things that were previously done is easy, I think the challenge will come when I need to create the tags, filters and product variations properly. (I only did a hack-ish filter last time around).
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 24 : 29th January Monday, 2018
 
-**Today's Progress:** Javascript30 Day 23, YDKJS, Backend Portal 
+**Today's Progress:** Javascript30 Day 23, YDKJS, Backend Portal
 
 **Thoughts:** Managed to get the Cart working! Glad that I did up my old code properly, if not I would be having more problems right now :laughs: Inevitably, I faced some bugs, but progress was good considering the time I had today.
 
@@ -295,11 +295,11 @@ JS30 Day23's project was about a Speech Synthesizer that could read out text on 
 
 Glad that I'm back to reading up on YDKJS. A chapter a day shouldn't be too difficult :) Motivation for this is actually the CS + WD Trello board, which I aim to complete by early 2019.. 1 year to go, should be possible right :) let's push!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 25 : 30th January Tuesday, 2018
 
-**Today's Progress:** Javascript30 Day 24, Backend Portal 
+**Today's Progress:** Javascript30 Day 24, Backend Portal
 
 **Thoughts:** Today was a 'I hate jQuery!!' kinda day. Spent a big chunk of my time debugging stupid errors when Vanilla JS could've done the job easily.
 
@@ -308,11 +308,12 @@ But, at least I (kinda) did up my first proper dropdown menu (with a very nice p
 Today's JS30 was on making a sticky nav. I had already learned how to copy and style one, but having a stylish animation for another tab appearing was awesome.
 
 TIL:
-- The triangle is made from a box, with only 1 side of visible border
-- jQuery is not as helpful as it is supposed to be
-- fixed elements do not take up space in the browser, they float above other elements
 
-**Link to work:** 
+* The triangle is made from a box, with only 1 side of visible border
+* jQuery is not as helpful as it is supposed to be
+* fixed elements do not take up space in the browser, they float above other elements
+
+**Link to work:**
 
 ### Day 26 : 31st January Wednesday, 2018
 
@@ -320,7 +321,7 @@ TIL:
 
 **Thoughts:** Squeezed in an hour or two in between my classes today. Encountered bugs that I didn't know how to solve, but moved on to continue the backend Rails site. Time to stackoverflow that problem!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 27 : 1st Feb Thursday, 2018
 
@@ -332,7 +333,7 @@ Almost done with the user account side of the portal, It's the CSS that's slowin
 
 Found out that CS50 has other lectures available and not just normal programming fundamentals. Definitely will check them out after I'm done with this!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 28 : 2nd Feb Friday, 2018
 
@@ -346,7 +347,7 @@ Time to change up the code for better flexibility!
 
 Also, decent progress on the Rails project, did up some layouts (no big issue today) but I can foresee the hassle as I'm gonna do up a whole edit form for the user's details..
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 29 : 3rd Feb Saturday, 2018
 
@@ -363,7 +364,7 @@ Sometimes, it's perfectly fine to ask for a little help :)
 
 Was supposed to finish my front-end cert tomorrow, but I guess it'll need to be postponed.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 30 : 4th Feb Sunday, 2018
 
@@ -378,7 +379,7 @@ Regex is F-ed up. It's magic when it works, but it's confusing as hell and diffi
 JS30 today on a Video Speed Controller UI, pretty straightforward but I'm still amazed how the video is actually below 10 mins.
 Wonder when will I be able to be as savvy as this :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 31 : 5th Feb Monday, 2018
 
@@ -388,7 +389,7 @@ Wonder when will I be able to be as savvy as this :)
 
 Encountered a Lowest Common Multiple Range challenge on FCC and totally didn't understand what's going on. These mathematical stuff still feels difficult to understand. Need more practise..
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 32 : 6th Feb Tuesday, 2018
 
@@ -403,8 +404,7 @@ Also added a wooden mallet as a custom cursor, and to rotate (hammer) when click
 It's been sometime since I added extra features to JS30 projects :)
 I think I'll find the time to add in LocalStorage, A ranking board and (maybe) the option to change cursor images!
 
-
-**Link to work:** 
+**Link to work:**
 
 ### Day 33 : 7th Feb Wednesday, 2018
 
@@ -415,7 +415,7 @@ I think I'll find the time to add in LocalStorage, A ranking board and (maybe) t
 The 2 challenges were to return the result, and drop elements if the condition were true.
 I learned that return true; is used to break out of array.some :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 34 : 8th Feb Thursday, 2018
 
@@ -423,7 +423,7 @@ I learned that return true; is used to break out of array.some :)
 
 **Thoughts:** Didn't have much time these few days. Worked on the Whack A Mole game, improved the CSS. haven't got to work on the leaderboard yet.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 35 : 9th Feb Friday, 2018
 
@@ -431,7 +431,7 @@ I learned that return true; is used to break out of array.some :)
 
 **Thoughts:** Productive time on the Rails Portal, coded on the train and in between classes. Just a bit more before I’m done with the whole Users Module and can move on to Admin!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 36 : 10th Feb Saturday, 2018
 
@@ -439,7 +439,7 @@ I learned that return true; is used to break out of array.some :)
 
 **Thoughts:** Spent a lot of time today solving silly mistakes, and falling asleep but I got most of the addresses part done. Now left with editing addresses, and changing passwords!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 37 : 11th Feb Sunday, 2018
 
@@ -454,7 +454,7 @@ Google Script actually has loads of potential to make using Google Tools easier!
 
 Also, managed to finish the last Intermediate Algorithm challenge on FCC! It was kinda challenging as it dealt with returning a function, and then calling it as a IIFE (Immediately Invoked Function Expression). Shall aim to finish the Advanced Algo's by this week!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 38 : 12th Feb Monday, 2018
 
@@ -474,7 +474,7 @@ From Spreadsheet, send SMS to list of users
 
 So much to learn, my code was barely innovative/impressive. It's not a competition, but I shall try harder next time :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 39 : 13th Feb Tuesday, 2018
 
@@ -484,7 +484,7 @@ So much to learn, my code was barely innovative/impressive. It's not a competiti
 
 Shall attend more meetups to meet more people and learn from others!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 40 : 14th Feb Wednesday, 2018
 
@@ -496,12 +496,16 @@ Tried using Twilio as a messaging service! Loving the quick start guides and the
 
 After trying with the node.js script, I tried the Google Script example that I saw Kenneth do. Pretty simple, and I can imagine automating a notification SMS when a form reaches a number of participants.
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 15th Feb Thursday, 2018
+
 ### Missed A Day : 16th Feb Friday, 2018
+
 ### Missed A Day : 17th Feb Saturday, 2018
+
 ### Missed A Day : 18th Feb Sunday, 2018
+
 (Chinese New Year Celebrations)
 
 ### Day 41 : 19th Feb Monday, 2018
@@ -518,7 +522,7 @@ It then slowly developed into a rain-anything down kind of website, which was pr
 
 Also, news came in that I didn't get the big, stressful project from a named company that would look pretty nice on my portfolio. Well, I didn't have much experience on wordpress sites, and it's time to make some
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 42 : 20th Feb Tuesday, 2018
 
@@ -528,7 +532,7 @@ Also, news came in that I didn't get the big, stressful project from a named com
 
 I don't seem to be focused on 1 thing lately, that's why I can't seem to get anything done effectively. It's all bits and pieces everywhere. Maybe I should pick a weekly focus?
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 43 : 21st Feb Wednesday, 2018
 
@@ -538,7 +542,7 @@ I don't seem to be focused on 1 thing lately, that's why I can't seem to get any
 
 Also completed up until Lesson 5 of CSS Grid Course. Gonna complete more tomorrow! :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 44 : 22nd Feb Thursday, 2018
 
@@ -546,7 +550,7 @@ Also completed up until Lesson 5 of CSS Grid Course. Gonna complete more tomorro
 
 **Thoughts:** Tiring day of dance, barely squeezed in an hour going another 5 more lessons for CSS Grid course! Have an idea already for a simple CSS Grid game :) can’t wait to try it.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 45 : 23rd Feb Friday, 2018
 
@@ -560,7 +564,7 @@ Also, it was pretty troublesome to install ubuntu-make and firefox-dev but to se
 
 Managed to link a static html form to submit to google sheets!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 46 : 24th Feb Saturday, 2018
 
@@ -570,7 +574,7 @@ Managed to link a static html form to submit to google sheets!
 
 But great progress today, stopped at lesson 21!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 47 : 25th Feb Sunday, 2018
 
@@ -578,7 +582,7 @@ But great progress today, stopped at lesson 21!
 
 **Thoughts:** dealt with Order models for my Rails project and tried structuring a flow for user’s checkout and payment. Gonna add stripe after everything works ok
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 48 : 26th Feb Monday, 2018
 
@@ -586,7 +590,7 @@ But great progress today, stopped at lesson 21!
 
 **Thoughts:** Up to lesson 24! One last lesson to finish the course :) I wonder if it's messy to combine Grid with Flexbox? I feel that if it's necessary to reach a certain layout, then it's probably ok, but what if other people needs to read the code and gets confused lol.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 49 : 27th Feb Tuesday, 2018
 
@@ -596,10 +600,12 @@ But great progress today, stopped at lesson 21!
 
 Gonna create my own CSS Grid project!
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 28th Feb Wednesday, 2018
+
 ### Missed A Day : 1st Mar Thursday, 2018
+
 ### Missed A Day : 2nd Mar Friday, 2018
 
 ### Day 50 : 3nd Mar Saturday, 2018
@@ -610,7 +616,7 @@ Gonna create my own CSS Grid project!
 
 Gonna move on to back-end real soon!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 51 : 4th Mar Sunday, 2018
 
@@ -621,7 +627,7 @@ Gonna move on to back-end real soon!
 TIL: CSS's calc() requires a spacing between the '-' and the values! calc(100%-100px) wont work!
 Faced a routing problem at the end and had no choice but to end my coding session - gotta solve it tmr!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 52 : 5th Mar Monday, 2018
 
@@ -629,15 +635,15 @@ Faced a routing problem at the end and had no choice but to end my coding sessio
 
 **Thoughts:** Completed quite a lot of the Admin pages! It's still aesthetically ugly but I got most of the pages up. Now I gotta learn how to draw pie charts and graphs with javascript, display the relevant information and also add pagination for the different tables. Want to be done with this ASAP so I can go back to learning front-end stuff!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 53 : 6th Mar Tuesday, 2018
 
 **Today's Progress:** Rails Backend
 
-**Thoughts:** Did up the CSS for the Dashboard and Index pages! Putting my CSS Grid to good use for the dashboard page - since the layout is like a 2x2 grid for the content. 
+**Thoughts:** Did up the CSS for the Dashboard and Index pages! Putting my CSS Grid to good use for the dashboard page - since the layout is like a 2x2 grid for the content.
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 7th Mar Wednesday, 2018
 
@@ -649,10 +655,12 @@ Faced a routing problem at the end and had no choice but to end my coding sessio
 
 On to more!
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 9th Mar Friday, 2018
+
 ### Missed A Day : 10th Mar Saturday, 2018
+
 ### Missed A Day : 11th Mar Sunday, 2018
 
 ### Day 55 : 12th Mar Monday, 2018
@@ -661,7 +669,7 @@ On to more!
 
 **Thoughts:** Stillt trying to get my Google Scripts to work but can't seem to run another function after executing the original POST function. Everything else seems to be in place though.
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 13th Mar Tuesday, 2018
 
@@ -671,7 +679,7 @@ On to more!
 
 **Thoughts:** Worked on site responsiveness, Edited CSS, added some fields to the existing order model (still feel like I have fields missing). Slow... but progress!
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 15th Mar Thursday, 2018
 
@@ -683,7 +691,7 @@ On to more!
 
 Times like this I wonder why the heck do humans have to have so many different units for measurements. Come on, just standardise everything already.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 58 : 17th Mar Saturday, 2018
 
@@ -691,7 +699,7 @@ Times like this I wonder why the heck do humans have to have so many different u
 
 **Thoughts:** Continued with the Dashboard portion of the Rails project, used chart.js to make a basic bar chart! Think the greatest thing about it is the ease of use and understanding. Did a lot of passing variables between Rails and JS today, learned the difference between 'raw' and 'escape_javascript'
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 59 : 18th Mar Sunday, 2018
 
@@ -699,7 +707,7 @@ Times like this I wonder why the heck do humans have to have so many different u
 
 **Thoughts:** Learning something new everyday! Today I used helper_method to create controller methods that would be able to be used in the view. Makes the business logic code so much neater. Also managed to make my code a bit more flexible for possible user input :)
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 60 : 19th Mar Monday, 2018
 
@@ -707,18 +715,16 @@ Times like this I wonder why the heck do humans have to have so many different u
 
 **Thoughts:** Did a bit more editing of the rails project, and also discussed brainstormed on a new project. Looking to build a new mobile app on both iOS and Android platforms, with the new Flutter app from Google. Coding on Flutter allows you to deploy into both iOS and Android but obviously XCode is needed for the iOS side. Feels troublesome configurating anything again, just reminds me of the early bootcamp days.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 61 : 20th Mar Tuesday, 2018
 
 **Today's Progress:** Rails backend
 
 **Thoughts:** Done with the last chart for the Dashboard page. Everyday with rails I discover something not so convenient and also some magical parts. Love hate relationship seriously.
-TIL: - ES6 made JS Array filling values a lot more convenient
-     - chart.js has it's own flaws and limitations, but thank god for configurations and options
-     - A lot of time is spent trying new/possible solutions. Sometimes it may not work but there's learning value in trying to go about a problem with different solutions.
+TIL: - ES6 made JS Array filling values a lot more convenient - chart.js has it's own flaws and limitations, but thank god for configurations and options - A lot of time is spent trying new/possible solutions. Sometimes it may not work but there's learning value in trying to go about a problem with different solutions.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 62 : 21st Mar Wednesday, 2018
 
@@ -728,7 +734,7 @@ TIL: - ES6 made JS Array filling values a lot more convenient
 
 But, yay moving forward every day! Really can't wait to finish this and then start with learning Flutter and React
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 22nd Mar Thursday, 2018
 
@@ -738,20 +744,21 @@ But, yay moving forward every day! Really can't wait to finish this and then sta
 
 **Thoughts:** Started on a ES6 Course in Udemy! Didn't have the feel to work on my Rails project (lol) but still tried to move on with something else. Shall finish this ES6 course for an easier time with the React course!
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 24th Mar Saturday, 2018
 
 ### Day 64 : 25th Mar Sunday, 2018
 
-**Today's Progress:** Udemy ES6 Course, Rails backend 
+**Today's Progress:** Udemy ES6 Course, Rails backend
 
 **Thoughts:** Went through countless hours of debugging trying to troubleshoot Heroku and postgres database. Really unhappy with the time I wasted today but at least everything's working now. Somethings I edited:
-- database.yml
-- pg_hba.conf postgres settings file
-- .env, gemfile etc, setting up environment variables
 
-**Link to work:** 
+* database.yml
+* pg_hba.conf postgres settings file
+* .env, gemfile etc, setting up environment variables
+
+**Link to work:**
 
 ### Day 65 : 26th Mar Monday, 2018
 
@@ -765,7 +772,7 @@ Had fun manipulating state in React, I'd rather do this any day compared to sett
 
 Also, editing and running with webpack dev server is awesome. It's like nodemon when dealing with nodejs.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 66 : 27th Mar Tuesday, 2018
 
@@ -775,7 +782,7 @@ Also, editing and running with webpack dev server is awesome. It's like nodemon 
 
 Gonna build something after I'm done with the Redux part of it. Or maybe I'll continue with another course :)?
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 67 : 28th Mar Wednesday, 2018
 
@@ -783,7 +790,7 @@ Gonna build something after I'm done with the Redux part of it. Or maybe I'll co
 
 **Thoughts:** Moved on to Containers and Reducers part of Redux. More and more terminologies making it hard to remember everything, but really thankful that there's diagrams and stuff that really help. so much different viewing everything as different files and as a overview in a diagram.
 
-**Link to work:** 
+**Link to work:**
 
 ### Missed A Day : 29th Mar Thursday, 2018
 
@@ -795,7 +802,7 @@ Gonna build something after I'm done with the Redux part of it. Or maybe I'll co
 
 The challenge before moving on is to summarize what i've learned so far so that I really understand it.. Gotta admit that similar to Rails there's a bit of a learning curve here without a live instructor to teach and explain the concepts :(
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 69 : 31th Mar Saturday, 2018
 
@@ -805,7 +812,7 @@ The challenge before moving on is to summarize what i've learned so far so that 
 
 Tried to solve the outstanding FCC question but failed terribly :( Still having problems, I think I'll find tips and get over it already.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 70 : 1st Apr Sunday, 2018
 
@@ -816,7 +823,7 @@ Tried to solve the outstanding FCC question but failed terribly :( Still having 
 Gonna be starting on React Router and Redux forms soon :)
 Seems like it's probably the last part before I'm gonna try building something on my own.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 71 : 2nd Apr Monday, 2018
 
@@ -826,7 +833,7 @@ Seems like it's probably the last part before I'm gonna try building something o
 
 Looks awesome just watching it spin but I'm excited to learn how I can configure it to look nicer. Signs that I'm definitely more intrigued by front-end haha!
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 72 : 3rd Apr Tuesday, 2018
 
@@ -834,7 +841,7 @@ Looks awesome just watching it spin but I'm excited to learn how I can configure
 
 **Thoughts:** Solved some bugs and errors on rails project, also added back products to the heroku site, and edited the order views of both user and admin.
 
-**Link to work:** 
+**Link to work:**
 
 ### Day 73 : 4th Apr Wednesday, 2018
 
@@ -865,9 +872,13 @@ Still, I'm glad my consistent efforts have paid off for me to reach here! Still 
 **Link to work:**
 
 ### Missed A Day : 7th Apr Saturday, 2018
+
 ### Missed A Day : 8th Apr Sunday, 2018
+
 ### Missed A Day : 9th Apr Monday, 2018
+
 ### Missed A Day : 10th Apr Tuesday, 2018
+
 ### Missed A Day : 11th Apr Wednesday, 2018
 
 ### Day 76 : 12th Apr Thursday, 2018
@@ -881,6 +892,7 @@ I really can't imagine creating my own shape but I guess i'll just have to exper
 **Link to work:**
 
 ### Missed A Day : 13th Apr Friday, 2018
+
 ### Missed A Day : 14th Apr Saturday, 2018
 
 ### Day 77 : 15th Apr Sunday, 2018
@@ -896,6 +908,7 @@ Still don't feel confident about all the terms and processes to build my own pag
 **Link to work:**
 
 ### Missed A Day : 16th Apr Monday, 2018
+
 ### Missed A Day : 17th Apr Tuesday, 2018
 
 ### Day 78 : 18th Apr Wednesday, 2018
@@ -918,10 +931,12 @@ Need another course on react redux before I move on.
 **Link to work:**
 
 ### Missed A Day : 20th Apr Friday, 2018
+
 ### Missed A Day : 21st Apr Saturday, 2018
+
 ### Missed A Day : 22nd Apr Sunday, 2018
 
-### Missed A Month ###
+### Missed A Month
 
 ### Day 80 : 28th May Monday, 2018
 
@@ -956,5 +971,13 @@ Need another course on react redux before I move on.
 **Thoughts:** Moved on to finish the CRUD functions, touched on React animations using stylus and it was hard and confusing... Adding CSSTransition and TransitionGroup tags into the code made it no longer simple to read.
 
 Though it was definitely fun seeing the animations happen!
+
+**Link to work:**
+
+### Day 84 : 2nd June Saturday, 2018
+
+**Today's Progress:** React for Beginners Course
+
+**Thoughts:** Did OAuth today for React, it felt really great to complete that for an existing App, kinda feels more complete and 'user-ready'. The entire process would be impossible to understand currently without any guidance. A lot more configuration on the different platforms and Firebase, but yes another 30mins lesson down! Also wrote proper notes for easier future recall.
 
 **Link to work:**
