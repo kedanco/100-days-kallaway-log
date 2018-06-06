@@ -981,3 +981,33 @@ Though it was definitely fun seeing the animations happen!
 **Thoughts:** Did OAuth today for React, it felt really great to complete that for an existing App, kinda feels more complete and 'user-ready'. The entire process would be impossible to understand currently without any guidance. A lot more configuration on the different platforms and Firebase, but yes another 30mins lesson down! Also wrote proper notes for easier future recall.
 
 **Link to work:**
+
+### Day 85 : 3rd June Sunday, 2018
+
+**Today's Progress:** React for Beginners Course
+
+**Thoughts:** Completed the React for Beginners course! Great overview on the process of setting up a React app although much of the CSS/code was 'spoonfed'. Definitely easier to understand how things went around with this overview compared to the detailed and technical couse I took from Udemy.
+
+Next up, gonna either go through Tyler McGinnis's Free react bootcamp or Wes Bos Redux course!
+
+**Link to work:**
+
+### Day 86 : 4th June Monday, 2018
+
+**Today's Progress:** React App
+
+**Thoughts:** Started on a Goals React app where you can add and view your own goals, check out others' goals and see some stats about your goals. Managed to make use of state and declaration of a function in App.js to toggle buttons to show different stuff. Next up is working on CRUD.
+
+**Link to work:**
+
+### Missed A Day : 5th June Tuesday, 2018
+
+### Day 87 : 6th June Wednesday, 2018
+
+**Today's Progress:** React App, CryptoZombies
+
+**Thoughts:** Picked up Solidity following an interesting website CryptoZombies, that teaches basic Solidity structure following the idea of creating zombies. I hear that after the course is done, there's a strategy game at the back that allows you to challenge others' zombies with the ones you've earned! Now I'm super motivated to finish it!
+
+Also, continued with my React App and designed the basic Goal card. Next up need to be able to add cards!
+
+**Link to work:**
