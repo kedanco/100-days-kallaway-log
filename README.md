@@ -309,9 +309,9 @@ Today's JS30 was on making a sticky nav. I had already learned how to copy and s
 
 TIL:
 
-* The triangle is made from a box, with only 1 side of visible border
-* jQuery is not as helpful as it is supposed to be
-* fixed elements do not take up space in the browser, they float above other elements
+- The triangle is made from a box, with only 1 side of visible border
+- jQuery is not as helpful as it is supposed to be
+- fixed elements do not take up space in the browser, they float above other elements
 
 **Link to work:**
 
@@ -754,9 +754,9 @@ But, yay moving forward every day! Really can't wait to finish this and then sta
 
 **Thoughts:** Went through countless hours of debugging trying to troubleshoot Heroku and postgres database. Really unhappy with the time I wasted today but at least everything's working now. Somethings I edited:
 
-* database.yml
-* pg_hba.conf postgres settings file
-* .env, gemfile etc, setting up environment variables
+- database.yml
+- pg_hba.conf postgres settings file
+- .env, gemfile etc, setting up environment variables
 
 **Link to work:**
 
@@ -1009,5 +1009,13 @@ Next up, gonna either go through Tyler McGinnis's Free react bootcamp or Wes Bos
 **Thoughts:** Picked up Solidity following an interesting website CryptoZombies, that teaches basic Solidity structure following the idea of creating zombies. I hear that after the course is done, there's a strategy game at the back that allows you to challenge others' zombies with the ones you've earned! Now I'm super motivated to finish it!
 
 Also, continued with my React App and designed the basic Goal card. Next up need to be able to add cards!
+
+**Link to work:**
+
+### Day 88 : 7th June Thursday, 2018
+
+**Today's Progress:** CryptoZombies
+
+**Thoughts:** Wasted a lot of time today. Not productive at all, but I guess it can't be avoided when I just wanna relax. That said, there seems to be more and more terms coming up on Solidity and it's slowly getting more complicated. I only last dealt with inheritance and public/private in Java/Ruby and it seems like a long time, I hope this doesn't come up to be some classes-intensive and confusing coding.
 
 **Link to work:**
