@@ -1019,3 +1019,29 @@ Also, continued with my React App and designed the basic Goal card. Next up need
 **Thoughts:** Wasted a lot of time today. Not productive at all, but I guess it can't be avoided when I just wanna relax. That said, there seems to be more and more terms coming up on Solidity and it's slowly getting more complicated. I only last dealt with inheritance and public/private in Java/Ruby and it seems like a long time, I hope this doesn't come up to be some classes-intensive and confusing coding.
 
 **Link to work:**
+
+### Day 89 : 8th June Friday, 2018
+
+**Today's Progress:** CryptoZombies, Learning through Videos
+
+**Thoughts:** Not much coding as I ended up working at a place without internet, so cleared some videos that I had downloaded previously. Animating in React (Animating with SVG sounds so cool), Basic three.js capabilities, Adding depth to a website design.
+
+Completed lesson 2 of Cryptozombies! The similarity with JS and the examples are what makes this easy to learn, for now. Looking forward to more!
+
+**Link to work:**
+
+### Missed A Day : 9th June Saturday, 2018
+
+### Missed A Day : 10th June Sunday, 2018
+
+### Missed A Day : 11th June Monday, 2018
+
+### Day 90 : 12th June Tuesday, 2018
+
+**Today's Progress:** Tyler React Bootcamp
+
+**Thoughts:** Didn't want to move on to Redux yet, and I'm glad I checked out this Free React Bootcamp by Tyler Mcginnis. Awesome explanation on the very very basics of React, making it work without the Webpack, babel, JSX.
+
+I feel it's hard to juggle dev work and wordpress work at the same time. Gotta put in the time to actually code while completing work before the deadlines.
+
+**Link to work:**
