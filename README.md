@@ -1045,3 +1045,13 @@ Completed lesson 2 of Cryptozombies! The similarity with JS and the examples are
 I feel it's hard to juggle dev work and wordpress work at the same time. Gotta put in the time to actually code while completing work before the deadlines.
 
 **Link to work:**
+
+### Day 91 : 13th June Wednesday, 2018
+
+**Today's Progress:** Tyler React Bootcamp
+
+**Thoughts:** Continued with Tyler's React Bootcamp, the challenges at the end seem to become easier to understand as I practise more and more!
+
+Anyway, pretty excited to start on FCC's massive amount of new challenges too. I can't believe they included Project Euler challenges at the end, that brings me back to the old challenges I did back when I was in intern. Man that seems like ages ago.
+
+**Link to work:**
