@@ -1055,3 +1055,13 @@ I feel it's hard to juggle dev work and wordpress work at the same time. Gotta p
 Anyway, pretty excited to start on FCC's massive amount of new challenges too. I can't believe they included Project Euler challenges at the end, that brings me back to the old challenges I did back when I was in intern. Man that seems like ages ago.
 
 **Link to work:**
+
+### Day 92 : 14th June Thursday, 2018
+
+**Today's Progress:** A-Frame, Tyler React Bootcamp
+
+**Thoughts:** Went through the basic primitive tags in A-Frame, also tried a bit of object loading, lighting and animation. Quite fun and I think there's enough documentation to help me in building a mini-project!
+
+Done with Day 3 of Tyler's free bootcamp, 1 more video to go! Really got a good overview and understanding of what's happening and why, which is crucial for the fundamentals. Didn't understand these even when I finished the Udemy course.
+
+**Link to work:**
