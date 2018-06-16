@@ -1065,3 +1065,15 @@ Anyway, pretty excited to start on FCC's massive amount of new challenges too. I
 Done with Day 3 of Tyler's free bootcamp, 1 more video to go! Really got a good overview and understanding of what's happening and why, which is crucial for the fundamentals. Didn't understand these even when I finished the Udemy course.
 
 **Link to work:**
+
+### Missed A Day : 15th June Friday, 2018
+
+### Day 93 : 16th June Saturday, 2018
+
+**Today's Progress:** Tyler React Bootcamp
+
+**Thoughts:** Finished Tyler's React Bootcamp! Feeling awesome when you understand what went wrong where, and how to solve it or move on with the code.
+
+Maybe I should attempt to return to the Udemy course, or try building a new app.
+
+**Link to work:**
