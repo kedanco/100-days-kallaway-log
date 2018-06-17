@@ -1077,3 +1077,11 @@ Done with Day 3 of Tyler's free bootcamp, 1 more video to go! Really got a good 
 Maybe I should attempt to return to the Udemy course, or try building a new app.
 
 **Link to work:**
+
+### Day 94 : 17th June Sunday, 2018
+
+**Today's Progress:** A-Frame
+
+**Thoughts:** Started on my new A-Frame project! Docs prove to be pretty useful, and there's a lot of things I would love to try out. So far it's quite fun :) Would probably need to balance with some other React resource too.
+
+**Link to work:**
