@@ -1085,3 +1085,34 @@ Maybe I should attempt to return to the Udemy course, or try building a new app.
 **Thoughts:** Started on my new A-Frame project! Docs prove to be pretty useful, and there's a lot of things I would love to try out. So far it's quite fun :) Would probably need to balance with some other React resource too.
 
 **Link to work:**
+
+### Missed A Day : 18th June Monday, 2018
+
+### Missed A Day : 19th June Tuesday, 2018
+
+### Day 95 : 20th June Wednesday, 2018
+
+**Today's Progress:** MERN Udemy Course
+
+**Thoughts:** Started on a new Udemy teaching about the MERN Stack and Redux. Kinda good material but I still feel that Tyler explains it so much better. So tempted to purchase his courses and go through the full-length ones for proper quality learning.
+
+**Link to work:**
+
+### Missed A Day : 21st June Thursday, 2018
+
+### Missed A Day : 22nd June Friday, 2018
+
+### Missed A Day : 23rd June Saturday, 2018
+
+### Missed A Day : 24th June Sunday, 2018
+
+### Day 96 : 25th June Monday, 2018
+
+**Today's Progress:** MERN Udemy Course
+
+**Thoughts:** Completed Learn Redux part of the MERN course. Don't understand Redux fully yet, but I hope to use it together with a React app. Need to finish this soon!
+
+Have been spending the past few days working on websites.
+Wish to finish some of them soon!
+
+**Link to work:**
