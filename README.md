@@ -1116,3 +1116,13 @@ Have been spending the past few days working on websites.
 Wish to finish some of them soon!
 
 **Link to work:**
+
+### Day 97 : 26th June Tuesday, 2018
+
+**Today's Progress:** MERN Udemy Course
+
+**Thoughts:** Continued with React part of the course. Finally understood how Redux works at the basic level but now need to struggle again with the terms between React and Redux.
+
+Maybe I'll finally end up signing up for Tyler's courses to get a good grasp on everything.
+
+**Link to work:**
