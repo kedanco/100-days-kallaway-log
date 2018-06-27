@@ -1126,3 +1126,11 @@ Wish to finish some of them soon!
 Maybe I'll finally end up signing up for Tyler's courses to get a good grasp on everything.
 
 **Link to work:**
+
+### Day 98 : 27th June Wednesday, 2018
+
+**Today's Progress:** MERN Udemy Course
+
+**Thoughts:** Completed CRUD of Cart part, but I think I'm gonna stop with this course, because all the instructor does is code and code but doesn't explain shit.. Realising that I never really learned anything.
+
+**Link to work:**
