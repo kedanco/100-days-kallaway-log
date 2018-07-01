@@ -1133,4 +1133,23 @@ Maybe I'll finally end up signing up for Tyler's courses to get a good grasp on 
 
 **Thoughts:** Completed CRUD of Cart part, but I think I'm gonna stop with this course, because all the instructor does is code and code but doesn't explain shit.. Realising that I never really learned anything.
 
+Time to re-do Stephen Grider's course and ensure I truly understand the concepts before moving on.
+Damn this is painful.
+
+**Link to work:**
+
+### Missed A Day : 28th June Thursday, 2018
+
+### Missed A Day : 29th June Friday, 2018
+
+### Missed A Day : 30th June Saturday, 2018
+
+### Day 99 : 1st July Sunday, 2018
+
+**Today's Progress:** MERN Udemy Course
+
+**Thoughts:** Done with Chapter 1 of Stephen Grider's course. Kinda realised that I probably haven't been paying attention when I was going through the course the first time as there's some concepts explained that I didn't take note of :(
+
+Well, now I know!
+
 **Link to work:**
