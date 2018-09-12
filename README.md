@@ -15,16 +15,16 @@
 
 ### Objectives of Round 2
 
-1.  To expose myself to VR, React and the technologies around React.
+1.  To solidify my knowledge in JS and front-end technologies
 
-2.  To create at least _5_ full-fledged, quality personal projects
+2.  To create at least _3_ full-fledged, quality personal projects
 
 3.  To be more consistent, and have lesser Missed Days in Round 1
 
-### Day 1: 6th July Friday, 2018
+### Day 1: 12th September Wednesday, 2018
 
-**Today's Progress:** React Redux course
+**Today's Progress:** Linux Course
 
-**Thoughts:** Covered Actions and Reducers part of the course today. Gained a better idea about the code used (connect, dispatch etc) but still can't fully understand it. I wonder how many I need to practise before I fully grasp the concepts.
+**Thoughts:** Started back on my Round 2 by going through a Linux Udemy course. Even though i'm primarily using Linux for coding but there's so much idk about this OS, when it allows for so much possibilities in terms of configuration. Gonna be an interesting journey ;)
 
 **Link to work:**
