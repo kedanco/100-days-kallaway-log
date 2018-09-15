@@ -28,3 +28,21 @@
 **Thoughts:** Started back on my Round 2 by going through a Linux Udemy course. Even though i'm primarily using Linux for coding but there's so much idk about this OS, when it allows for so much possibilities in terms of configuration. Gonna be an interesting journey ;)
 
 **Link to work:**
+
+### Day 2: 13th September Thursday, 2018
+
+**Today's Progress:** Linux Course
+
+**Thoughts:** Started back on my Round 2 by going through a Linux Udemy course. Even though i'm primarily using Linux for coding but there's so much idk about this OS, when it allows for so much possibilities in terms of configuration. Gonna be an interesting journey ;)
+
+**Link to work:**
+
+### Missed A Day : 14th September Friday, 2018
+
+### Day 3: 15th September Saturday, 2018
+
+**Today's Progress:** Personal Savings Calculator
+
+**Thoughts:** Came up with a new layout for a company's site I'm helping out with, specifically just the savings calculator component. Working with previous CSS is hard especially when there's so many inline styles >< bad idea but I still went ahead and added some inside, because I'm unfamiliar w the CSS structure and didn't want to change anything. Managed to code out the layout I want, thank God for Inspector tools.
+
+**Link to work:**
