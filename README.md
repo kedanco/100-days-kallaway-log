@@ -46,3 +46,11 @@
 **Thoughts:** Came up with a new layout for a company's site I'm helping out with, specifically just the savings calculator component. Working with previous CSS is hard especially when there's so many inline styles >< bad idea but I still went ahead and added some inside, because I'm unfamiliar w the CSS structure and didn't want to change anything. Managed to code out the layout I want, thank God for Inspector tools.
 
 **Link to work:**
+
+### Day 4: 16th September Sunday, 2018
+
+**Today's Progress:** Linux Course, React Node course
+
+**Thoughts:** Couldn't take too much dry lecture on Linux in 1 day so I started on another React Node course to trigger my memories on whatever I've learned on React before. Also great to learn some Node. Wonder if I should do something more vanilla JS before learning about all these frameworks again.
+
+**Link to work:**
