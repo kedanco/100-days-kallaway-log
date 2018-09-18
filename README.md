@@ -54,3 +54,19 @@
 **Thoughts:** Couldn't take too much dry lecture on Linux in 1 day so I started on another React Node course to trigger my memories on whatever I've learned on React before. Also great to learn some Node. Wonder if I should do something more vanilla JS before learning about all these frameworks again.
 
 **Link to work:**
+
+### Day 5: 17th September Monday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Continued and learned more about setting up Express app, linked it to Heroku. Spent a shitload of time configuring and installing ohmyzsh and listening to explanation lectures, hope I'm reaching the code intensive part soon.
+
+**Link to work:**
+
+### Day 6: 18th September Tuesday, 2018
+
+**Today's Progress:** React Node course & Calculator
+
+**Thoughts:** Set-up passportJS w google OAuth, Setup mongoose w mLab, refactored code and although there was little coding done, there was a lot of explanation throughout the videos and that at least made me understand the things we were doing.
+
+**Link to work:**
