@@ -70,3 +70,19 @@
 **Thoughts:** Set-up passportJS w google OAuth, Setup mongoose w mLab, refactored code and although there was little coding done, there was a lot of explanation throughout the videos and that at least made me understand the things we were doing.
 
 **Link to work:**
+
+### Day 7: 19th September Wednesday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Done w/ Authentication part of the course! Length explanations but good reminder of the 'proper' way to do things, what to take note of etc. Also worked on a existing wordpress site for a client - almost done!
+
+**Link to work:**
+
+### Day 8: 20th September Thursday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Done with the Dev vs Prod section, learned a little more in detail about the 2 environments and how to prepare for them when committing a project somewhere, or dealing with API Keys and URI's. Started on React part of the course! After much time spent on the back-end set-up, it's finally time to start on the front-end!
+
+**Link to work:**
