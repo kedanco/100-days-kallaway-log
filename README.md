@@ -86,3 +86,21 @@
 **Thoughts:** Done with the Dev vs Prod section, learned a little more in detail about the 2 environments and how to prepare for them when committing a project somewhere, or dealing with API Keys and URI's. Started on React part of the course! After much time spent on the back-end set-up, it's finally time to start on the front-end!
 
 **Link to work:**
+
+### Missed A Day : 21st September Friday, 2018
+
+### Day 9: 22nd September Saturday, 2018
+
+**Today's Progress:** Markdown and Commandline course
+
+**Thoughts:** Realised that I didn't go through 2 of Wes Bos's courses touching on the basics of Markdown and Commandline. Managed to learn a bit more tips and tricks to make my workflow more efficient!
+
+**Link to work:**
+
+### Day 10: 23rd September Sunday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Started on the front-end part of the course, but when the videos began on explanations on reducers and how the whole React and Redux ecosystem works together, suddenly I'm confused again. Need to find a way to understand + remember the essence of it before moving on.
+
+**Link to work:**
