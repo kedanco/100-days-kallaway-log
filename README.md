@@ -104,3 +104,11 @@
 **Thoughts:** Started on the front-end part of the course, but when the videos began on explanations on reducers and how the whole React and Redux ecosystem works together, suddenly I'm confused again. Need to find a way to understand + remember the essence of it before moving on.
 
 **Link to work:**
+
+### Day 11: 24th September Monday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Made quite a bit of progress today, but can't understand Redux fully. I think when I look at the code and trace where it goes systematically, I get a better understanding compared to listening to explanations. The best check is to be able to write the code from scratch yourself and understand what each code is for, but I'm not there yet!
+
+**Link to work:**
