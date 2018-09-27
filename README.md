@@ -112,3 +112,21 @@
 **Thoughts:** Made quite a bit of progress today, but can't understand Redux fully. I think when I look at the code and trace where it goes systematically, I get a better understanding compared to listening to explanations. The best check is to be able to write the code from scratch yourself and understand what each code is for, but I'm not there yet!
 
 **Link to work:**
+
+### Missed A Day : 25th September Tuesday, 2018
+
+### Day 12: 26th September Wednesday, 2018
+
+**Today's Progress:** CS50, React Node course
+
+**Thoughts:** Started on CS50 lectures! Also completed the client side components and routing for the React Node application, gonna be touching on payments next.
+
+**Link to work:**
+
+### Day 13: 27th September Thursday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Started on the next section working on client's billing with the Stripe Checkout API, configured the keys and now starting to add it into the header.
+
+**Link to work:**
