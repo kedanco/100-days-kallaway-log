@@ -130,3 +130,13 @@
 **Thoughts:** Started on the next section working on client's billing with the Stripe Checkout API, configured the keys and now starting to add it into the header.
 
 **Link to work:**
+
+### Missed A Day : 26th September Friday, 2018
+
+### Day 14: 28th September Saturday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Completed billing part of application by setting up middleware, and ensuring that credit addition process works correctly. Very technical explanations but still wish there was a simplified version for me to understand what goes where.
+
+**Link to work:**
