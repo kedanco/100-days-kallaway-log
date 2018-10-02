@@ -131,12 +131,36 @@
 
 **Link to work:**
 
-### Missed A Day : 26th September Friday, 2018
+### Missed A Day : 28th September Friday, 2018
 
-### Day 14: 28th September Saturday, 2018
+### Day 14: 29th September Saturday, 2018
 
 **Today's Progress:** React Node course
 
 **Thoughts:** Completed billing part of application by setting up middleware, and ensuring that credit addition process works correctly. Very technical explanations but still wish there was a simplified version for me to understand what goes where.
+
+**Link to work:**
+
+### Day 15: 30th September Sunday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Started documenting my freecodecamp learning points, and re-organised some of my notes. There's so much CSS stuff to take note that notes become really important, something to solidify my learning by writing down, and something to look back on.
+
+**Link to work:**
+
+### Day 16: 1st October Monday, 2018
+
+**Today's Progress:** Codewars
+
+**Thoughts:** Worked on some JS codewars today, other than doing basic FCC challenges, think codewars exercises is one of the best way to test your knowledge and understanding of the language. As usual, the one-liner answers after always put me to shock...
+
+**Link to work:**
+
+### Day 17: 2nd October Tuesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Completed the Accessibility section of FCC today, skipped the Flexbox and Grid areas and moved on to ES6! Gained a better understanding of the changes, makes me more confident to use it now.
 
 **Link to work:**
