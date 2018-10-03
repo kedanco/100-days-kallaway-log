@@ -164,3 +164,11 @@
 **Thoughts:** Completed the Accessibility section of FCC today, skipped the Flexbox and Grid areas and moved on to ES6! Gained a better understanding of the changes, makes me more confident to use it now.
 
 **Link to work:**
+
+### Day 18: 3rd October Wednesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Completed ES6 section of Freecodecamp! feels good to document the learning points down, something I can refer to someday. Spent majority of my other time wrapping up a Wordpress project for a client, glad to finally complete one!
+
+**Link to work:**
