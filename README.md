@@ -172,3 +172,31 @@
 **Thoughts:** Completed ES6 section of Freecodecamp! feels good to document the learning points down, something I can refer to someday. Spent majority of my other time wrapping up a Wordpress project for a client, glad to finally complete one!
 
 **Link to work:**
+
+### Day 19: 4th October Thursday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Halfway through Regex portion of Freecodecamp! Loving this habit of taking notes.. Maybe coming up with my own cheatsheet one-day will help a lot as a summary too.
+
+**Link to work:**
+
+### Missed A Day : 5th October Friday, 2018
+
+### Missed A Day : 6th October Saturday, 2018
+
+### Day 20: 7th October Sunday, 2018
+
+**Today's Progress:** React Node course, Freecodecamp
+
+**Thoughts:** Completed learning a small section on deployment for the React Node course, and got started on the Mongoose, survey creation part. Completed Regex section of Freecodecamp!
+
+**Link to work:**
+
+### Day 21: 8th October Monday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Continued with survey creation part of React Node course, momentum's really bringing me to finish the course soon. Looking forward to completing this final product and maybe adding some of my own features.
+
+**Link to work:**
