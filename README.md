@@ -200,3 +200,47 @@
 **Thoughts:** Continued with survey creation part of React Node course, momentum's really bringing me to finish the course soon. Looking forward to completing this final product and maybe adding some of my own features.
 
 **Link to work:**
+
+### Day 22: 9th October Tuesday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Added the Mailer class and configured it into the React Node application! With the diagrams and explanation, it was really easier to understand the steps. Gotta keep going.
+
+**Link to work:**
+
+### Day 23: 10th October Wednesday, 2018
+
+**Today's Progress:** React Node course
+
+**Thoughts:** Couldn't solve the issue with mailing the survey into my email, all the code seems right but it just doesn't work. Probably some connectivity issue between client and server, not very productive day.
+
+**Link to work:**
+
+### Missed A Day : 11th October Thursday, 2018
+
+### Missed A Day : 12th October Friday, 2018
+
+### Day 24: 13th October Saturday, 2018
+
+**Today's Progress:** Vue JS Meetup
+
+**Thoughts:** Went for a VueJS meetup today! Quite awesome to be learning it finally, definitely easier to start writing the first few lines of code compared to React. But, things get complicated when you start to add in the methods or start passing props around.
+
+**Link to work:**
+
+### Day 25: 14th October Sunday, 2018
+
+**Today's Progress:** React Tutorial, Freecodecamp
+
+**Thoughts:** Still couldn't solve the React Node connectivity issue. Did some freecodecamp, and moved on to the Tutorial on React's side. I figured if I felt messy with the current tutorial might as well do the default one.
+
+**Link to work:**
+
+### Day 26: 15th October Monday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Completed another feature of the React page tutorial's tictactoe game. Played around with it and added my own restart button to display when the game is won. Understood it a bit better when I played around with it.
+
+**Link to work:**
