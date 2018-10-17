@@ -53,7 +53,7 @@
 
 **Thoughts:** Couldn't take too much dry lecture on Linux in 1 day so I started on another React Node course to trigger my memories on whatever I've learned on React before. Also great to learn some Node. Wonder if I should do something more vanilla JS before learning about all these frameworks again.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 5: 17th September Monday, 2018
 
@@ -61,7 +61,7 @@
 
 **Thoughts:** Continued and learned more about setting up Express app, linked it to Heroku. Spent a shitload of time configuring and installing ohmyzsh and listening to explanation lectures, hope I'm reaching the code intensive part soon.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 6: 18th September Tuesday, 2018
 
@@ -69,7 +69,7 @@
 
 **Thoughts:** Set-up passportJS w google OAuth, Setup mongoose w mLab, refactored code and although there was little coding done, there was a lot of explanation throughout the videos and that at least made me understand the things we were doing.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 7: 19th September Wednesday, 2018
 
@@ -77,7 +77,7 @@
 
 **Thoughts:** Done w/ Authentication part of the course! Length explanations but good reminder of the 'proper' way to do things, what to take note of etc. Also worked on a existing wordpress site for a client - almost done!
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 8: 20th September Thursday, 2018
 
@@ -85,7 +85,7 @@
 
 **Thoughts:** Done with the Dev vs Prod section, learned a little more in detail about the 2 environments and how to prepare for them when committing a project somewhere, or dealing with API Keys and URI's. Started on React part of the course! After much time spent on the back-end set-up, it's finally time to start on the front-end!
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Missed A Day : 21st September Friday, 2018
 
@@ -103,7 +103,7 @@
 
 **Thoughts:** Started on the front-end part of the course, but when the videos began on explanations on reducers and how the whole React and Redux ecosystem works together, suddenly I'm confused again. Need to find a way to understand + remember the essence of it before moving on.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 11: 24th September Monday, 2018
 
@@ -111,7 +111,7 @@
 
 **Thoughts:** Made quite a bit of progress today, but can't understand Redux fully. I think when I look at the code and trace where it goes systematically, I get a better understanding compared to listening to explanations. The best check is to be able to write the code from scratch yourself and understand what each code is for, but I'm not there yet!
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Missed A Day : 25th September Tuesday, 2018
 
@@ -121,7 +121,7 @@
 
 **Thoughts:** Started on CS50 lectures! Also completed the client side components and routing for the React Node application, gonna be touching on payments next.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 13: 27th September Thursday, 2018
 
@@ -129,7 +129,7 @@
 
 **Thoughts:** Started on the next section working on client's billing with the Stripe Checkout API, configured the keys and now starting to add it into the header.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Missed A Day : 28th September Friday, 2018
 
@@ -191,7 +191,7 @@
 
 **Thoughts:** Completed learning a small section on deployment for the React Node course, and got started on the Mongoose, survey creation part. Completed Regex section of Freecodecamp!
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 21: 8th October Monday, 2018
 
@@ -199,7 +199,7 @@
 
 **Thoughts:** Continued with survey creation part of React Node course, momentum's really bringing me to finish the course soon. Looking forward to completing this final product and maybe adding some of my own features.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 22: 9th October Tuesday, 2018
 
@@ -207,7 +207,7 @@
 
 **Thoughts:** Added the Mailer class and configured it into the React Node application! With the diagrams and explanation, it was really easier to understand the steps. Gotta keep going.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Day 23: 10th October Wednesday, 2018
 
@@ -215,7 +215,7 @@
 
 **Thoughts:** Couldn't solve the issue with mailing the survey into my email, all the code seems right but it just doesn't work. Probably some connectivity issue between client and server, not very productive day.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/fullstack-reactnode
 
 ### Missed A Day : 11th October Thursday, 2018
 
@@ -235,7 +235,7 @@
 
 **Thoughts:** Still couldn't solve the React Node connectivity issue. Did some freecodecamp, and moved on to the Tutorial on React's side. I figured if I felt messy with the current tutorial might as well do the default one.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/react-tictactoe
 
 ### Day 26: 15th October Monday, 2018
 
@@ -243,4 +243,20 @@
 
 **Thoughts:** Completed another feature of the React page tutorial's tictactoe game. Played around with it and added my own restart button to display when the game is won. Understood it a bit better when I played around with it.
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 27: 16th October Tuesday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Continued with TicTacToe Game! Implemented the Restart button on my own, and added the guided move history feature from the tutorial. Gonna continue to add more features into this game!
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 28: 17th October Wednesday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Feelings accomplished today! Cleared 4 more features off my React TicTacToe Game :)
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
