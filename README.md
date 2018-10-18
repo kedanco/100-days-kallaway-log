@@ -260,3 +260,11 @@
 **Thoughts:** Feelings accomplished today! Cleared 4 more features off my React TicTacToe Game :)
 
 **Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 29: 18th October Thursday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Added confetti and victory fanfare music to the app! Started with improving the aesthetics.
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
