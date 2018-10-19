@@ -268,3 +268,11 @@
 **Thoughts:** Added confetti and victory fanfare music to the app! Started with improving the aesthetics.
 
 **Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 30: 19th October Friday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Solved an issue with the confetti when restarting the game. Took very long with this bug, and finally learned how ComponentDidUpdate works. Still kinda blur about how diff functions get re-arranged around but it's better now. Another unsolved bug with the 'Next Player' status display, have a feeling it's also got to do with setState callbacks.
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
