@@ -276,3 +276,31 @@
 **Thoughts:** Solved an issue with the confetti when restarting the game. Took very long with this bug, and finally learned how ComponentDidUpdate works. Still kinda blur about how diff functions get re-arranged around but it's better now. Another unsolved bug with the 'Next Player' status display, have a feeling it's also got to do with setState callbacks.
 
 **Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Missed A Day : 20th October Saturday, 2018
+
+### Day 31: 21st October Sunday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Solved the previous bug. Could have binded diff functions to `this` but just shifted the setState code into React's lifecycle methods for it to make more sense. Also done with the aesthetics improvement!
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Missed A Day : 22nd October Monday, 2018
+
+### Day 32: 23rd October Tuesday, 2018
+
+**Today's Progress:** React Tutorial
+
+**Thoughts:** Able to Setup a form for switching around the Player icons! Though it works, the player can change the Letter/Icon at any point throughout the game and that inserts a 3rd letter into the board. Need to work on restricting that change to before the game starts.
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 33: 24th October Wednesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Continued with Data structures portion of Freecodecamp! Went through objects and arrays syntax and methods, good revision.
+
+**Link to work:**
