@@ -255,7 +255,7 @@
 
 ### Day 28: 17th October Wednesday, 2018
 
-**Today's Progress:** React Tutorial
+**Today's Progress:** TicTacToe Game
 
 **Thoughts:** Feelings accomplished today! Cleared 4 more features off my React TicTacToe Game :)
 
@@ -263,7 +263,7 @@
 
 ### Day 29: 18th October Thursday, 2018
 
-**Today's Progress:** React Tutorial
+**Today's Progress:** TicTacToe Game
 
 **Thoughts:** Added confetti and victory fanfare music to the app! Started with improving the aesthetics.
 
@@ -271,7 +271,7 @@
 
 ### Day 30: 19th October Friday, 2018
 
-**Today's Progress:** React Tutorial
+**Today's Progress:** TicTacToe Game
 
 **Thoughts:** Solved an issue with the confetti when restarting the game. Took very long with this bug, and finally learned how ComponentDidUpdate works. Still kinda blur about how diff functions get re-arranged around but it's better now. Another unsolved bug with the 'Next Player' status display, have a feeling it's also got to do with setState callbacks.
 
@@ -281,7 +281,7 @@
 
 ### Day 31: 21st October Sunday, 2018
 
-**Today's Progress:** React Tutorial
+**Today's Progress:** TicTacToe Game
 
 **Thoughts:** Solved the previous bug. Could have binded diff functions to `this` but just shifted the setState code into React's lifecycle methods for it to make more sense. Also done with the aesthetics improvement!
 
@@ -291,7 +291,7 @@
 
 ### Day 32: 23rd October Tuesday, 2018
 
-**Today's Progress:** React Tutorial
+**Today's Progress:** TicTacToe Game
 
 **Thoughts:** Able to Setup a form for switching around the Player icons! Though it works, the player can change the Letter/Icon at any point throughout the game and that inserts a 3rd letter into the board. Need to work on restricting that change to before the game starts.
 
@@ -302,5 +302,31 @@
 **Today's Progress:** Freecodecamp
 
 **Thoughts:** Continued with Data structures portion of Freecodecamp! Went through objects and arrays syntax and methods, good revision.
+
+**Link to work:**
+
+### Day 34: 25th October Thursday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Started on Object-Oriented Programming part of Freecodecamp :) Halfway through, but glad that it touched on `prototype` as I have always wondered why it always appears when dealing with objects.
+
+**Link to work:**
+
+### Day 35: 26th October Friday, 2018
+
+**Today's Progress:** TicTacToe Game
+
+**Thoughts:** Manage to complete check off 4 items off my feature list! Really motivated to push through and finish this soon. This constant practise has been great building up a momentum to stay familiar with the code and continue improving the app!
+
+**Link to work:**
+
+### Missed A Day : 27th October Saturday, 2018
+
+### Day 36: 28th October Sunday, 2018
+
+**Today's Progress:** Freecodecamp, TicTacToe Game
+
+**Thoughts:** Done with OOP section of Freecodecamp! Some old stuff, some new stuff, but always something that amazed me with JS. Only left with the Functional Programming section and I'm done with this certificate! Also took time to finish the CSS Grid section since I'm using it for the TicTacToe Game. For the game, I managed to display the ranking board, and fix a bug where status won't reset properly after Player2 wins. Also revised the requirements for the app. Gonna use localStorage to store the ranks, and also plan to refactor my code to be more React-like. Haven't been making use of Components to separate the code and now everything is just one big chunk inside index.js
 
 **Link to work:**
