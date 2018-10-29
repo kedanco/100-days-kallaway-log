@@ -330,3 +330,11 @@
 **Thoughts:** Done with OOP section of Freecodecamp! Some old stuff, some new stuff, but always something that amazed me with JS. Only left with the Functional Programming section and I'm done with this certificate! Also took time to finish the CSS Grid section since I'm using it for the TicTacToe Game. For the game, I managed to display the ranking board, and fix a bug where status won't reset properly after Player2 wins. Also revised the requirements for the app. Gonna use localStorage to store the ranks, and also plan to refactor my code to be more React-like. Haven't been making use of Components to separate the code and now everything is just one big chunk inside index.js
 
 **Link to work:**
+
+### Day 37: 29th October Monday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Spent most of the day rushing my Wordpress wireframes, but managed to squeeze in time to complete of the Responsive web projects : A Survey form! Had some trouble aligning radio buttons/checkboxes with their labels, but all's good with some help from `<li>`. It's been sometime since I just worked on HTML and CSS, so simple but great refresher.
+
+**Link to work:**
