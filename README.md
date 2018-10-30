@@ -338,3 +338,11 @@
 **Thoughts:** Spent most of the day rushing my Wordpress wireframes, but managed to squeeze in time to complete of the Responsive web projects : A Survey form! Had some trouble aligning radio buttons/checkboxes with their labels, but all's good with some help from `<li>`. It's been sometime since I just worked on HTML and CSS, so simple but great refresher.
 
 **Link to work:**
+
+### Day 38: 30th October Tuesday, 2018
+
+**Today's Progress:** Freecodecamp, TicTacToe
+
+**Thoughts:** Wanted to continue with the next FCC project, a landing page, but it required flexbox, so I'm gonna learn that and do the project together another time. Done setting up ranking board for TicTacToe, Allowed player to edit their name (so that they can save their score under their name), and added a button to reset the rankings.
+
+**Link to work:**
