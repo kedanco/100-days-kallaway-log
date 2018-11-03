@@ -319,7 +319,7 @@
 
 **Thoughts:** Manage to complete check off 4 items off my feature list! Really motivated to push through and finish this soon. This constant practise has been great building up a momentum to stay familiar with the code and continue improving the app!
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/react-tictactoe
 
 ### Missed A Day : 27th October Saturday, 2018
 
@@ -329,7 +329,7 @@
 
 **Thoughts:** Done with OOP section of Freecodecamp! Some old stuff, some new stuff, but always something that amazed me with JS. Only left with the Functional Programming section and I'm done with this certificate! Also took time to finish the CSS Grid section since I'm using it for the TicTacToe Game. For the game, I managed to display the ranking board, and fix a bug where status won't reset properly after Player2 wins. Also revised the requirements for the app. Gonna use localStorage to store the ranks, and also plan to refactor my code to be more React-like. Haven't been making use of Components to separate the code and now everything is just one big chunk inside index.js
 
-**Link to work:**
+**Link to work:** https://github.com/kedanco/react-tictactoe
 
 ### Day 37: 29th October Monday, 2018
 
@@ -345,4 +345,24 @@
 
 **Thoughts:** Wanted to continue with the next FCC project, a landing page, but it required flexbox, so I'm gonna learn that and do the project together another time. Done setting up ranking board for TicTacToe, Allowed player to edit their name (so that they can save their score under their name), and added a button to reset the rankings.
 
+**Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 39: 31st October Wednesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Continued with Freecodecamp, completed the Flexbox section and worked on the landing page.
+
 **Link to work:**
+
+### Missed A Day : 1st November Thursday, 2018
+
+### Missed A Day : 2nd November Friday, 2018
+
+### Day 40: 3rd November Saturday, 2018
+
+**Today's Progress:** TicTacToe
+
+**Thoughts:** Added the last feature into the game, which is a button to reset the icons to default. Pretty simple since I've gotten used to using componentDidUpdate to change state and re-render changes.
+
+**Link to work:** https://github.com/kedanco/react-tictactoe
