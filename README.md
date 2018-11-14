@@ -366,3 +366,50 @@
 **Thoughts:** Added the last feature into the game, which is a button to reset the icons to default. Pretty simple since I've gotten used to using componentDidUpdate to change state and re-render changes.
 
 **Link to work:** https://github.com/kedanco/react-tictactoe
+
+### Day 41: 4th November Sunday, 2018
+
+**Today's Progress:** Cudy Platform
+
+**Thoughts:** After shifting a lot of code around, finally managed to solve the responsiveness issue. Settling CSS took longer than figuring out the logic error. This is what happens when there is no proper structure in place when adding CSS. Flexbox exists but not utilised, inline-styling all over and different conventions and naming patterns floating around.
+
+**Link to work:**
+
+### Day 42: 5th November Monday, 2018
+
+**Today's Progress:** TicTacToe
+
+**Thoughts:** Completed my TicTacToe game!!! Refactoring the render functions into Components wasn't that difficult once I understood how state and props worked. Finally felt like I have gained a good level of understanding of how React works so far. Think there's still a number of things that I need to learn but this was a good milestone. Took a lot of hours and days to really work on this consistently.
+
+**Link to work:**
+
+### Day 43: 6th November Tuesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Took some time to do up my Landing Page properly! Learned another way to use an image for a section's background, learned that I'm more used to CSS Grid than Flexbox (don't like how it works), and that HTML and CSS skills really need consistent sharpening no matter how good we get with other languages.
+Almost to 50days!!
+
+**Link to work:**
+
+### Missed A Day : 7th November Wednesday, 2018
+
+### Missed A Day : 8th November Thursday, 2018
+
+### Missed A Day : 9th November Friday, 2018
+
+### Missed A Day : 10th November Saturday, 2018
+
+### Missed A Day : 11th November Sunday, 2018
+
+### Missed A Day : 12th November Monday, 2018
+
+### Missed A Day : 13th November Tuesday, 2018
+
+### Day 44: 14th November Wednesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Halfway through functional programming section of FCC. Being absent for a week after finishing my TicTacToe project wasn't a very good move. Very tempted to start on another project but think I should finish up these front 2 sections of FCC first!
+
+**Link to work:**
