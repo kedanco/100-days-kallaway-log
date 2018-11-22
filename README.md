@@ -413,3 +413,43 @@ Almost to 50days!!
 **Thoughts:** Halfway through functional programming section of FCC. Being absent for a week after finishing my TicTacToe project wasn't a very good move. Very tempted to start on another project but think I should finish up these front 2 sections of FCC first!
 
 **Link to work:**
+
+### Day 45: 15th November Thursday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Finished the functional programming section!
+
+**Link to work:**
+
+### Missed A Day : 16th November Friday, 2018
+
+### Missed A Day : 17th November Saturday, 2018
+
+### Missed A Day : 18th November Sunday, 2018
+
+### Missed A Day : 19th November Monday, 2018
+
+### Day 46: 20th November Tuesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Completed the last Responsive project - a technical documentation page. Now I'm officially done with the first 2 certificates! Moving on to the Front End Libraries, completed the Sass segment today. Sass is so useful, but the thing that makes it hard to use is how you're required to add the source files in.
+
+**Link to work:**
+
+### Day 47: 21st November Wednesday, 2018
+
+**Today's Progress:** Freecodecamp
+
+**Thoughts:** Started on the React part of FCC Today! Also tried finishing up some Udemy courses but wasn't very productive.
+
+**Link to work:**
+
+### Day 48: 22nd November Thursday, 2018
+
+**Today's Progress:** NodeJS Course
+
+**Thoughts:** Returned to the NodeJS Udemy course today. Since I'm pretty aimless with my programming recently, shall aim to finish this course for now, and then maybe I shall start my next project with it.
+
+**Link to work:**
