@@ -453,3 +453,21 @@ Almost to 50days!!
 **Thoughts:** Returned to the NodeJS Udemy course today. Since I'm pretty aimless with my programming recently, shall aim to finish this course for now, and then maybe I shall start my next project with it.
 
 **Link to work:**
+
+### Day 49: 23rd November Friday, 2018
+
+**Today's Progress:** NodeJS Course
+
+**Thoughts:** Continued with the NodeJS course. Explanations are so in-depth but I'm just very excited to start coding something out of it!
+
+**Link to work:**
+
+### Day 50: 24th November Saturday, 2018
+
+**Today's Progress:** NodeAPI Course
+
+**Thoughts:** Got quite dry on the NodeJS course, so started on a front-end masters Node API course that focuses on setting up back-end API w node. Quite interesting w some basic exercises.
+
+Finally at Day 50! Though I can't finish this round by this year end judging by my progress.
+
+**Link to work:**
