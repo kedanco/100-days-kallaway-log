@@ -471,3 +471,13 @@ Almost to 50days!!
 Finally at Day 50! Though I can't finish this round by this year end judging by my progress.
 
 **Link to work:**
+
+### Missed A Day : 25th November Sunday, 2018
+
+### Day 51: 26th November Monday, 2018
+
+**Today's Progress:** NodeAPI Course, Node-Firebase chat app
+
+**Thoughts:** Continued with a number of tutorials into the NodeAPI course, reaching the testing stuff now. Also completed a short tutorial to build a node-firebase chat app, so happy to get it working when I faced some issues with firebase!
+
+**Link to work:**
