@@ -481,3 +481,11 @@ Finally at Day 50! Though I can't finish this round by this year end judging by 
 **Thoughts:** Continued with a number of tutorials into the NodeAPI course, reaching the testing stuff now. Also completed a short tutorial to build a node-firebase chat app, so happy to get it working when I faced some issues with firebase!
 
 **Link to work:**
+
+### Day 52: 27th November Tuesday, 2018
+
+**Today's Progress:** NodeAPI Course
+
+**Thoughts:** More than halfway through NodeAPI course. Done with testing, organizational structure and touched on Mongo, Mongoose.
+
+**Link to work:**
