@@ -489,3 +489,51 @@ Finally at Day 50! Though I can't finish this round by this year end judging by 
 **Thoughts:** More than halfway through NodeAPI course. Done with testing, organizational structure and touched on Mongo, Mongoose.
 
 **Link to work:**
+
+### Day 53: 28th November Wednesday, 2018
+
+**Today's Progress:** CrowdCluster
+
+**Thoughts:** Went back to revise Ruby and touch up the CrowdCluster app. Thinking of changing the filters and modifying some of the existing functionality, and maybe adding in some additional data as well (cafes, bars, landmarks etc.)
+
+**Link to work:**
+
+### Missed A Day : 29th November Thursday, 2018
+
+### Missed A Day : 30th November Friday, 2018
+
+### Day 54: 1st December Saturday, 2018
+
+**Today's Progress:** FreeCodeCamp
+
+**Thoughts:** Started with the React section of FCC! Feels good to have a recap after the previous React courses, still feels like React is such a complicated thing to be put on FCC. Still thankful to them for adding it in though, just wonder if there any simpler process to learn React.
+
+**Link to work:**
+
+### Missed A Day : 2nd December Sunday, 2018
+
+### Day 55: 3rd December Monday, 2018
+
+**Today's Progress:** FreeCodeCamp, NodeAPI Course
+
+**Thoughts:** Completed the React & Redux section of FCC! Also continued with NodeAPI course, almost finishing it! Things are getting quite complicated when we deal with Auth and stuff, and i'm finding it hard to follow-up :/
+
+**Link to work:**
+
+### Day 56: 4th December Tuesday, 2018
+
+**Today's Progress:** CS50
+
+**Thoughts:** Went back to CS50! Covered 2 lectures, gonna give myself until end of this month to finish the videos.
+
+**Link to work:**
+
+### Day 57: 5th December Wednesday, 2018
+
+**Today's Progress:** NodeAPI Course, React Random Quote Machine
+
+**Thoughts:** Done with NodeAPI course! Gotta find a project to implement all of it by myself again, cuz following the course just doesn't cut it... And some of the later lessons (auth, middleware) start to get a little bit more complicated. Still, learned a lot about Node in this course and I'm glad I finished it!
+
+Also re-did the Random Quote Machine in React. Pretty simple!
+
+**Link to work:**
