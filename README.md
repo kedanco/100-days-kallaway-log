@@ -537,3 +537,19 @@ Finally at Day 50! Though I can't finish this round by this year end judging by 
 Also re-did the Random Quote Machine in React. Pretty simple!
 
 **Link to work:**
+
+### Day 58: 6th December Thursday, 2018
+
+**Today's Progress:** Markdown Previewer
+
+**Thoughts:** Completed FCC's Markdown previewer project. Didn't really understand how to use the marked.js library, wasted some time figuring out how to render the markdown text
+
+**Link to work:**
+
+### Day 59: 7th December Friday, 2018
+
+**Today's Progress:** Advanced Web Dev Bootcamp, cross-road Game
+
+**Thoughts:** Started on the Advanced Web Dev bootcamp, and also thought of applying the css transitions learned to do a cross-road kind of game where you have to avoid obstacles!
+
+**Link to work:**
