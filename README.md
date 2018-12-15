@@ -553,3 +553,23 @@ Also re-did the Random Quote Machine in React. Pretty simple!
 **Thoughts:** Started on the Advanced Web Dev bootcamp, and also thought of applying the css transitions learned to do a cross-road kind of game where you have to avoid obstacles!
 
 **Link to work:**
+
+### Day 60: 8th December Saturday, 2018
+
+**Today's Progress:** Cross-road Game
+
+**Thoughts:** Set-up random functions for multiple values of the obstacles which serve as enemies. One issue I faced was being unable to find any way to connect JS variables to the values used in CSS Keyframes. Guess the animations would have to stick to set values.
+
+**Link to work:**
+
+### Missed 5 Days : 9th December Sunday, 2018 to 14th December Friday, 2018
+
+### Day 61: 15th December Saturday, 2018
+
+**Today's Progress:** Node.JS
+
+**Thoughts:** Went back to Node.JS today. After a week of not coding, I really need to put in the time to get my mind back on the right track. Multi-tasking several aspects of front-end really ain't easy.
+
+Learned about Web Sockets today! Such an interesting and useful thing to exist in the web.
+
+**Link to work:**
