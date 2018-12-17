@@ -573,3 +573,19 @@ Also re-did the Random Quote Machine in React. Pretty simple!
 Learned about Web Sockets today! Such an interesting and useful thing to exist in the web.
 
 **Link to work:**
+
+### Day 62: 16th December Sunday, 2018
+
+**Today's Progress:** Node.JS, Tetris
+
+**Thoughts:** Continued with Web Sockets lesson! Also started with a Tetris Game tutorial in JS. Maybe I'll add on new features like what I did with the Tic Tac Toe game!
+
+**Link to work:**
+
+### Day 63: 17th December Monday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Didn't have much time today. Continued with the tetris game, halfway through the video! Everything is vanilla JS with functions controlling the game mechanics, but with a big number of rotations, borders, collision checking and moving of player and arena positions, the code looks kinda messy.
+
+**Link to work:**
