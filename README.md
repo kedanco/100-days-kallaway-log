@@ -589,3 +589,19 @@ Learned about Web Sockets today! Such an interesting and useful thing to exist i
 **Thoughts:** Didn't have much time today. Continued with the tetris game, halfway through the video! Everything is vanilla JS with functions controlling the game mechanics, but with a big number of rotations, borders, collision checking and moving of player and arena positions, the code looks kinda messy.
 
 **Link to work:**
+
+### Day 64: 18th December Tuesday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Finished the tutorial, and started working on additional features for the game. Added a main menu screen to pick difficulty before starting the game, re-organised the code.
+
+**Link to work:**
+
+### Day 65: 19th December Wednesday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Added Music to the game! Also completed the following features: Game and Music pause, controls display. Excited to start on this Random Mode feature if the player chooses Hard difficulty - whereby a number of fun things can happen... definitely a challenge to code it though!
+
+**Link to work:**
