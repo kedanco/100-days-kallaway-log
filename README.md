@@ -605,3 +605,19 @@ Learned about Web Sockets today! Such an interesting and useful thing to exist i
 **Thoughts:** Added Music to the game! Also completed the following features: Game and Music pause, controls display. Excited to start on this Random Mode feature if the player chooses Hard difficulty - whereby a number of fun things can happen... definitely a challenge to code it though!
 
 **Link to work:**
+
+### Day 66: 20th December Thursday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Added Time Elapsed to the game! Fixed multiple bugs while getting it to work, definitely was not easy dealing with Date Time values so just used a simple variable as counter instead.
+
+**Link to work:**
+
+### Day 67: 21st December Friday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Fixed Time Elapsed, and added a Row Sweeper Power-up to the game! Faced an issue where I couldn't append an Image element, think it's some error with referencing created elements.
+
+**Link to work:**
