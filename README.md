@@ -621,3 +621,25 @@ Learned about Web Sockets today! Such an interesting and useful thing to exist i
 **Thoughts:** Fixed Time Elapsed, and added a Row Sweeper Power-up to the game! Faced an issue where I couldn't append an Image element, think it's some error with referencing created elements.
 
 **Link to work:**
+
+### Day 68: 22nd December Saturday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Worked on adding a gameover screen, but still facing an issue toggling visible/hidden on the HTML elements. It'll be easier if I used React for this though.
+
+**Link to work:**
+
+### Missed A Day : 23rd December Sunday, 2018
+
+### Missed A Day : 24th December Monday, 2018
+
+### Day 69: 25th December Tuesday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp, Freecodecamp
+
+**Thoughts:** Merry Christmas! 2 CSS portions of the AdvDev Bootcamp, covered transitions and keyframe animations. Next up is Flexbox, don't really like it but I hope I learn something new.
+
+Tried to continue with FCC React-Redux section but it's really difficult after some time of not touching it. Maybe it's time to spring up another React project :)?
+
+**Link to work:**
