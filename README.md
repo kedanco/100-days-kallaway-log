@@ -643,3 +643,11 @@ Learned about Web Sockets today! Such an interesting and useful thing to exist i
 Tried to continue with FCC React-Redux section but it's really difficult after some time of not touching it. Maybe it's time to spring up another React project :)?
 
 **Link to work:**
+
+### Day 70: 26th December Wednesday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp, Tetris
+
+**Thoughts:** Happy Boxing Day! Half-done with AdvBeg Bootcamp Flexbox section, and was kinda productive on my Tetris game. Solved so many bugs, and the mainmenu,pause,restart mechanics of the game finally work completely fine. I realise that a lot of the bugs came from putting `addEventListeners` inside functions that could have been called multiple times.. Proper planning of how these functions are organised would've have fixed a lot of issues.
+
+**Link to work:**
