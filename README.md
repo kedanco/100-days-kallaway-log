@@ -651,3 +651,19 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 **Thoughts:** Happy Boxing Day! Half-done with AdvBeg Bootcamp Flexbox section, and was kinda productive on my Tetris game. Solved so many bugs, and the mainmenu,pause,restart mechanics of the game finally work completely fine. I realise that a lot of the bugs came from putting `addEventListeners` inside functions that could have been called multiple times.. Proper planning of how these functions are organised would've have fixed a lot of issues.
 
 **Link to work:**
+
+### Day 71: 27th December Thursday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Started changing how the layout was organised with Grid, so that the game would at least be responsive.
+
+**Link to work:**
+
+### Day 72: 28th December Friday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp
+
+**Thoughts:** Completed Flexbox section of AdvDev Bootcamp, only today did I realise how many sub-topics exist in the course. So much things to cover! Still more used to Grid than Flexbox...
+
+**Link to work:**
