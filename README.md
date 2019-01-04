@@ -667,3 +667,29 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 **Thoughts:** Completed Flexbox section of AdvDev Bootcamp, only today did I realise how many sub-topics exist in the course. So much things to cover! Still more used to Grid than Flexbox...
 
 **Link to work:**
+
+### Missed A Day : 29th December Saturday, 2018
+
+### Missed A Day : 30th December Sunday, 2018
+
+### Missed A Day : 31st December Monday, 2018
+
+### Missed A Day : 1st January Tuesday, 2018
+
+### Missed A Day : 2nd January Wednesday, 2018
+
+### Day 73: 3rd January Thursday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp
+
+**Thoughts:** Continued with Async JS Section of AdvDev Bootcamp!
+
+**Link to work:**
+
+### Day 74: 4th January Friday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp
+
+**Thoughts:** Finished AsyncJS Section of AdvDev Bootcamp, continued to AJAX section.
+
+**Link to work:**
