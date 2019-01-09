@@ -693,3 +693,32 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 **Thoughts:** Finished AsyncJS Section of AdvDev Bootcamp, continued to AJAX section.
 
 **Link to work:**
+
+### Day 75: 5th January Saturday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp
+
+**Thoughts:** Started with AJAX and Fetch section
+
+**Link to work:**
+
+### Day 76: 6th January Sunday, 2018
+
+**Today's Progress:** Advanced Developer Bootcamp
+
+**Thoughts:** Completed AJAX and Fetch Section of the bootcamp.
+
+**Link to work:**
+
+### Missed A Day : 7th January Monday, 2018
+
+### Missed A Day : 8th January Tuesday, 2018
+
+### Day 77: 9th January Wednesday, 2018
+
+**Today's Progress:** FreeCodeCamp
+
+**Thoughts:** Completed the React-Redux section of FCC, and I'm now done with the Front-End Section! Since this section was more difficult, it really felt like forever to go through.
+Next up is gonna be front-end projects! Gonna revise my React with these and hopefully get better at it.
+
+**Link to work:**
