@@ -722,3 +722,65 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 Next up is gonna be front-end projects! Gonna revise my React with these and hopefully get better at it.
 
 **Link to work:**
+
+### Missed A Day : 10th January Thursday, 2018
+
+### Missed A Day : 11th January Friday, 2018
+
+### Missed A Day : 12th January Saturday, 2018
+
+### Day 78: 13th January Sunday, 2018
+
+**Today's Progress:** Docker video
+
+**Thoughts:** Didn't code much today, learned about Docker and finally understood what it was for and how it worked from a big picture view. Shall add it to my list of things to learn!
+
+**Link to work:**
+
+### Day 79: 14th January Monday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Started with 'random mode' of the Tetris game. Finally got it to pick from random game modes over a set interval of time, but facing an error with the interval.
+
+**Link to work:**
+
+### Missed A Day : 15th January Tuesday, 2018
+
+### Day 80: 16th January Wednesday, 2018
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Started with 'random mode' of the Tetris game. Finally got it to pick from random game modes over a set interval of time, but facing an error with the interval.
+
+**Link to work:**
+
+### Missed A Day : 17th January Thursday, 2018
+
+### Missed A Day : 18th January Friday, 2018
+
+### Missed A Day : 19th January Saturday, 2018
+
+### Missed A Day : 20th January Sunday, 2018
+
+### Missed A Day : 21st January Monday, 2018
+
+### Missed A Day : 22nd January Tuesday, 2018
+
+### Day 81: 23rd January Wednesday, 2018
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Revised the basics of jQuery and AJAX, creating simple XHR requests.
+
+**Link to work:**
+
+### Day 82: 24th January Thursday, 2018
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Finished the jQuery and Axios section! Great exercise at the end that needed to create 4 types of request with the same API. Now I understand the differences better.
+
+Halfway through Testing w Jasmine section. Testing really makes me doze off everytime I go through it...glad to know that different testing frameworks are really not that different from each other.
+
+**Link to work:**
