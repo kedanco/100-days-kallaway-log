@@ -674,11 +674,11 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 
 ### Missed A Day : 31st December Monday, 2018
 
-### Missed A Day : 1st January Tuesday, 2018
+### Missed A Day : 1st January Tuesday, 2019
 
-### Missed A Day : 2nd January Wednesday, 2018
+### Missed A Day : 2nd January Wednesday, 2019
 
-### Day 73: 3rd January Thursday, 2018
+### Day 73: 3rd January Thursday, 2019
 
 **Today's Progress:** Advanced Developer Bootcamp
 
@@ -686,7 +686,7 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 
 **Link to work:**
 
-### Day 74: 4th January Friday, 2018
+### Day 74: 4th January Friday, 2019
 
 **Today's Progress:** Advanced Developer Bootcamp
 
@@ -694,7 +694,7 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 
 **Link to work:**
 
-### Day 75: 5th January Saturday, 2018
+### Day 75: 5th January Saturday, 2019
 
 **Today's Progress:** Advanced Developer Bootcamp
 
@@ -702,7 +702,7 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 
 **Link to work:**
 
-### Day 76: 6th January Sunday, 2018
+### Day 76: 6th January Sunday, 2019
 
 **Today's Progress:** Advanced Developer Bootcamp
 
@@ -710,11 +710,11 @@ Tried to continue with FCC React-Redux section but it's really difficult after s
 
 **Link to work:**
 
-### Missed A Day : 7th January Monday, 2018
+### Missed A Day : 7th January Monday, 2019
 
-### Missed A Day : 8th January Tuesday, 2018
+### Missed A Day : 8th January Tuesday, 2019
 
-### Day 77: 9th January Wednesday, 2018
+### Day 77: 9th January Wednesday, 2019
 
 **Today's Progress:** FreeCodeCamp
 
@@ -723,13 +723,13 @@ Next up is gonna be front-end projects! Gonna revise my React with these and hop
 
 **Link to work:**
 
-### Missed A Day : 10th January Thursday, 2018
+### Missed A Day : 10th January Thursday, 2019
 
-### Missed A Day : 11th January Friday, 2018
+### Missed A Day : 11th January Friday, 2019
 
-### Missed A Day : 12th January Saturday, 2018
+### Missed A Day : 12th January Saturday, 2019
 
-### Day 78: 13th January Sunday, 2018
+### Day 78: 13th January Sunday, 2019
 
 **Today's Progress:** Docker video
 
@@ -737,7 +737,7 @@ Next up is gonna be front-end projects! Gonna revise my React with these and hop
 
 **Link to work:**
 
-### Day 79: 14th January Monday, 2018
+### Day 79: 14th January Monday, 2019
 
 **Today's Progress:** Tetris
 
@@ -745,9 +745,9 @@ Next up is gonna be front-end projects! Gonna revise my React with these and hop
 
 **Link to work:**
 
-### Missed A Day : 15th January Tuesday, 2018
+### Missed A Day : 15th January Tuesday, 2019
 
-### Day 80: 16th January Wednesday, 2018
+### Day 80: 16th January Wednesday, 2019
 
 **Today's Progress:** Tetris
 
@@ -755,19 +755,19 @@ Next up is gonna be front-end projects! Gonna revise my React with these and hop
 
 **Link to work:**
 
-### Missed A Day : 17th January Thursday, 2018
+### Missed A Day : 17th January Thursday, 2019
 
-### Missed A Day : 18th January Friday, 2018
+### Missed A Day : 18th January Friday, 2019
 
-### Missed A Day : 19th January Saturday, 2018
+### Missed A Day : 19th January Saturday, 2019
 
-### Missed A Day : 20th January Sunday, 2018
+### Missed A Day : 20th January Sunday, 2019
 
-### Missed A Day : 21st January Monday, 2018
+### Missed A Day : 21st January Monday, 2019
 
-### Missed A Day : 22nd January Tuesday, 2018
+### Missed A Day : 22nd January Tuesday, 2019
 
-### Day 81: 23rd January Wednesday, 2018
+### Day 81: 23rd January Wednesday, 2019
 
 **Today's Progress:** Adv Dev Bootcamp
 
@@ -775,12 +775,28 @@ Next up is gonna be front-end projects! Gonna revise my React with these and hop
 
 **Link to work:**
 
-### Day 82: 24th January Thursday, 2018
+### Day 82: 24th January Thursday, 2019
 
 **Today's Progress:** Adv Dev Bootcamp
 
 **Thoughts:** Finished the jQuery and Axios section! Great exercise at the end that needed to create 4 types of request with the same API. Now I understand the differences better.
 
 Halfway through Testing w Jasmine section. Testing really makes me doze off everytime I go through it...glad to know that different testing frameworks are really not that different from each other.
+
+**Link to work:**
+
+### Day 83: 25th January Friday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Finished Testing w Jasmin section! Love this section as it made testing very simple and easy to understand. Used to have this impression that testing was a very LARGE, DRY and DIFFICULT part of coding. Just need some time to think about what you want to test, how you wish to test it, and reorganise the code accordingly.
+
+**Link to work:**
+
+### Day 84: 26th January Saturday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Completed Advanced Arrays section of the bootcamp! Quite a dry section but nonetheless useful to revise what I've learned about these ES6 functions from Wes Bos ES6 course. Learned that the multiple parameters to the functions (value, index, array) are actually optional parameters! So far have not used these but finally understood what those are for, didn't understand it previously when I read the documentation.
 
 **Link to work:**
