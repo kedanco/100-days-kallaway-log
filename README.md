@@ -800,3 +800,27 @@ Halfway through Testing w Jasmine section. Testing really makes me doze off ever
 **Thoughts:** Completed Advanced Arrays section of the bootcamp! Quite a dry section but nonetheless useful to revise what I've learned about these ES6 functions from Wes Bos ES6 course. Learned that the multiple parameters to the functions (value, index, array) are actually optional parameters! So far have not used these but finally understood what those are for, didn't understand it previously when I read the documentation.
 
 **Link to work:**
+
+### Day 85: 27th January Sunday, 2019
+
+**Today's Progress:** FCC Drum Machine
+
+**Thoughts:** Took 1 long session to finish the Drum Machine. Took longer than I expected, with references to HTML elements, React fundamentals and syntax from my previous apps, but it went well!
+
+Some things I learned/re-learned:
+
+- Flexbox still the easiest for vertical + horizontal centering
+- Audio volume goes from 0(mute) - 1(loudest)
+- data-\* attributes (strings) on HTML elements can be freely defined. dashed values like (data-name-tag) are converted to camelCase when you access through code. You can access through getAttribute(fullname) or using element.dataset.name
+- If you encounter audio.play is not a function, you probably selected the wrong element and your `audio` is not an audio element.
+- Getting code to work on codepen is still a dick sometimes.
+
+**Link to work:** https://codepen.io/kedanco/pen/pGyZop
+
+### Day 86: 28th January Monday, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
