@@ -819,8 +819,8 @@ Some things I learned/re-learned:
 
 ### Day 86: 28th January Monday, 2019
 
-**Today's Progress:**
+**Today's Progress:** Adv Dev Bootcamp, React RPG Game
 
-**Thoughts:**
+**Thoughts:** Continued with Closures and `this` section of Adv Dev Bootcamp. Never an easy topic to understand. Also started following this tutorial to make a 2D RPG Game in React. It got fun when we started dealing with using the Sprite and Sprite movements.
 
 **Link to work:**
