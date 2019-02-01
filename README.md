@@ -824,3 +824,33 @@ Some things I learned/re-learned:
 **Thoughts:** Continued with Closures and `this` section of Adv Dev Bootcamp. Never an easy topic to understand. Also started following this tutorial to make a 2D RPG Game in React. It got fun when we started dealing with using the Sprite and Sprite movements.
 
 **Link to work:**
+
+### Day 87: 29th January Tuesday, 2019
+
+**Today's Progress:** API Project
+
+**Thoughts:** Tried implementing the collaboration project with SALTx by using Web Components instead of React. Was planning to render multiple instances of the same template, so might as well right? But it isn't as easy as it seems.
+
+**Link to work:**
+
+### Missed A Day : 30th January Wednesday, 2019
+
+### Day 88: 31st January Thursday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Finished the rest of Closures and `this` keyword section of the Adv Dev Bootcamp. Have no idea what I'm doing w the challenges of `call` `bind` and `apply`. Need to revisit this section again for further revision.
+
+**Link to work:**
+
+### Day 89: 1st February Friday, 2019
+
+**Today's Progress:** API Project, Dungeon Crawler
+
+**Thoughts:** Doing the API Project reminded me of my basics. Used a loop to append HTML, with string interpolated JS values of the fetched content. No Web Component/React needed to render multiple instances of Div blocks!
+
+Dungeon Crawler tutorial got me confused over bug solving. Missed some code in the video and had to scroll front and back to find out what I missed. Happy with the progress so far, was able to understand the reasons for implementing `connect` for `mapStateToProps` and other processes.
+
+One day I'll be able to do it myself, without following a tutorial.
+
+**Link to work:**
