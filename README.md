@@ -854,3 +854,116 @@ Dungeon Crawler tutorial got me confused over bug solving. Missed some code in t
 One day I'll be able to do it myself, without following a tutorial.
 
 **Link to work:**
+
+### Day 90: 2nd February Saturday, 2019
+
+**Today's Progress:** Dungeon Crawler, Adv Dev Bootcamp
+
+**Thoughts:** Completed Dungeon Crawler tutorial! Quite amazing to see the game work, other than the tiles being rendered slightly off. But I guess, it's no choice if were're dealing with 2D sprites and a matrix.
+
+Completed the OOP Section of Adv Dev Bootcamp! Not as confusing as closures and `this` but still challenging when dealing with prototypes.
+
+**Link to work:**
+
+### Missed A Day : 3rd February Sunday, 2019
+
+### Day 91: 4th February Monday, 2019
+
+**Today's Progress:** Dungeon Crawler, Adv Dev Bootcamp
+
+**Thoughts:** Completed Dungeon Crawler tutorial! Quite amazing to see the game work, other than the tiles being rendered slightly off. But I guess, it's no choice if were're dealing with 2D sprites and a matrix.
+
+Completed the OOP Section of Adv Dev Bootcamp! Not as confusing as closures and `this` but still challenging when dealing with prototypes.
+
+**Link to work:**
+
+### Missed A Day : 5th February Tuesday, 2019
+
+### Missed A Day : 6th February Wednesday, 2019
+
+### Day 92: 7th February Thursday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Following the node-express-mongo section of this course seems all too familiar. Faced an UnhandledPromiseRejection problem yet again, and I don't know how to solve it. Shall stop here for today.
+
+**Link to work:**
+
+### Day 93: 8th February Friday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Done with setting up the back-end of our full-stack project! npm install to create a new project, create a new express app and connected it with mongo database. Stopped at jQuery section.
+
+**Link to work:**
+
+### Missed A Day : 9th February Saturday, 2019
+
+### Day 94: 10th February Sunday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Completed todos app section! Dealing with the delete function of the app game me a big issue. It wasn't CORS, it wasn't a typo, the URL was correct, but the DELETE request just returned a 404 error. At least everything else works.
+
+**Link to work:**
+
+### Missed A Day : 11th February Monday, 2019
+
+### Missed A Day : 12th February Tuesday, 2019
+
+### Missed A Day : 13th February Wednesday, 2019
+
+### Day 95: 14th February Thursday, 2019
+
+**Today's Progress:** CS50, Adv Dev Bootcamp
+
+**Thoughts:** Went through 4th lesson of CS50 covering Data Structures. A 2hour lecture still feels content-heavy despite the clear and detailed explanations and examples given, but I think I won't be able to remember everything if I don't implement it. Looking forward to the web-related topics!
+
+Almost finished with Part 1 of ES2015. Have used most of these before so it serves as a recap. Most impressive one I haven't used was passing an entire destructured object as a function argument. Pretty neat.
+
+**Link to work:**
+
+### Missed A Day : 15th February Friday, 2019
+
+### Day 96: 16th February Saturday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp, Tetris
+
+**Thoughts:** Completed the entire ES2015 section of the bootcamp. People weren't kidding when they said ES2015 provided a bulk of upgrades for the JS language.
+
+Spent some time continuing my Tetris game. Dealing with setInterval, setTimeout in the same function and having to pause/continue it ain't easy at all.
+
+Finally can continue on to make the random modes happen!
+
+**Link to work:**
+
+### Day 97: 17th February Sunday, 2019
+
+**Today's Progress:** Tetris, CS50
+
+**Thoughts:** After trying to solve some bugs and learn more about my Tetris app, here are some extra JS stuff I learned today.
+
+- having a `name:` before a block or loop is called a `label`. It can be used to 'label' the loop/block for `continue` or `break` statements.
+- `val | 0` format of code makes use of JS's type coersion that happens when you compare double/decimal values to an integer.
+- You can try to trace the `caller` of a callback by using `methodName.caller`
+- With vanillaJS you can't include a JS file in another JS file..either use a html file (script tag), framework or lib to handle module importing, or dump the code into 1 file.
+
+Also finished 5th Lecture of CS50 covering the basics of HTTP, HTML and CSS. Basic content but great to have a very simplified explanation and summary of everything.
+
+**Link to work:**
+
+### Day 98: 18th February Monday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Completed ES2016/ES2017 Section of Adv Dev Bootcamp! More new things that I haven't even seen before. This is eye-opening. Think I'll have a lot of revision and application to do before I can remember the new things well and use it regularly.
+
+**Link to work:**
+
+### Day 99: 19th February Tuesday, 2019
+
+**Today's Progress:**
+
+**Thoughts:**
+
+**Link to work:**
