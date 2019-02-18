@@ -869,11 +869,9 @@ Completed the OOP Section of Adv Dev Bootcamp! Not as confusing as closures and 
 
 ### Day 91: 4th February Monday, 2019
 
-**Today's Progress:** Dungeon Crawler, Adv Dev Bootcamp
+**Today's Progress:** Adv Dev Bootcamp
 
-**Thoughts:** Completed Dungeon Crawler tutorial! Quite amazing to see the game work, other than the tiles being rendered slightly off. But I guess, it's no choice if were're dealing with 2D sprites and a matrix.
-
-Completed the OOP Section of Adv Dev Bootcamp! Not as confusing as closures and `this` but still challenging when dealing with prototypes.
+**Thoughts:** Started with the node-express-mongo section. Familiar topic, but great refresher.
 
 **Link to work:**
 
@@ -954,9 +952,17 @@ Also finished 5th Lecture of CS50 covering the basics of HTTP, HTML and CSS. Bas
 
 ### Day 98: 18th February Monday, 2019
 
-**Today's Progress:** Adv Dev Bootcamp
+**Today's Progress:** Adv Dev Bootcamp, Tetris
 
 **Thoughts:** Completed ES2016/ES2017 Section of Adv Dev Bootcamp! More new things that I haven't even seen before. This is eye-opening. Think I'll have a lot of revision and application to do before I can remember the new things well and use it regularly.
+
+Today while dealing with Tetris, I learned that:
+
+- It is immensely hard to try 'pausing' things. Should have used a game-related library for this.
+- You can listen to start/ends of both transitions and animations, and they are different!
+- It is also tricky to coordinate fillRect and strokeRect
+
+Bug solving took like 3-4 hours. But at least I'm getting more familiar with the game. Can't wait to complete it.
 
 **Link to work:**
 
