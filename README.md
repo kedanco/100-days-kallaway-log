@@ -1,6 +1,6 @@
 # 100 Days Of Code (Round 2) - Log
 
-### Tech/Projects from Round 1
+## Tech/Projects from Round 1
 
 - Rails revision, backend for E-Commerce portal
 - Wes Bos JS30
@@ -15,11 +15,11 @@
 
 ### Objectives of Round 2
 
-1.  To solidify my knowledge in JS and front-end technologies
+1. To solidify my knowledge in JS and front-end technologies
 
-2.  To create at least _3_ full-fledged, quality personal projects
+2. To create at least _3_ full-fledged, quality personal projects
 
-3.  To be more consistent, and have lesser Missed Days in Round 1
+3. To be more consistent, and have lesser Missed Days in Round 1
 
 ### Day 1: 12th September Wednesday, 2018
 
@@ -966,10 +966,53 @@ Bug solving took like 3-4 hours. But at least I'm getting more familiar with the
 
 **Link to work:**
 
-### Day 99: 19th February Tuesday, 2019
+### Missed A Day : 19th February Tuesday, 2019
 
-**Today's Progress:**
+### Missed A Day : 20th February Wednesday, 2019
 
-**Thoughts:**
+### Day 99: 21st February Thursday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Covered D3.js! The enter and exit methods, along with the various event and dom handling methods are quite interesting. Feels like a mini-jquery under the hood plus having the power to handle data.
+
+Still can't understand how it works fully, need more practise.
+
+Haven't created anything visual! Hope to do it soon.
 
 **Link to work:**
+
+### Missed A Day : 22nd February Friday, 2019
+
+## Day 100: 23rd February Saturday, 2019
+
+**Today's Progress:** React Infinite Scroll Unsplash
+
+**Thoughts:** Followed this tutorial and did up an Infinite Scroll webpage that loads unsplash images using their API. It became pretty easy to understand using the React Infinite Scroll Component. Glad that I could still understand what was going on with my previous knowledge in React and Node. Time to stop going through so many tutorials and maybe build stuff on my own!
+
+**Link to work:**
+
+## Summary
+
+- TicTacToe Game
+- React Node Course
+- Node API Course
+- FreeCodeCamp Sections + Projects
+- React 2D RPG Game
+- Advanced Web Developer Bootcamp (on-going)
+- Tetris Game (on-going)
+- CS50 Lectures (on-going)
+
+### Objectives Review
+
+1. To solidify my knowledge in JS and front-end technologies (MET)
+
+2. To create at least _3_ full-fledged, quality personal projects (NOT MET)
+
+3. To be more consistent, and have lesser Missed Days in Round 1 (MET)
+
+2/3 Objectives Completed. My Tetris and TicTacToe are the 2 projects I'm more proud of, and Tetris ain't done yet. I did complete a number of FCC React projects but I don't like them as much, and they're not personal projects. Maybe this is a sign to code and create more instead of learning from tutorials/courses!
+
+#### Total Missed Days: 59
+
+Alright, almost 1/3 lesser from Round 1, but the New Year, Chinese New Year, and intense work periods really got to me. That said, I'm happy that I stuck to whatever I wanted to learn this round and actually improved on it.
