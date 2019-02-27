@@ -29,8 +29,26 @@
 
 ### Day 2: 25th February Monday, 2019
 
-**Today's Progress:**
+**Today's Progress:** CS50, Adv Dev Bootcamp
 
-**Thoughts:**
+**Thoughts:** Finished lesson 7 of CS50, covering Web Programming. Combining JS and python to create a web app with basic routes and validation serves as a easier,simpler version of a mern stack.
+
+**Link to work:**
+
+### Day 3: 26th February Tuesday, 2019
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Added Danger animation into my Tetris! Not the nicest yet, still have things to improve on.
+
+**Link to work:**
+
+### Day 4: 27th February Wednesday, 2019
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Fixed the Danger and bonus animations! So happy to have these 2 animations working, finally feel the game being more interactive.
+
+Added main menu and restart buttons to Pause Overlay but can't get it to work properly yet.
 
 **Link to work:**
