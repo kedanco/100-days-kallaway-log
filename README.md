@@ -52,3 +52,39 @@
 Added main menu and restart buttons to Pause Overlay but can't get it to work properly yet.
 
 **Link to work:**
+
+### Day 5: 28th February Thursday, 2019
+
+**Today's Progress:** CS50
+
+**Thoughts:** Continued with Lesson 8 of CS50, covering SQL! Good refresher for the Poly days. Back then everything was varchar(255) but now I understand the different data types better.
+
+**Link to work:**
+
+### Day 6: 1st March Friday, 2019
+
+**Today's Progress:** Finished CS50!
+
+**Thoughts:** The last video of CS50 wrapped up with a quick revision across the topics, and also important was the assurance about how:
+
+- You're not supposed to understand and remember everything, no one is capable of that
+- You'll find that the more you learn, the more you won't understand
+- Basics and understanding of programming and computational thinking will be constantly helpful despite the language you go into
+
+All in all, the course was very informative in the essential concepts a software engineer should have! Shall start on another CS resource after I'm done with my current projects!
+
+**Link to work:**
+
+### Day 7: 2nd March Saturday, 2019
+
+**Today's Progress:** Flappy Bird, BookTracker App
+
+**Thoughts:** Followed CodingTeacher tutorial on FlappyBird and finally got this game up! Much things to add on, like a score and maybe add some challenges too? Though it seems kinda difficult to do.
+
+Started on my personal BookTracker app. Kinda challenging to NOT look at any tutorial videos and try setting up a MERN Stack myself. Having multiple ways to structure your files has made me kinda confused, but I guess as I do more projects I'll start to understand when to use certain ways.
+
+Learning Points:
+
+- Not advisable to size/style canvas with CSS! Results in inaccurate sizes.
+
+**Link to work:**
