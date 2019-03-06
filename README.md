@@ -13,7 +13,7 @@
 
 ### Objectives of Round 3
 
-1. To explore, build and create variations of MERN Stack apps.
+1. To explore, build and create 3 variations of MERN Stack apps.
 
 2. To create at least _5_ full-fledged, quality personal projects
 
@@ -86,5 +86,35 @@ Started on my personal BookTracker app. Kinda challenging to NOT look at any tut
 Learning Points:
 
 - Not advisable to size/style canvas with CSS! Results in inaccurate sizes.
+
+**Link to work:**
+
+### Day 8: 3rd March Sunday, 2019
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Spent some time solving git errors. Reverted from a complicated design and just removed the restart and main menu buttons from pause.
+
+**Link to work:**
+
+### Missed A Day: 4th March Monday, 2019
+
+### Day 9: 5th March Tuesday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Attempted to continue with dev bootcamp but still can't understand SVG and D3 section. Maybe I should pause this for awhile and try out FCC's curriculum on this.
+
+**Link to work:**
+
+### Day 10: 6th March Wednesday, 2019
+
+**Today's Progress:** Tetris
+
+**Thoughts:** Completed the 2 remaining features in my Tetris project - displaying the next upcoming tetris block, and also updating and displaying user's high scores.
+
+It's been a long time and I'm finally completing this game! Not everything is perfect but I'm proud of what I've done. The most important thing is I've come up with my own ideas, and implemented them myself, without following a tutorial.
+
+That said, no major libraries and frameworks were used, and I wonder what kind of vanillajS project I'll work on next time.
 
 **Link to work:**
