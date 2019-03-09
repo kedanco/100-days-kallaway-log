@@ -118,3 +118,25 @@ It's been a long time and I'm finally completing this game! Not everything is pe
 That said, no major libraries and frameworks were used, and I wonder what kind of vanillajS project I'll work on next time.
 
 **Link to work:**
+
+### Day 11: 7th March Thursday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Setup the backend of the new BookTracker app, finally proud of this Mongo-Express-Node backend that I created with some referencing.
+
+Can't wait to start on the front-end and get a working skeleton out of this app!
+
+**Link to work:**
+
+### Missed A Day: 8th March Friday, 2019
+
+### Day 12: 9th March Saturday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Spent a lot of time figuring out the structure when adding react. Spent another load of time figuring out why my component wasn't re-rendering. Wasn't a problem with setState or Arrow functions but maybe how nesting components within each other kinda screwed that up.
+
+Still, glad I connected the backend API with the front-end React! First time connecting a MERN app without following a video tutorial.
+
+**Link to work:**
