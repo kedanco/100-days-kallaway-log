@@ -140,3 +140,27 @@ Can't wait to start on the front-end and get a working skeleton out of this app!
 Still, glad I connected the backend API with the front-end React! First time connecting a MERN app without following a video tutorial.
 
 **Link to work:**
+
+### Day 13: 10th March Sunday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Spent too much time configuring a default HTML5 Form, so I searched around and added in Metro4 Form with some basic CSS. Tag-adding wasn't very friendly but everything else saved me a chunk of time.
+
+**Link to work:**
+
+### Day 14: 11th March Monday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Tried to solve an issue where I couldn't create and save the book. Adjusted routes and settings etc, but made little progress.
+
+**Link to work:**
+
+### Day 15: 12th March Tuesday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Thought everything was a proxy problem when it was just a logic issue with checking for duplicates.
+
+**Link to work:**
