@@ -164,3 +164,19 @@ Still, glad I connected the backend API with the front-end React! First time con
 **Thoughts:** Thought everything was a proxy problem when it was just a logic issue with checking for duplicates.
 
 **Link to work:**
+
+### Day 16: 13th March Wednesday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Today was a breakthrough. What started out as a (assumed) proxy issue was actually inaccurate displaying of information from `fetch` callbacks. There were multiple keys to solving these issues, and the keys involve knowing:
+
+- That `return`ing a value does not actually wait for the value to be calculated, it returns a premature value if a previous async function is not completed.
+- We have 2 `.then()` in a fetch request because
+  - The first request serves as a header, getting network resource and resolves to `Response` once done
+  - The second request which takes the `Response Stream` and resolves it to a `json object` once done.
+- And the last one, that we'll face weird errors trying to `json()` the hell out of the response `Body` (See MDN docs) when the backend request isn't even returning a JSON object to begin with!
+
+Also got more used to async/await and try/catch syntax compared to chaining `.then()`. Working on understand error-handling with Express and async/await.
+
+**Link to work:**
