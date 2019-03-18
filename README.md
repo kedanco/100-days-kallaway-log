@@ -15,7 +15,13 @@
 
 1. To explore, build and create 3 variations of MERN Stack apps.
 
+   1. BookTracker
+
 2. To create at least _5_ full-fledged, quality personal projects
+
+   1. Tetris
+   2. Tic Tac Toe
+   3. BookTracker
 
 3. To follow lesser guides and tutorials, and spend more time creating my own projects.
 
@@ -178,5 +184,47 @@ Still, glad I connected the backend API with the front-end React! First time con
 - And the last one, that we'll face weird errors trying to `json()` the hell out of the response `Body` (See MDN docs) when the backend request isn't even returning a JSON object to begin with!
 
 Also got more used to async/await and try/catch syntax compared to chaining `.then()`. Working on understand error-handling with Express and async/await.
+
+**Link to work:**
+
+### Day 17: 14th March Thursday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Edited the routes, and spiced up the html and css of the page with Grid and Flexbox. Also added wishlist into the display
+
+**Link to work:**
+
+### Day 18: 15th March Friday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Followed a tutorial adding my UserModel in along with JWT for login validation. Makes me wonder why I didn't add this first as Books needed to depend on User. (Book belongs to User)
+
+**Link to work:**
+
+### Day 19: 16th March Saturday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Continued with Intermediate D3 and SVG. Intermediate level is not kidding at all, because I can't keep up with the method chaining, flipping sides, scaling of data etc.
+
+I'll probably have to return to this section again once this course is done, or find a better-paced tutorial on this.
+
+**Link to work:**
+
+### Day 20: 17th March Sunday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Continued with adding PassportJS into app for User Model addition and validation. Also edited Book Model to reference Users, and had to remove the existing records in the database. Faced an error I could not solve -> having an error adding a new User. Can't seem to add a new entry using Postman, which was what the tutorial did..
+
+**Link to work:**
+
+### Day 21: 18th March Monday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Tried continuing with Histogram today. So many chaining methods that I can't remember what's for what, and had to really follow previous examples' code in order to figure out what to do. Still can't get a working example by myself yet, shall resign to following the tutorial to get through this section.
 
 **Link to work:**
