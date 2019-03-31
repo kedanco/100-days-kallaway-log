@@ -228,3 +228,61 @@ I'll probably have to return to this section again once this course is done, or 
 **Thoughts:** Tried continuing with Histogram today. So many chaining methods that I can't remember what's for what, and had to really follow previous examples' code in order to figure out what to do. Still can't get a working example by myself yet, shall resign to following the tutorial to get through this section.
 
 **Link to work:**
+
+### Missed A Day: 19th March Tuesday, 2019
+
+### Missed A Day: 20th March Wednesday, 2019
+
+### Missed A Day: 21st March Thursday, 2019
+
+### Missed A Day: 22nd March Friday, 2019
+
+### Missed A Day: 23rd March Saturday, 2019
+
+### Missed A Day: 24th March Sunday, 2019
+
+### Day 22: 25th March Monday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Skipped the remaining of D3js and went into introduction videos for React. Since I already understood most of the stuff, I just forwarded until just before props.
+
+Tried moving forward with user side of BookTracker app but no progress.
+
+**Link to work:**
+
+### Day 23: 26th March Tuesday, 2019
+
+**Today's Progress:** Adv Dev Bootcamp
+
+**Thoughts:** Continued with the props section of React in Adv Dev Bootcamp. Still pretty basic React code but I got reminded about using `defaultProps` which serves as good error prevention.
+
+**Link to work:**
+
+### Missed A Day: 27th March Wednesday, 2019
+
+### Missed A Day: 28th March Thursday, 2019
+
+### Day 24: 29th March Friday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Removed the user authentication part of the code. Was spending too much time on it and errors just keep coming. Edited BookItem CSS.
+
+**Link to work:**
+
+### Day 25: 30th March Saturday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** Started on Update function, replicated add book form to be used for editing form!
+
+**Link to work:**
+
+### Day 26: 31st March Sunday, 2019
+
+**Today's Progress:** BookTracker
+
+**Thoughts:** With the update function done, CRUD is now completed! Moving on to the next to-do!
+
+**Link to work:**
